@@ -1,0 +1,9 @@
+.breadcrumb__link::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 12px;
+	height: 24px;
+	background: url(/lds/h/v/Yt8Dce_OF5-fscApr2T5i_g5fI.png) no-repeat right top;
+}
