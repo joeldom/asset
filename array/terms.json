@@ -2,19 +2,58 @@
   "terms": [
     {
       "id": 1,
-      "term": "the",
-      "definition": "denoting one or more people or things already mentioned or assumed to be common knowledge."
+      "term": "apple",
+      "definition": "a fruit with a red or green skin and a whitish interior."
     },
-    { "id": 2, "term": "be", "definition": "exist." },
+    {
+      "id": 2,
+      "term": "banana",
+      "definition": "a long curved fruit that grows in clusters and has soft pulpy flesh and yellow skin when ripe."
+    },
     {
       "id": 3,
-      "term": "to",
-      "definition": "expressing motion in the direction of (a particular location)."
+      "term": "cat",
+      "definition": "a small domesticated carnivorous mammal."
+    },
+    {
+      "id": 4,
+      "term": "dog",
+      "definition": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice."
+    },
+    {
+      "id": 5,
+      "term": "elephant",
+      "definition": "a heavy plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears."
+    },
+    {
+      "id": 6,
+      "term": "fish",
+      "definition": "a limbless cold-blooded vertebrate animal with gills and fins living wholly in water."
+    },
+    {
+      "id": 7,
+      "term": "giraffe",
+      "definition": "a large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines."
+    },
+    {
+      "id": 8,
+      "term": "honey",
+      "definition": "a sweet yellowish or brownish fluid produced by various bees from the nectar of flowers."
+    },
+    {
+      "id": 9,
+      "term": "ice cream",
+      "definition": "a sweet frozen food typically eaten as a snack or dessert."
+    },
+    {
+      "id": 10,
+      "term": "jazz",
+      "definition": "a type of music of black American origin characterized by improvisation, syncopation, and usually a regular or forceful rhythm."
     },
     {
       "id": 100,
-      "term": "all",
-      "definition": "used to refer to the whole quantity or extent of a particular group or thing."
+      "term": "zeppelin",
+      "definition": "a type of rigid airship named after the German inventor Count Ferdinand von Zeppelin."
     }
   ]
 }
