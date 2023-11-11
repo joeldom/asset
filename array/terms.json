@@ -1,8 +1,20 @@
 {
   "terms": [
-    { "term": "Adjective1", "definition": "Description of the first term." },
-    { "term": "Adjective2", "definition": "Description of the second term." },
-    { "term": "Adjective3", "definition": "Description of the third term." },
-    { "term": "Adjective100", "definition": "Description of the 100th term." }
+    {
+      "id": 1,
+      "term": "the",
+      "definition": "denoting one or more people or things already mentioned or assumed to be common knowledge."
+    },
+    { "id": 2, "term": "be", "definition": "exist." },
+    {
+      "id": 3,
+      "term": "to",
+      "definition": "expressing motion in the direction of (a particular location)."
+    },
+    {
+      "id": 100,
+      "term": "all",
+      "definition": "used to refer to the whole quantity or extent of a particular group or thing."
+    }
   ]
 }
