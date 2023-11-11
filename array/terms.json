@@ -1,0 +1,9 @@
+{
+  "terms": [
+    { "term": "Adjective1", "definition": "Description of the first term." },
+    { "term": "Adjective2", "definition": "Description of the second term." },
+    { "term": "Adjective3", "definition": "Description of the third term." },
+    // ... (continue with 97 more terms)
+    { "term": "Adjective100", "definition": "Description of the 100th term." }
+  ]
+}
