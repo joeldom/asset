@@ -51,9 +51,54 @@
       "definition": "a type of music of black American origin characterized by improvisation, syncopation, and usually a regular or forceful rhythm."
     },
     {
-      "id": 100,
-      "term": "zeppelin",
-      "definition": "a type of rigid airship named after the German inventor Count Ferdinand von Zeppelin."
+      "id": 11,
+      "term": "kangaroo",
+      "definition": "a large herbivorous marsupial native to Australia."
+    },
+    {
+      "id": 12,
+      "term": "lemon",
+      "definition": "a yellow citrus fruit with an acidic taste."
+    },
+    {
+      "id": 13,
+      "term": "mountain",
+      "definition": "a large landform that rises prominently above its surroundings."
+    },
+    {
+      "id": 14,
+      "term": "notebook",
+      "definition": "a book with blank pages for writing notes."
+    },
+    {
+      "id": 15,
+      "term": "ocean",
+      "definition": "a large body of saltwater that covers most of the Earth's surface."
+    },
+    {
+      "id": 16,
+      "term": "pizza",
+      "definition": "a dish consisting of a flat, round base of dough topped with tomato sauce, cheese, and various toppings."
+    },
+    {
+      "id": 17,
+      "term": "queen",
+      "definition": "the female ruler of an independent state, especially one who inherits the position by right of birth."
+    },
+    {
+      "id": 18,
+      "term": "rocket",
+      "definition": "a cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents."
+    },
+    {
+      "id": 19,
+      "term": "sunflower",
+      "definition": "a tall North American plant of the daisy family, with very large golden-rayed flowers."
+    },
+    {
+      "id": 20,
+      "term": "tree",
+      "definition": "a woody perennial plant, typically having a single stem or trunk supporting branches and leaves."
     }
   ]
 }

@@ -1,0 +1,44 @@
+// Palette.scss
+
+//imports
+
+//$ sass --load-path F:/XAMPP/htdocs/RATIUG styles.scss
+// ref https://www.sitepoint.com/using-sass-build-color-palettes/
+// ex
+$base-palette: (
+  "base": #ff6351,
+  "colors": #cfdfe8 #bfb9c3 #cf9192 #ff6351 #bf413c #7f3128 #732c24
+) !default;
+
+$palette-diff: palette-diff($base-palette);
+/**
+ * Yields a list of 7 maps (diffs)
+
+(
+  (adjust-hue: 195.3931deg, desaturate: 64.78873%, lighten: 20.19608%),
+  (adjust-hue: 269.7931deg, desaturate: 92.30769%, lighten: 8.62745%),
+  (adjust-hue: 352.82536deg, desaturate: 60.75949%, lighten: 3.13725%),
+  (adjust-hue: 0deg, saturate: 0%, lighten: 0%),
+  (adjust-hue: 0.20532deg, desaturate: 47.80876%, darken: 16.66667%),
+  (adjust-hue: 0deg, desaturate: 47.90419%, darken: 33.13725%),
+  (adjust-hue: -0.13095deg, desaturate: 47.68212%, darken: 36.27451%)
+)
+
+ */
+
+// color diff fucntion
+@function color-diff($a, $b) {
+  $sat: saturation($a) - saturation($b);
+  $lig: lightness($a) - lightness($b);
+  $fn-sat: if($sat > 0, "desaturate", "saturate");
+  $fn-lig: if($lig > 0, "darken", "lighten");
+
+  @return (
+    adjust-hue: -
+      (
+        hue($a) - hue($b)
+      ),
+    #{$fn-sat}: abs($sat),
+    #{$fn-lig}: abs($lig)
+  );
+}
