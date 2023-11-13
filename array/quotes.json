@@ -1,0 +1,1433 @@
+[{
+        "id": 1,
+        "num": "1",
+        "quote": "Delight your audience."
+    },
+    {
+        "id": 2,
+        "num": "2",
+        "quote": "Don't make excuses."
+    },
+    {
+        "id": 3,
+        "num": "3",
+        "quote": "There is no box."
+    },
+    {
+        "id": 4,
+        "num": "4",
+        "quote": "Less is more."
+    },
+    {
+        "id": 5,
+        "num": "5",
+        "quote": "Make it responsive."
+    },
+    {
+        "id": 6,
+        "num": "6",
+        "quote": "Nothing is final."
+    },
+    {
+        "id": 7,
+        "num": "7",
+        "quote": "Use more white space."
+    },
+    {
+        "id": 8,
+        "num": "8",
+        "quote": "Stay up all night."
+    },
+    {
+        "id": 9,
+        "num": "9",
+        "quote": "Get up early."
+    },
+    {
+        "id": 10,
+        "num": "10",
+        "quote": "Sans-serif."
+    },
+    {
+        "id": 11,
+        "num": "11",
+        "quote": "Cmd+S"
+    },
+    {
+        "id": 12,
+        "num": "12",
+        "quote": "Make it asymmetrical."
+    },
+    {
+        "id": 13,
+        "num": "13",
+        "quote": "Have a reason."
+    },
+    {
+        "id": 14,
+        "num": "14",
+        "quote": "Math is easy; Design is hard."
+    },
+    {
+        "id": 15,
+        "num": "15",
+        "quote": "Don't over think it."
+    },
+    {
+        "id": 16,
+        "num": "16",
+        "quote": "Always be ready."
+    },
+    {
+        "id": 17,
+        "num": "17",
+        "quote": "Begin with the end in mind."
+    },
+    {
+        "id": 18,
+        "num": "18",
+        "quote": "Design in constraints."
+    },
+    {
+        "id": 19,
+        "num": "19",
+        "quote": "Inspiration has an expiration."
+    },
+    {
+        "id": 20,
+        "num": "20",
+        "quote": "Measure twice, cut once."
+    },
+    {
+        "id": 21,
+        "num": "21",
+        "quote": "Aim high."
+    },
+    {
+        "id": 22,
+        "num": "22",
+        "quote": "The logo is not the brand."
+    },
+    {
+        "id": 23,
+        "num": "23",
+        "quote": "You know good design when you use it."
+    },
+    {
+        "id": 24,
+        "num": "24",
+        "quote": "Know your demographic."
+    },
+    {
+        "id": 25,
+        "num": "25",
+        "quote": "Improve daily."
+    },
+    {
+        "id": 26,
+        "num": "26",
+        "quote": "Drink more coffee."
+    },
+
+    {
+        "id": 27,
+        "num": "27",
+        "quote": "Sass is more"
+    },
+    {
+        "id": 28,
+        "num": "28",
+        "quote": "Freelance ain't free."
+    },
+
+    {
+        "id": 29,
+        "num": "29",
+        "quote": "Reinvent the wheel."
+    },
+    {
+        "id": 30,
+        "num": "30",
+        "quote": "Make mistakes."
+    },
+    {
+        "id": 31,
+        "num": "31",
+        "quote": "Assume nothing."
+    },
+    {
+        "id": 32,
+        "num": "32",
+        "quote": "Learn to take advice."
+    },
+    {
+        "id": 33,
+        "num": "33",
+        "quote": "Love what you do."
+    },
+    {
+        "id": 34,
+        "num": "34",
+        "quote": "Design from your heart."
+    },
+    {
+        "id": 35,
+        "num": "35",
+        "quote": "Think different."
+    },
+    {
+        "id": 36,
+        "num": "36",
+        "quote": "Give more than you promise."
+    },
+    {
+        "id": 37,
+        "num": "37",
+        "quote": "Design is Art that's used."
+    },
+    {
+        "id": 38,
+        "num": "38",
+        "quote": "Art + Science = Design"
+    },
+    {
+        "id": 39,
+        "num": "39",
+        "quote": "Cmd+Z"
+    },
+    {
+        "id": 40,
+        "num": "40",
+        "quote": "Design to express, <br>not to impress."
+    },
+    {
+        "id": 41,
+        "num": "41",
+        "quote": "Question everything."
+    },
+    {
+        "id": 42,
+        "num": "42",
+        "quote": "Don't get comfortable."
+    },
+    {
+        "id": 43,
+        "num": "43",
+        "quote": "Let accidents happen."
+    },
+    {
+        "id": 44,
+        "num": "44",
+        "quote": "Optimize your images."
+    },
+    {
+        "id": 45,
+        "num": "45",
+        "quote": "Validate your markup."
+    },
+    {
+        "id": 46,
+        "num": "46",
+        "quote": "Design isn't just what it looks like."
+    },
+    {
+        "id": 47,
+        "num": "47",
+        "quote": "Use spellcheck."
+    },
+    {
+        "id": 48,
+        "num": "48",
+        "quote": "Have a workflow."
+    },
+    {
+        "id": 49,
+        "num": "49",
+        "quote": "Say something."
+    },
+    {
+        "id": 50,
+        "num": "50",
+        "quote": "Get it done."
+    },
+    {
+        "id": 51,
+        "num": "51",
+        "quote": "Have a plan."
+    },
+    {
+        "id": 52,
+        "num": "52",
+        "quote": "Use one space after a period."
+    },
+    {
+        "id": 53,
+        "num": "53",
+        "quote": "Promote yourself."
+    },
+    {
+        "id": 54,
+        "num": "54",
+        "quote": "Use a grid."
+    },
+    {
+        "id": 55,
+        "num": "55",
+        "quote": "Have a clear hierarchy."
+    },
+    {
+        "id": 56,
+        "num": "56",
+        "quote": "Comment your code."
+    },
+    {
+        "id": 57,
+        "num": "57",
+        "quote": "Forget the grid."
+    },
+    {
+        "id": 58,
+        "num": "58",
+        "quote": "Make your own rules."
+    },
+    {
+        "id": 59,
+        "num": "59",
+        "quote": "Rag your type."
+    },
+    {
+        "id": 60,
+        "num": "60",
+        "quote": "Give it some gusto."
+    },
+    {
+        "id": 61,
+        "num": "61",
+        "quote": "Avoid the norm."
+    },
+    {
+        "id": 62,
+        "num": "62",
+        "quote": "Create something CMD+N."
+    },
+    {
+        "id": 63,
+        "num": "63",
+        "quote": "Don't have a plan."
+    },
+    {
+        "id": 64,
+        "num": "64",
+        "quote": "Design is a lifestyle."
+    },
+    {
+        "id": 65,
+        "num": "65",
+        "quote": "Get rid of the drop shadow."
+    },
+    {
+        "id": 66,
+        "num": "66",
+        "quote": "Be concise."
+    },
+    {
+        "id": 67,
+        "num": "67",
+        "quote": "Make something that wasn’t there before."
+    },
+    {
+        "id": 68,
+        "num": "68",
+        "quote": "&lt;br&gt; the norm."
+    },
+    {
+        "id": 69,
+        "num": "69",
+        "quote": "Do it again."
+    },
+    {
+        "id": 70,
+        "num": "70",
+        "quote": "Be accountable."
+    },
+    {
+        "id": 71,
+        "num": "71",
+        "quote": "Keep calm &amp; trendy slogan."
+    },
+    {
+        "id": 72,
+        "num": "72",
+        "quote": "Give away everything you know."
+    },
+    {
+        "id": 73,
+        "num": "73",
+        "quote": "Usable does not make it beautiful."
+    },
+    {
+        "id": 74,
+        "num": "74",
+        "quote": "Use more #FFFFFF space."
+    },
+    {
+        "id": 75,
+        "num": "75",
+        "quote": "Loading..."
+    },
+    {
+        "id": 76,
+        "num": "76",
+        "quote": "ALL CAPS."
+    },
+    {
+        "id": 77,
+        "num": "77",
+        "quote": "K&nbsp;e&nbsp;r&nbsp;n."
+    },
+    {
+        "id": 78,
+        "num": "78",
+        "quote": "Design creates culture."
+    },
+    {
+        "id": 79,
+        "num": "79",
+        "quote": "Yes is more."
+    },
+    {
+        "id": 80,
+        "num": "80",
+        "quote": "Pick better clients."
+    },
+    {
+        "id": 81,
+        "num": "81",
+        "quote": "Change your routine."
+    },
+    {
+        "id": 82,
+        "num": "82",
+        "quote": "Make something."
+    },
+    {
+        "id": 83,
+        "num": "83",
+        "quote": "Design is how it works."
+    },
+    {
+        "id": 84,
+        "num": "84",
+        "quote": "Be dependable."
+    },
+    {
+        "id": 85,
+        "num": "85",
+        "quote": "Stay passionate."
+    },
+    {
+        "id": 86,
+        "num": "86",
+        "quote": "Good art inspires; good design motivates."
+    },
+    {
+        "id": 87,
+        "num": "87",
+        "quote": "Be more efficient."
+    },
+    {
+        "id": 88,
+        "num": "88",
+        "quote": "Love typography."
+    },
+    {
+        "id": 89,
+        "num": "89",
+        "quote": "Design is where <u>science</u> and <u>art</u> break even."
+    },
+    {
+        "id": 90,
+        "num": "90",
+        "quote": "Form versus function."
+    },
+    {
+        "id": 91,
+        "num": "91",
+        "quote": "Computers can't design."
+    },
+    {
+        "id": 92,
+        "num": "92",
+        "quote": "Design for emotion."
+    },
+    {
+        "id": 93,
+        "num": "93",
+        "quote": "Think outside the &lt;div&gt;"
+    },
+    {
+        "id": 94,
+        "num": "94",
+        "quote": "Do it right the first time."
+    },
+    {
+        "id": 95,
+        "num": "95",
+        "quote": "&lt;head&gt; over &lt;body&gt;"
+    },
+    {
+        "id": 96,
+        "num": "96",
+        "quote": "Be <strong style=\"color:#999\">&lt;strong&gt;</strong>."
+    },
+    {
+        "id": 97,
+        "num": "97",
+        "quote": "Learn from your peers."
+    },
+    {
+        "id": 98,
+        "num": "98",
+        "quote": "Get rid of more."
+    },
+    {
+        "id": 99,
+        "num": "99",
+        "quote": "Wake up!"
+    },
+    {
+        "id": 100,
+        "num": "100",
+        "quote": "Make it sustainable."
+    },
+    {
+        "id": 101,
+        "num": "101",
+        "quote": "Ask for help."
+    },
+    {
+        "id": 102,
+        "num": "102",
+        "quote": "Make it extensible."
+    },
+    {
+        "id": 103,
+        "num": "103",
+        "quote": "Code is poetry."
+    },
+    {
+        "id": 104,
+        "num": "104",
+        "quote": "Clean up your URL's."
+    },
+    {
+        "id": 105,
+        "num": "105",
+        "quote": "Have discipline."
+    },
+    {
+        "id": 106,
+        "num": "106",
+        "quote": "Read this."
+    },
+    {
+        "id": 107,
+        "num": "107",
+        "quote": "Be honest with yourself."
+    },
+    {
+        "id": 108,
+        "num": "108",
+        "quote": "Find a hobby."
+    },
+    {
+        "id": 109,
+        "num": "109",
+        "quote": "Everything is designed."
+    },
+    {
+        "id": 110,
+        "num": "110",
+        "quote": "B&amp;W"
+    },
+    {
+        "id": 111,
+        "num": "111",
+        "quote": "Describe the problem."
+    },
+    {
+        "id": 112,
+        "num": "112",
+        "quote": "Few things are designed well."
+    },
+    {
+        "id": 113,
+        "num": "113",
+        "quote": "People ignore design that ignores people."
+    },
+    {
+        "id": 114,
+        "num": "114",
+        "quote": "Good design is obvious."
+    },
+    {
+        "id": 115,
+        "num": "115",
+        "quote": "Great design is transparent."
+    },
+    {
+        "id": 116,
+        "num": "116",
+        "quote": "Form follows function."
+    },
+    {
+        "id": 117,
+        "num": "117",
+        "quote": "The logo is not the brand."
+    },
+    {
+        "id": 118,
+        "num": "118",
+        "quote": "It's not just a job."
+    },
+    {
+        "id": 119,
+        "num": "119",
+        "quote": "Get in over your head."
+    },
+    {
+        "id": 120,
+        "num": "120",
+        "quote": "Stay hungry, stay foolish."
+    },
+    {
+        "id": 121,
+        "num": "121",
+        "quote": "Design is intelligence made visible."
+    },
+    {
+        "id": 122,
+        "num": "122",
+        "quote": "Content precedes design."
+    },
+    {
+        "id": 123,
+        "num": "123",
+        "quote": "Use a concept."
+    },
+    {
+        "id": 124,
+        "num": "124",
+        "quote": "Dream on."
+    },
+    {
+        "id": 125,
+        "num": "125",
+        "quote": "Test. Test. Test."
+    },
+    {
+        "id": 126,
+        "num": "126",
+        "quote": "Sell out."
+    },
+    {
+        "id": 127,
+        "num": "127",
+        "quote": "Deliver ideas."
+    },
+    {
+        "id": 128,
+        "num": "128",
+        "quote": "Hello world!"
+    },
+    {
+        "id": 129,
+        "num": "129",
+        "quote": "Respond to a need."
+    },
+    {
+        "id": 130,
+        "num": "130",
+        "quote": "Photoshop is a privilege, not a right."
+    },
+    {
+        "id": 131,
+        "num": "131",
+        "quote": "Make it consistent."
+    },
+    {
+        "id": 132,
+        "num": "132",
+        "quote": "Don't forget spellchek."
+    },
+    {
+        "id": 133,
+        "num": "133",
+        "quote": "Simplicity is the ultimate sophistication."
+    },
+    {
+        "id": 134,
+        "num": "134",
+        "quote": "Wanting something isn't good enough."
+    },
+    {
+        "id": 135,
+        "num": "135",
+        "quote": "The sky is not the limit."
+    },
+    {
+        "id": 136,
+        "num": "136",
+        "quote": "Minimal isn't the same as simple."
+    },
+    {
+        "id": 137,
+        "num": "137",
+        "quote": "Don't settle for usable."
+    },
+    {
+        "id": 138,
+        "num": "138",
+        "quote": "You won't get it right the first time."
+    },
+    {
+        "id": 139,
+        "num": "139",
+        "quote": "Minify."
+    },
+    {
+        "id": 140,
+        "num": "140",
+        "quote": "Think more, design less."
+    },
+    {
+        "id": 141,
+        "num": "141",
+        "quote": "If design isn't profitable, then it's art."
+    },
+    {
+        "id": 142,
+        "num": "142",
+        "quote": "Good ideas never go out of style."
+    },
+    {
+        "id": 143,
+        "num": "143",
+        "quote": "If the users can’t find it, the function’s not there."
+    },
+    {
+        "id": 144,
+        "num": "144",
+        "quote": "Legibility is not the same thing as readability."
+    },
+    {
+        "id": 145,
+        "num": "145",
+        "quote": "Code doesn't do anything you don't tell it to do."
+    },
+    {
+        "id": 146,
+        "num": "146",
+        "quote": "Computers are useless. they can only give you answers."
+    },
+    {
+        "id": 147,
+        "num": "147",
+        "quote": "A good design is driven by needs and defined by constraints."
+    },
+    {
+        "id": 148,
+        "num": "148",
+        "quote": "There is no excellent beauty that hath not some strangeness in the proportion."
+    },
+    {
+        "id": 149,
+        "num": "149",
+        "quote": "Technology over technique produces emotionless design."
+    },
+    {
+        "id": 150,
+        "num": "150",
+        "quote": "Talent hits a target no one else can hit; Genius hits a target no one else can see."
+    },
+    {
+        "id": 151,
+        "num": "151",
+        "quote": "Designers shooting for usable is like a chef shooting for edible."
+    },
+    {
+        "id": 152,
+        "num": "152",
+        "quote": "Information is cheap, meaning is expensive."
+    },
+    {
+        "id": 153,
+        "num": "153",
+        "quote": "Will design for $"
+    },
+    {
+        "id": 154,
+        "num": "154",
+        "quote": "It's easy to be different, it's difficult to be better."
+    },
+    {
+        "id": 155,
+        "num": "155",
+        "quote": "Computers are to design as microwaves are to cooking."
+    },
+    {
+        "id": 156,
+        "num": "156",
+        "quote": "Typography is a beautiful group of letters, not a group of beautiful letters."
+    },
+    {
+        "id": 157,
+        "num": "157",
+        "quote": "To envision what will be, you must remove yourself from the constant concern for what already is."
+    },
+    {
+        "id": 158,
+        "num": "158",
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": 159,
+        "num": "159",
+        "quote": "Don't go for a \"wow\" factor, go for an \"of course\" reaction."
+    },
+    {
+        "id": 160,
+        "num": "160",
+        "quote": "Code is meant to be read by humans and only incidentally for computers to execute."
+    },
+    {
+        "id": 161,
+        "num": "161",
+        "quote": "Dress for the job you want, not the job you have."
+    },
+    {
+        "id": 162,
+        "num": "162",
+        "quote": "Make Time."
+    },
+    {
+        "id": 163,
+        "num": "163",
+        "quote": "Never tell anyone how long it took you."
+    },
+    {
+        "id": 164,
+        "num": "164",
+        "quote": "Dreams don't work unless you do."
+    },
+    {
+        "id": 165,
+        "num": "165",
+        "quote": "If you were waiting for a sign, this is it."
+    },
+    {
+        "id": 166,
+        "num": "166",
+        "quote": "git-Commit More."
+    },
+    {
+        "id": 167,
+        "num": "167",
+        "quote": "Just Do It."
+    },
+    {
+        "id": 168,
+        "num": "168",
+        "quote": "Think Different."
+    },
+    {
+        "id": 169,
+        "num": "169",
+        "quote": "It's all E=MC<sup>2</sup>"
+    },
+    {
+        "id": 170,
+        "num": "170",
+        "quote": "Be Agile."
+    },
+    {
+        "id": 171,
+        "num": "171",
+        "quote": "Think Different."
+    },
+    {
+        "id": 172,
+        "num": "172",
+        "quote": "Never make it \"POP\""
+    },
+    {
+        "id": 173,
+        "num": "173",
+        "quote": "Be <strong style=\"color:#999\">BOLD</strong>"
+    },
+    {
+        "id": 174,
+        "num": "174",
+        "quote": "Be <strong style=\"color:#999\">LOUD</strong>."
+    },
+    {
+        "id": 175,
+        "num": "175",
+        "quote": "<span style=\"font-family:serif;\">Don't forget, Serifs can be pretty too!</span>"
+    },
+    {
+        "id": 176,
+        "num": "176",
+        "quote": "Oxford Comma or GTFO."
+    },
+    {
+        "id": 177,
+        "num": "177",
+        "quote": "Make it more Swiss."
+    },
+    {
+        "id": 175,
+        "num": "175",
+        "quote": "Start a side project."
+    },
+    {
+        "id": 176,
+        "num": "176",
+        "quote": "Learn to say no."
+    },
+    {
+        "id": 177,
+        "num": "177",
+        "quote": "It's what you leave out."
+    },
+    {
+        "id": 178,
+        "num": "178",
+        "quote": "Keep a sketchbook."
+    },
+    {
+        "id": 179,
+        "num": "179",
+        "quote": "Use a pen and paper once and awhile."
+    },
+    {
+        "id": 180,
+        "num": "180",
+        "quote": "Fall in love with your work."
+    },
+    {
+        "id": 181,
+        "num": "181",
+        "quote": "Be your own boss."
+    },
+    {
+        "id": 182,
+        "num": "182",
+        "quote": "Think laterally."
+    },
+    {
+        "id": 183,
+        "num": "183",
+        "quote": "Don't be trendy."
+    },
+    {
+        "id": 184,
+        "num": "184",
+        "quote": "Risk everything."
+    },
+    {
+        "id": 185,
+        "num": "185",
+        "quote": "Be decisive."
+    },
+    {
+        "id": 186,
+        "num": "186",
+        "quote": "Good enough isn't good enough."
+    },
+    {
+        "id": 187,
+        "num": "187",
+        "quote": "You have to want it."
+    },
+    {
+        "id": 188,
+        "num": "188",
+        "quote": "Fake it 'til you make it."
+    },
+    {
+        "id": 189,
+        "num": "189",
+        "quote": "Refine your process."
+    },
+    {
+        "id": 190,
+        "num": "190",
+        "quote": "Make me care."
+    },
+    {
+        "id": 191,
+        "num": "191",
+        "quote": "Make a list."
+    },
+    {
+        "id": 192,
+        "num": "192",
+        "quote": "Use a color scheme."
+    },
+    {
+        "id": 193,
+        "num": "193",
+        "quote": "First impressions are critical."
+    },
+    {
+        "id": 194,
+        "num": "194",
+        "quote": "Never, ever work on spec."
+    },
+    {
+        "id": 195,
+        "num": "195",
+        "quote": "Don't quit."
+    },
+    {
+        "id": 196,
+        "num": "196",
+        "quote": "I <3 Helvetica."
+    },
+    {
+        "id": 197,
+        "num": "197",
+        "quote": "Success is a mindset."
+    },
+    {
+        "id": 198,
+        "num": "198",
+        "quote": "Comfort is a slow death."
+    },
+    {
+        "id": 199,
+        "num": "199",
+        "quote": "Only dead fish go with the flow."
+    },
+    {
+        "id": 200,
+        "num": "200",
+        "quote": "Ease of use may be invisible, but it's absence sure isn't."
+    },
+    {
+        "id": 201,
+        "num": "201",
+        "quote": "Create the things you wish existed."
+    },
+    {
+        "id": 202,
+        "num": "202",
+        "quote": "Your almost always wrong about your users."
+    },
+    {
+        "id": 203,
+        "num": "203",
+        "quote": "“Does it better” will always beat “did it first.”"
+    },
+    {
+        "id": 204,
+        "num": "204",
+        "quote": "Photoshop is the most effective way to show your clients what their website will never look like."
+    },
+    {
+        "id": 205,
+        "num": "205",
+        "quote": "Innovation is often the product of constraint."
+    },
+    {
+        "id": 206,
+        "num": "206",
+        "quote": "Make them care."
+    },
+    {
+        "id": 207,
+        "num": "207",
+        "quote": "Use a framework."
+    },
+    {
+        "id": 208,
+        "num": "208",
+        "quote": "Version."
+    },
+    {
+        "id": 209,
+        "num": "209",
+        "quote": "Do it today."
+    },
+    {
+        "id": 210,
+        "num": "210",
+        "quote": "Nothing to see here.<br>Move along."
+    },
+    {
+        "id": 211,
+        "num": "211",
+        "quote": "Know when to speak up."
+    },
+    {
+        "id": 213,
+        "num": "213",
+        "quote": "Be willing to die for your convictions."
+    },
+    {
+        "id": 214,
+        "num": "214",
+        "quote": "Beautiful things work better."
+    },
+    {
+        "id": 215,
+        "num": "215",
+        "quote": "Hire a photographer."
+    },
+    {
+        "id": 216,
+        "num": "216",
+        "quote": "Things aren't always <span style=\"color:#000\">#000000</span> &amp; <span style=\"color:#FFF\">#FFFFFF</span>."
+    },
+    {
+        "id": 217,
+        "num": "217",
+        "quote": "Life isn't about avoiding risks, it's about making calculations and going all in with the things you love."
+    },
+    {
+        "id": 218,
+        "num": "218",
+        "quote": "Do what others won't."
+    },
+    {
+        "id": 219,
+        "num": "219",
+        "quote": "Only dead fish go with the flow."
+    },
+    {
+        "id": 220,
+        "num": "220",
+        "quote": "The target audience is Males and Females aged zero and up."
+    },
+    {
+        "id": 221,
+        "num": "221",
+        "quote": "You can have anything, so long as you are willing to sacrifice everything."
+    },
+    {
+        "id": 222,
+        "num": "222",
+        "quote": "Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep."
+    },
+    {
+        "id": 223,
+        "num": "223",
+        "quote": "Life begins at the end of your comfort zone."
+    },
+    {
+        "id": 224,
+        "num": "224",
+        "quote": "Write drunk. Edit sober."
+    },
+    {
+        "id": 225,
+        "num": "225",
+        "quote": "There are 7 days in a week. Someday isn't one of them."
+    },
+    {
+        "id": 226,
+        "num": "226",
+        "quote": "Work like you don't need the money."
+    },
+    {
+        "id": 227,
+        "num": "227",
+        "quote": "The scariest moment is always just before you start."
+    },
+    {
+        "id": 228,
+        "num": "228",
+        "quote": "To create a memorable design you need to start with a thought that’s worth remembering."
+    },
+    {
+        "id": 229,
+        "num": "229",
+        "quote": "Do not seek praise.<br>Seek criticism."
+    },
+    {
+        "id": 230,
+        "num": "230",
+        "quote": "Those who don’t build must burn."
+    },
+    {
+        "id": 231,
+        "num": "231",
+        "quote": "If you think good design is expensive, you should look at the cost of bad design."
+    },
+    {
+        "id": 232,
+        "num": "232",
+        "quote": "You don’t think your way to creative work. You work your way to creative thinking."
+    },
+    {
+        "id": 233,
+        "num": "233",
+        "quote": "Poor choices are made by avoiding necessary confrontation."
+    },
+    {
+        "id": 234,
+        "num": "234",
+        "quote": "Design is a solution to a problem. Art is a question to a problem."
+    },
+    {
+        "id": 235,
+        "num": "235",
+        "quote": "Security breeds stagnation."
+    },
+    {
+        "id": 236,
+        "num": "236",
+        "quote": "Don't give up, you still have a few people to prove wrong."
+    },
+    {
+        "id": 237,
+        "num": "237",
+        "quote": "Your goals don't care how you feel."
+    },
+    {
+        "id": 238,
+        "num": "238",
+        "quote": "True interactivity isn't about clicking on icons it's about encouraging communication."
+    },
+    {
+        "id": 239,
+        "num": "239",
+        "quote": "Find out what people want and give it to them."
+    },
+    {
+        "id": 240,
+        "num": "240",
+        "quote": "Be proud of looking like a complete idiot once in a while."
+    },
+    {
+        "id": 241,
+        "num": "241",
+        "quote": "Take the blue pill."
+    },
+    {
+        "id": 242,
+        "num": "242",
+        "quote": "Champions were once amateurs."
+    },
+    {
+        "id": 243,
+        "num": "243",
+        "quote": "Don't quit because it's hard. Quit because you have better options than when you started."
+    },
+    {
+        "id": 244,
+        "num": "244",
+        "quote": "What feels right?"
+    },
+    {
+        "id": 245,
+        "num": "245",
+        "quote": "Don't let the numbers make the decisions."
+    },
+    {
+        "id": 246,
+        "num": "246",
+        "quote": ".gitignore ====> this."
+    },
+    {
+        "id": 247,
+        "num": "247",
+        "quote": "Make it memeable."
+    },
+    {
+        "id": 248,
+        "num": "248",
+        "quote": "Say it with .SCSS"
+    },
+    {
+        "id": 249,
+        "num": "249",
+        "quote": "Gain p = mv."
+    },
+    {
+        "id": 250,
+        "num": "250",
+        "quote": "<span style=\"font-family:Consolas, Courier, monospace !important;font-weight:200;\">Code is poetry.</span>"
+    },
+    {
+        "id": 251,
+        "num": "251",
+        "quote": "Don't tell me you love me."
+    },
+    {
+        "id": 252,
+        "num": "252",
+        "quote": "I'll be there for you. These 5 words I swear to you!"
+    },
+    {
+        "id": 253,
+        "num": "253",
+        "quote": "Welcome to the jungle!"
+    },
+    {
+        "id": 254,
+        "num": "254",
+        "quote": "I WANNA ROCK!"
+    },
+    {
+        "id": 255,
+        "num": "255",
+        "quote": "You gotta risk it for the biscuit."
+    },
+    {
+        "id": 256,
+        "num": "256",
+        "quote": "Never enough ⏱"
+    },
+    {
+        "id": 257,
+        "num": "257",
+        "quote": "Reduce. Reuse. ♻️"
+    },
+    {
+        "id": 258,
+        "num": "258",
+        "quote": "The truth is out there."
+    },
+    {
+        "id": 259,
+        "num": "259",
+        "quote": "Encode your ampersands."
+    },
+    {
+        "id": 260,
+        "num": "260",
+        "quote": "Identify a need."
+    },
+    {
+        "id": 261,
+        "num": "261",
+        "quote": "Many a man fails to become a thinker only because his memory is too good."
+    },
+    {
+        "id": 262,
+        "num": "262",
+        "quote": "Give me fuel. Give me fire. Give me that which I desire."
+    },
+    {
+        "id": 263,
+        "num": "263",
+        "quote": "Here I am. On the road again. There I am. Up on the stage. There I go. Playing the star again. There I go. Turn the page."
+    },
+    {
+        "id": 264,
+        "num": "264",
+        "quote": "Fortune. Fame. Mirror. Vain. Gone insane...but the memory remains."
+    },
+    {
+        "id": 265,
+        "num": "265",
+        "quote": "Digital design is like painting, except the paint never dries."
+    },
+    {
+        "id": 266,
+        "num": "266",
+        "quote": "Learn the rules like a Pro so you can break them like an Artist."
+    },
+    {
+        "id": 267,
+        "num": "267",
+        "quote": "You can never have enough on your plate."
+    },
+    {
+        "id": 268,
+        "num": "268",
+        "quote": "Good now is better than perfect never."
+    },
+    {
+        "id": 269,
+        "num": "269",
+        "quote": "Make me feel something."
+    },
+    {
+        "id": 270,
+        "num": "270",
+        "quote": "Chip chip chip away."
+    },
+    {
+        "id": 271,
+        "num": "271",
+        "quote": "function gitItDone(now, today){var noXcuses = all && != null;}"
+    },
+    {
+        "id": 273,
+        "num": "273",
+        "quote": "critical&nbsp;error!! reboot&nbsp;system? Yes[Y]&nbsp;No[N]"
+    },
+    {
+        "id": 274,
+        "num": "274",
+        "quote": "Speak to goals, not features."
+    },
+    {
+        "id": 275,
+        "num": "275",
+        "quote": "Don't give a real estate tour."
+    },
+    {
+        "id": 276,
+        "num": "276",
+        "quote": "Don't let anyone break your process."
+    },
+    {
+        "id": 277,
+        "num": "277",
+        "quote": "Always use a contract."
+    },
+    {
+        "id": 278,
+        "num": "278",
+        "quote": "Be confident in the value of your work."
+    },
+    {
+        "id": 279,
+        "num": "279",
+        "quote": "Know how to value your work."
+    },
+    {
+        "id": 280,
+        "num": "280",
+        "quote": "Have an agenda."
+    },
+    {
+        "id": 281,
+        "num": "281",
+        "quote": "A career in design is one long pitch. Be prepared."
+    },
+    {
+        "id": 282,
+        "num": "282",
+        "quote": "Be grounded and well rounded."
+    },
+    {
+        "id": 283,
+        "num": "283",
+        "quote": "There are no bad clients.<br><small style=\"font-size:.5em\">&ast;Okay, maybe a few.</small>"
+    },
+    {
+        "id": 284,
+        "num": "284",
+        "quote": "Are you there?"
+    },
+    {
+        "id": 285,
+        "num": "285",
+        "quote": "Make it count."
+    }
+]
