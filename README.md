@@ -1,2 +1,2 @@
-# asset
-where i can add soem assets to share while also version control
+# Asset
+For adding and organizing different sets of assets with in projects.
