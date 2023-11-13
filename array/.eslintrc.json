@@ -1,0 +1,6 @@
+{
+  "extends": ["json"],
+  "rules": {
+    // Add additional rules if needed
+  }
+}
