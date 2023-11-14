@@ -6,5 +6,9 @@
             "addWords": true,
             "scope": "folder"
         }
-    }
+    },
+    "cSpell.words": [
+        "virtua",
+        "zieg"
+    ]
 }
