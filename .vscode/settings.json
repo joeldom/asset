@@ -1,0 +1,10 @@
+{
+    "cSpell.customDictionaries": {
+        "custom-dictionary-folder-asset": {
+            "name": "custom-dictionary-folder-asset",
+            "path": "${workspaceFolder:asset}/.cspell/custom-dictionary-folder-asset.txt",
+            "addWords": true,
+            "scope": "folder"
+        }
+    }
+}
