@@ -249,10 +249,12 @@
     ],
     "SiteStrings": [
         "Sitio",
+        "Site",
         "Website",
         "网站",
         "サイト",
         "Сайт",
+        "Site",
         "موقع",
         "Sito",
         "사이트"
@@ -272,6 +274,7 @@
     "StyleguideStrings": [
         "Guía de estilo",
         "Guide de style",
+        "Styleguide",
         "样式指南",
         "スタイルガイド",
         "Руководство по стилю",
@@ -283,6 +286,7 @@
     "SandboxStrings": [
         "Caja de arena",
         "Bac à sable",
+        "Sandbox",
         "沙盒",
         "砂場",
         "Песочница",
