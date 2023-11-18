@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "../../redesign"
+		},
+		{
+			"path": "../../transmute"
+		},
+		{
+			"path": "../../style-guide"
 		}
 	],
 	"settings": {}
