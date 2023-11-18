@@ -248,20 +248,16 @@
         ""
     ],
     "SiteStrings": [
-        "SITE",
         "Sitio",
-        "Site",
         "Website",
         "网站",
         "サイト",
         "Сайт",
-        "Site",
         "موقع",
         "Sito",
         "사이트"
     ],
     "ResumeStrings": [
-        "RESUME",
         "Currículum",
         "Curriculum vitae",
         "Lebenslauf",
@@ -274,10 +270,8 @@
         "이력서"
     ],
     "StyleguideStrings": [
-        "STYLE GUIDE",
         "Guía de estilo",
         "Guide de style",
-        "Styleguide",
         "样式指南",
         "スタイルガイド",
         "Руководство по стилю",
@@ -287,10 +281,8 @@
         "스타일 가이드"
     ],
     "SandboxStrings": [
-        "SANDBOX",
         "Caja de arena",
         "Bac à sable",
-        "Sandbox",
         "沙盒",
         "砂場",
         "Песочница",

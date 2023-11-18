@@ -1,104 +1,101 @@
 {
-  "terms": [
-    {
-      "id": 1,
-      "term": "apple",
-      "definition": "a fruit with a red or green skin and a whitish interior."
-    },
-    {
-      "id": 2,
-      "term": "banana",
-      "definition": "a long curved fruit that grows in clusters and has soft pulpy flesh and yellow skin when ripe."
-    },
-    {
-      "id": 3,
-      "term": "cat",
-      "definition": "a small domesticated carnivorous mammal."
-    },
-    {
-      "id": 4,
-      "term": "dog",
-      "definition": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice."
-    },
-    {
-      "id": 5,
-      "term": "elephant",
-      "definition": "a heavy plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears."
-    },
-    {
-      "id": 6,
-      "term": "fish",
-      "definition": "a limbless cold-blooded vertebrate animal with gills and fins living wholly in water."
-    },
-    {
-      "id": 7,
-      "term": "giraffe",
-      "definition": "a large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines."
-    },
-    {
-      "id": 8,
-      "term": "honey",
-      "definition": "a sweet yellowish or brownish fluid produced by various bees from the nectar of flowers."
-    },
-    {
-      "id": 9,
-      "term": "ice cream",
-      "definition": "a sweet frozen food typically eaten as a snack or dessert."
-    },
-    {
-      "id": 10,
-      "term": "jazz",
-      "definition": "a type of music of black American origin characterized by improvisation, syncopation, and usually a regular or forceful rhythm."
-    },
-    {
-      "id": 11,
-      "term": "kangaroo",
-      "definition": "a large herbivorous marsupial native to Australia."
-    },
-    {
-      "id": 12,
-      "term": "lemon",
-      "definition": "a yellow citrus fruit with an acidic taste."
-    },
-    {
-      "id": 13,
-      "term": "mountain",
-      "definition": "a large landform that rises prominently above its surroundings."
-    },
-    {
-      "id": 14,
-      "term": "notebook",
-      "definition": "a book with blank pages for writing notes."
-    },
-    {
-      "id": 15,
-      "term": "ocean",
-      "definition": "a large body of saltwater that covers most of the Earth's surface."
-    },
-    {
-      "id": 16,
-      "term": "pizza",
-      "definition": "a dish consisting of a flat, round base of dough topped with tomato sauce, cheese, and various toppings."
-    },
-    {
-      "id": 17,
-      "term": "queen",
-      "definition": "the female ruler of an independent state, especially one who inherits the position by right of birth."
-    },
-    {
-      "id": 18,
-      "term": "rocket",
-      "definition": "a cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents."
-    },
-    {
-      "id": 19,
-      "term": "sunflower",
-      "definition": "a tall North American plant of the daisy family, with very large golden-rayed flowers."
-    },
-    {
-      "id": 20,
-      "term": "tree",
-      "definition": "a woody perennial plant, typically having a single stem or trunk supporting branches and leaves."
-    }
-  ]
+    "terms": [{
+            "id": 1,
+            "term": "apple",
+            "definition": "a fruit with a red or green skin and a whitish interior."
+        },
+        {
+            "id": 2,
+            "term": "banana",
+            "definition": "a long curved fruit that grows in clusters and has soft pulpy flesh and yellow skin when ripe."
+        },
+        {
+            "id": 3,
+            "term": "cat",
+            "definition": "a small domesticated carnivorous mammal."
+        },
+        {
+            "id": 4,
+            "term": "dog",
+            "definition": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice."
+        },
+        {
+            "id",
+        },
+        {
+            "id": 6,
+            "term": "fish",
+            "definition": "a limbless cold-blooded vertebrate animal with gills and fins living wholly in water."
+        },
+        {
+            "id": 7,
+            "term": "giraffe",
+            "definition": "a large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines."
+        },
+        {
+            "id": 8,
+            "term": "honey",
+            "definition": "a sweet yellowish or brownish fluid produced by various bees from the nectar of flowers."
+        },
+        {
+            "id": 9,
+            "term": "ice cream",
+            "definition": "a sweet frozen food typically eaten as a snack or dessert."
+        },
+        {
+            "id": 10,
+            "term": "jazz",
+            "definition": "a type of music of black American origin characterized by improvisation, syncopation, and usually a regular or forceful rhythm."
+        },
+        {
+            "id": 11,
+            "term": "kangaroo",
+            "definition": "a large herbivorous marsupial native to Australia."
+        },
+        {
+            "id": 12,
+            "term": "lemon",
+            "definition": "a yellow citrus fruit with an acidic taste."
+        },
+        {
+            "id": 13,
+            "term": "mountain",
+            "definition": "a large landform that rises prominently above its surroundings."
+        },
+        {
+            "id": 14,
+            "term": "notebook",
+            "definition": "a book with blank pages for writing notes."
+        },
+        {
+            "id": 15,
+            "term": "ocean",
+            "definition": "a large body of saltwater that covers most of the Earth's surface."
+        },
+        {
+            "id": 16,
+            "term": "pizza",
+            "definition": "a dish consisting of a flat, round base of dough topped with tomato sauce, cheese, and various toppings."
+        },
+        {
+            "id": 17,
+            "term": "queen",
+            "definition": "the female ruler of an independent state, especially one who inherits the position by right of birth."
+        },
+        {
+            "id": 18,
+            "term": "rocket",
+            "definition": "a cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents."
+        },
+        {
+            "id": 19,
+            "term": "sunflower",
+            "definition": "a tall North American plant of the daisy family, with very large golden-rayed flowers."
+        },
+        {
+            "id": 20,
+            "term": "tree",
+            "definition": "a woody perennial plant, typically having a single stem or trunk supporting branches and leaves."
+        }
+    ]
 }
