@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Image Display</title>
+    <style>
+        #image-container {
+            width: 1440px;
+            height: 1080px;
+            overflow: hidden;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            /* Align items at the top of the container */
+        }
+        
+        #image-container img {
+            /* Remove width and height properties */
+            /* margin: 5px; Remove margin */
+            border: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="image-container"></div>
+    <button onclick="displayRandomImages()">Display Random Images</button>
+
+    <script>
+        function displayRandomImages() {
+            const imageContainer = document.getElementById('image-container');
+            imageContainer.innerHTML = ''; // Clear previous images
+
+            // Generate an array with image filenames
+            const imageFilenames = Array.from({
+                length: 12
+            }, (_, i) => `mod-synth/modsynth-${String(i + 1).padStart(2, '0')}.png`);
+
+            // Shuffle the array to get a random order
+            const shuffledImages = imageFilenames.sort(() => Math.random() - 0.5);
+
+            // Calculate the number of images that can fit vertically
+            const numRows = Math.floor(imageContainer.clientHeight / 120);
+
+            // Create and append img elements to the container
+            for (let i = 0; i < numRows; i++) {
+                shuffledImages.forEach(filename => {
+                    const imgElement = document.createElement('img');
+                    imgElement.src = filename;
+                    imageContainer.appendChild(imgElement);
+                });
+            }
+        }
+    </script>
+
+</body>
+
+</html>
