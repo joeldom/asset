@@ -20,7 +20,9 @@
             "definition": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice."
         },
         {
-            "id",
+            "id": 5,
+            "term": "elephant",
+            "definition": "a heavy plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears."
         },
         {
             "id": 6,
