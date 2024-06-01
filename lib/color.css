@@ -1,0 +1,34 @@
+/* asset\lib\color.css */
+
+
+/* <link rel="stylesheet" href="https://joeldom.github.io/color.css"> */
+
+:root {
+    /* colors */
+    --brand-blue: #1a3acc;
+    --dark-blue: #001c9b;
+    --very-dark-blue: #000e4e;
+    --magenta: #ab1acc;
+    --fuchsia: #84017e;
+    --blood-red: #600000;
+    --dim-red: #ee0202;
+    --golden: #ccab1a;
+    --bright-orange: rgba(255, 111, 63, 0.5);
+    --orange: #ff6f3f;
+    --dark-olive: #1a1e1c;
+    --black: #0a0c0e;
+    --white: #ffffff;
+    --base-bright: #f0f4f7;
+    --bright-grey: #f2f2f2;
+    --light-grey: #cfcfcf;
+    --warm-grey: #818181;
+    --metal: #5a6771;
+    --ever-green: #142a2d;
+    --cool-blue: #e0e9fe;
+    --euphoria: #00050f;
+    /* properties */
+    --font-base-size: 14px;
+    --font-small-size: 12px;
+    --font-tiny-size: 10px;
+    --font-micro-size: 8px;
+}
