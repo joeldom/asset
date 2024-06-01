@@ -13,5 +13,10 @@
 			"path": "../../style-guide"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"βετα",
+			""
+		]
+	}
 }
