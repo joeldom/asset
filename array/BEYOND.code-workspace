@@ -11,6 +11,15 @@
 		},
 		{
 			"path": "../../style-guide"
+		},
+		{
+			"path": "../../craftcove"
+		},
+		{
+			"path": "../../resume"
+		},
+		{
+			"path": "../../joeldom.github.io"
 		}
 	],
 	"settings": {
