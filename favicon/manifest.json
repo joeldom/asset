@@ -1,0 +1,21 @@
+{
+    "name": "Joel Dombek",
+    "short_name": "Joel Dombek",
+    "start_url": "https://joeldom.github.io/",
+    "display": "standalone",
+    "display_override": ["minimal-ui", "window-controls-overlay"],
+    "theme_color": "#1a3acc",
+    "background_color": "#ffffff",
+    "icons": [{
+            "src": "./192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "prefer_related_applications": true,
+}
