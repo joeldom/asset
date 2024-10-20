@@ -1,214 +1,218 @@
 {
-  "colors": {
-    "brand blue": {
-      "$type": "color",
-      "$value": "#1a3acc"
+    "colors": {
+        "brand blue": {
+            "$type": "color",
+            "$value": "#1a3acc"
+        },
+        "dark blue": {
+            "$type": "color",
+            "$value": "#001c9b"
+        },
+        "very dark blue": {
+            "$type": "color",
+            "$value": "#000e4e"
+        },
+        "magenta": {
+            "$type": "color",
+            "$value": "#ab1acc"
+        },
+        "fucshia": {
+            "$type": "color",
+            "$value": "#84017e"
+        },
+        "blood red": {
+            "$type": "color",
+            "$value": "#600000"
+        },
+        "dim red": {
+            "$type": "color",
+            "$value": "#ee0202"
+        },
+        "golden": {
+            "$type": "color",
+            "$value": "#ccab1a"
+        },
+        "bright orange": {
+            "$type": "color",
+            "$value": "rgba(255, 111, 63, 0.5000)"
+        },
+        "orange": {
+            "$type": "color",
+            "$value": "#ff6f3f"
+        },
+        "dark olive": {
+            "$type": "color",
+            "$value": "#1a1e1c"
+        },
+        "blak": {
+            "$type": "color",
+            "$value": "#0a0c0e"
+        },
+        "white": {
+            "$type": "color",
+            "$value": "#ffffff"
+        },
+        "base bright": {
+            "$type": "color",
+            "$value": "#f0f4f7"
+        },
+        "bright grey": {
+            "$type": "color",
+            "$value": "#f2f2f2"
+        },
+        "light grey": {
+            "$type": "color",
+            "$value": "#cfcfcf"
+        },
+        "warm grey": {
+            "$type": "color",
+            "$value": "#818181"
+        },
+        "metal": {
+            "$type": "color",
+            "$value": "#5a6771"
+        },
+        "discord": {
+            "$type": "color",
+            "$value": "#292b2f"
+        },
+        "evergreen": {
+            "$type": "color",
+            "$value": "#142a2d"
+        },
+        "cool blue": {
+            "$type": "color",
+            "$value": "#e0e9fe"
+        },
+        "euphoria": {
+            "$type": "color",
+            "$value": "#00050f"
+        },
+        "olive overlay": {
+            "$type": "color",
+            "$value": "rgba(45, 53, 49, 0.8000)"
+        }
     },
-    "dark blue": {
-      "$type": "color",
-      "$value": "#001c9b"
+    "properties": {
+        "superscript": {
+            "λ0                   Zero": {
+                "$type": "number",
+                "$value": 4
+            },
+            "λ1                    One": {
+                "$type": "number",
+                "$value": 8
+            },
+            "λ2                   Two": {
+                "$type": "number",
+                "$value": 16
+            },
+            "λ3                   Three": {
+                "$type": "number",
+                "$value": 32
+            },
+            "λ4                   Four": {
+                "$type": "number",
+                "$value": 64
+            },
+            "λ5                   Five": {
+                "$type": "number",
+                "$value": 72
+            },
+            "λ6                   Six": {
+                "$type": "number",
+                "$value": 90
+            },
+            "λ7                   Seven": {
+                "$type": "number",
+                "$value": 120
+            },
+            "λ8                   Eight": {
+                "$type": "number",
+                "$value": 180
+            },
+            "λ9                   Nine": {
+                "$type": "number",
+                "$value": 240
+            },
+            "λ10                  Ten": {
+                "$type": "number",
+                "$value": 320
+            }
+        },
+        "sizes": {
+            "Min": {
+                "$type": "number",
+                "$value": 120
+            },
+            "Micro": {
+                "$type": "number",
+                "$value": 180
+            },
+            "Nano": {
+                "$type": "number",
+                "$value": 240
+            },
+            "Tiny": {
+                "$type": "number",
+                "$value": 320
+            },
+            "Xs": {
+                "$type": "number",
+                "$value": 480
+            },
+            "Sml": {
+                "$type": "number",
+                "$value": 640
+            },
+            "Med": {
+                "$type": "number",
+                "$value": 960
+            },
+            "Reg": {
+                "$type": "number",
+                "$value": 1280
+            },
+            "Lrg": {
+                "$type": "number",
+                "$value": 1440
+            },
+            "XL": {
+                "$type": "number",
+                "$value": 1920
+            },
+            "4K": {
+                "$type": "number",
+                "$value": 2560
+            }
+        },
+        "spacing": {
+            "Base": {
+                "$type": "number",
+                "$value": 8
+            },
+            "Spacer 3": {
+                "$type": "number",
+                "$value": 52
+            },
+            "Spacer 4": {
+                "$type": "number",
+                "$value": 64
+            },
+            "Spacer 5": {
+                "$type": "number",
+                "$value": 90
+            },
+            "Lrg Container": {
+                "$type": "number",
+                "$value": 1600
+            }
+        }
     },
-    "very dark blue": {
-      "$type": "color",
-      "$value": "#000e4e"
-    },
-    "magenta": {
-      "$type": "color",
-      "$value": "#ab1acc"
-    },
-    "fucshia": {
-      "$type": "color",
-      "$value": "#84017e"
-    },
-    "blood red": {
-      "$type": "color",
-      "$value": "#600000"
-    },
-    "dim red": {
-      "$type": "color",
-      "$value": "#ee0202"
-    },
-    "golden": {
-      "$type": "color",
-      "$value": "#ccab1a"
-    },
-    "bright orange": {
-      "$type": "color",
-      "$value": "rgba(255, 111, 63, 0.5000)"
-    },
-    "orange": {
-      "$type": "color",
-      "$value": "#ff6f3f"
-    },
-    "dark olive": {
-      "$type": "color",
-      "$value": "#1a1e1c"
-    },
-    "blak": {
-      "$type": "color",
-      "$value": "#0a0c0e"
-    },
-    "white": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "base bright": {
-      "$type": "color",
-      "$value": "#f0f4f7"
-    },
-    "bright grey": {
-      "$type": "color",
-      "$value": "#f2f2f2"
-    },
-    "light grey": {
-      "$type": "color",
-      "$value": "#cfcfcf"
-    },
-    "warm grey": {
-      "$type": "color",
-      "$value": "#818181"
-    },
-    "metal": {
-      "$type": "color",
-      "$value": "#5a6771"
-    },
-    "evergreen": {
-      "$type": "color",
-      "$value": "#142a2d"
-    },
-    "cool blue": {
-      "$type": "color",
-      "$value": "#e0e9fe"
-    },
-    "euphoria": {
-      "$type": "color",
-      "$value": "#00050f"
-    },
-    "olive overlay": {
-      "$type": "color",
-      "$value": "rgba(45, 53, 49, 0.8000)"
+    "styles": {
+        "Focus Stroke": {
+            "$type": "color",
+            "$value": "{colors.base bright}"
+        }
     }
-  },
-  "properties": {
-    "superscript": {
-      "λ0                   Zero": {
-        "$type": "number",
-        "$value": 4
-      },
-      "λ1                    One": {
-        "$type": "number",
-        "$value": 8
-      },
-      "λ2                   Two": {
-        "$type": "number",
-        "$value": 16
-      },
-      "λ3                   Three": {
-        "$type": "number",
-        "$value": 32
-      },
-      "λ4                   Four": {
-        "$type": "number",
-        "$value": 64
-      },
-      "λ5                   Five": {
-        "$type": "number",
-        "$value": 72
-      },
-      "λ6                   Six": {
-        "$type": "number",
-        "$value": 90
-      },
-      "λ7                   Seven": {
-        "$type": "number",
-        "$value": 120
-      },
-      "λ8                   Eight": {
-        "$type": "number",
-        "$value": 180
-      },
-      "λ9                   Nine": {
-        "$type": "number",
-        "$value": 240
-      },
-      "λ10                  Ten": {
-        "$type": "number",
-        "$value": 320
-      }
-    },
-    "sizes": {
-      "Min": {
-        "$type": "number",
-        "$value": 120
-      },
-      "Micro": {
-        "$type": "number",
-        "$value": 180
-      },
-      "Nano": {
-        "$type": "number",
-        "$value": 240
-      },
-      "Tiny": {
-        "$type": "number",
-        "$value": 320
-      },
-      "Xs": {
-        "$type": "number",
-        "$value": 480
-      },
-      "Sml": {
-        "$type": "number",
-        "$value": 640
-      },
-      "Med": {
-        "$type": "number",
-        "$value": 960
-      },
-      "Reg": {
-        "$type": "number",
-        "$value": 1280
-      },
-      "Lrg": {
-        "$type": "number",
-        "$value": 1440
-      },
-      "XL": {
-        "$type": "number",
-        "$value": 1920
-      },
-      "4K": {
-        "$type": "number",
-        "$value": 2560
-      }
-    },
-    "spacing": {
-      "Base": {
-        "$type": "number",
-        "$value": 8
-      },
-      "Spacer 3": {
-        "$type": "number",
-        "$value": 52
-      },
-      "Spacer 4": {
-        "$type": "number",
-        "$value": 64
-      },
-      "Spacer 5": {
-        "$type": "number",
-        "$value": 90
-      },
-      "Lrg Container": {
-        "$type": "number",
-        "$value": 1600
-      }
-    }
-  },
-  "styles": {
-    "Focus Stroke": {
-      "$type": "color",
-      "$value": "{colors.base bright}"
-    }
-  }
 }
