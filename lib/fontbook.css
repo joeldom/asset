@@ -1,0 +1,61 @@
+/* FONT BOOK v1 MMXIV 11.29.2024 */
+
+
+/* Include Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Roboto+Mono:wght@400;500&family=Noto+Sans:wght@400;500&family=Noto+Mono:wght@400;500&family=Inter:wght@400;500&display=swap');
+
+/* Standard emoji font (usually system default) */
+
+@font-face {
+    font-family: "Emoji";
+    src: local("Segoe UI Emoji"), local("Apple Color Emoji"), local("Noto Color Emoji");
+}
+
+
+/* Font Awesome */
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
+
+/* Declare CSS variables in :root for global access */
+
+:root {
+    --font-roboto: 'Roboto', sans-serif;
+    --font-roboto-mono: 'Roboto Mono', monospace;
+    --font-noto: 'Noto Sans', sans-serif;
+    --font-noto-mono: 'Noto Mono', monospace;
+    --font-inter: 'Inter', sans-serif;
+    --font-emoji: 'Emoji', sans-serif;
+    --font-awesome: 'FontAwesome';
+}
+
+
+/* Example global styles */
+
+body {
+    font-family: var(--font-roboto);
+    /* Default to Roboto */
+}
+
+h1,
+h2,
+h3 {
+    font-family: var(--font-inter);
+    /* Use Inter for headings */
+}
+
+code,
+pre {
+    font-family: var(--font-roboto-mono);
+    /* Use Roboto Mono for code blocks */
+}
+
+.emoji {
+    font-family: var(--font-emoji);
+    /* For emoji text */
+}
+
+.icon {
+    font-family: var(--font-awesome);
+    /* For Font Awesome icons */
+}
