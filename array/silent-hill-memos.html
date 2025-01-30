@@ -1,0 +1,1426 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Silent Hill 2 Remake - Complete Memo Locations Guide (68 Total)</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            /* padding: 0; */
+            font-family: "Segoe UI", "BIZ UDGothic", "Yu Gothic", "Meiryo", sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            font-size: 1.2rem;
+            line-height: 1.6;
+            color: #333;
+            background-color: #fdfeff;
+            font-weight: 500;
+            max-width: 100%;
+            /* width: 100cqw; */
+            scroll-behavior: smooth;
+            box-sizing: border-box;
+        }
+        
+        body>div.container {
+            width: 100%;
+            margin-top: 0;
+            margin-left: 0;
+            margin-right: 0;
+            padding: 0;
+        }
+        /* 980 px以下の一番小さいレイアウトでは、containerは縦積みで、file-navigationはheightが100pxで、doc-container内において、column-main-contentのみが表示されてcolumn-page-navigationはdisplay: none */
+        
+        body>div.container>div.file-navigation {
+            display: block;
+            width: 100%;
+            height: 40px;
+            background-color: #2e2525;
+            color: #fff;
+            padding: 0;
+            position: sticky;
+            top: 0;
+            text-align: center;
+            font-size: 0.8em;
+            line-height: 40px;
+            z-index: 12;
+        }
+        
+        body>div.container>div.doc-container {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content {
+            width: 96%;
+            margin: 8px;
+            padding: 0;
+            padding-left: 2px;
+            padding-right: 12px;
+            /* font-size: 1.2em; */
+        }
+        
+        body>div.container>div.doc-container>div.column-page-navigation {
+            width: auto;
+            padding: 12px;
+            margin: 0;
+            display: block;
+            border-top: solid 2px rgb(206, 206, 220);
+            background-color: rgba(50, 120, 220, 0.15);
+            position: relative;
+            font-size: 0.9em;
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc h1>a,
+        body>div.container>div.doc-container>div.column-main-content div.znc h2>a,
+        body>div.container>div.doc-container>div.column-main-content div.znc h3>a,
+        body>div.container>div.doc-container>div.column-main-content div.znc h4>a,
+        body>div.container>div.doc-container>div.column-main-content div.znc h5>a,
+        body>div.container>div.doc-container>div.column-main-content div.znc h6>a {
+            pointer-events: none;
+            cursor: default;
+        }
+        /* h2, h3, ... を sticky section titleにする */
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc h2 {
+            font-size: 1.1em;
+            position: sticky;
+            padding-left: 10px;
+            /* background-color: rgb(192,192,192); */
+            white-space: nowrap;
+            top: 40px;
+            height: 1em;
+            display: flex;
+            vertical-align: top;
+            line-height: 1.4em;
+            border-bottom: solid 1px rgb(156, 156, 156);
+            box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.5);
+            z-index: 10;
+            font-weight: 600;
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc h3 {
+            font-size: 1em;
+            padding-left: 15px;
+            /* position: sticky; */
+            /* background-color: #f4f4f4; */
+            /* background-color: rgb(220, 220, 220); */
+            /* border-bottom: solid 1px rgb(156, 156, 156); */
+            /* box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.1); */
+            /* top: 1.4em; */
+            /* height: 1.2em; */
+            /* display: flex; */
+            /* vertical-align: top; */
+            line-height: 1.25em;
+            z-index: 6;
+            font-weight: 600;
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc h4 {
+            font-size: 0.95em;
+            padding-left: 20px;
+            /* background-color: rgb(215,215,215); */
+            /* display: flex;
+      vertical-align: top; */
+            line-height: 1.2em;
+            z-index: 7;
+            font-weight: 600;
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc h5 {
+            font-size: 0.9em;
+            padding-left: 25px;
+            line-height: 1.15em;
+            z-index: 8;
+            font-weight: 600;
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc p {
+            margin: 1.2em;
+            margin-left: 30px;
+            line-height: 1.7;
+            font-size: 0.9em;
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc>ol,
+        body>div.container>div.doc-container>div.column-main-content div.znc>ul {
+            margin-left: 20px;
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc ol,
+        body>div.container>div.doc-container>div.column-main-content div.znc ul {
+            margin-top: 0;
+            margin-bottom: 0.4em;
+            line-height: 1.7;
+            font-size: 0.9em;
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc ol li,
+        body>div.container>div.doc-container>div.column-main-content div.znc ul li {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc strong {
+            background: linear-gradient(transparent 50%, #90ffff 80%);
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc h1>a::before,
+        body>div.container>div.doc-container>div.column-main-content div.znc h2>a::before,
+        body>div.container>div.doc-container>div.column-main-content div.znc h3>a::before,
+        body>div.container>div.doc-container>div.column-main-content div.znc h4>a::before {
+            content: " ";
+            display: block;
+            position: relative;
+            width: 0;
+            height: 40px;
+            margin-top: -40px;
+        }
+        
+        body>div.container>div.doc-container>div.column-main-content div.znc span.anchor-link {
+            /* display: none; */
+            position: absolute;
+            transform: translateY(-40px);
+        }
+        
+        body>div.container>div.file-navigation:has(input[type="checkbox"])>div.file-navigation-contents {
+            visibility: hidden;
+        }
+        
+        body>div.container>div.file-navigation:has(input[type="checkbox"]:checked)>div.file-navigation-contents {
+            visibility: visible;
+            background-color: #2e2525;
+            z-index: 14;
+            padding: 0.5em 0.2em;
+        }
+        
+        body>div.container>div.file-navigation>div.file-navigation-switcher {
+            /* 横に並べる。中央ぞろえ */
+            display: flex;
+            flex-direction: row;
+            height: 40px;
+        }
+        
+        body>div.container>div.file-navigation>div.file-navigation-switcher>.file-navigation-title {
+            white-space: nowrap;
+            width: fit-content;
+            margin-left: 0.8em;
+        }
+        
+        body>div.container>div.file-navigation>div.file-navigation-switcher span.file-navigation-remark {
+            font-size: 0.8em;
+            color: #d3d3d3;
+            margin-left: 2em;
+            line-height: 15px;
+            display: inline-flex;
+            top: -5px;
+            position: relative;
+        }
+        
+        #file-navigation-switch {
+            display: none;
+        }
+        
+        #file-navigation-switch~label {
+            padding: 12px 12px;
+            width: 40px;
+            height: 40px;
+            background: #2e2525;
+            /* position: relative; */
+            box-sizing: border-box;
+            /* top: 0; */
+            /* left: 5em; */
+        }
+        
+        #file-navigation-switch~label span {
+            /* display: flex; */
+            width: 22px;
+            height: 2px;
+            top: 50%;
+            left: 10px;
+            /* right: 4em; */
+            position: absolute;
+            /* margin:auto; */
+            /* line-height: 40px; */
+            /* vertical-align: middle; */
+            background: #fff;
+            -webkit-transition: 0.2s transform;
+            transition: 0.2s transform;
+        }
+        
+        #file-navigation-switch~label span:before,
+        #file-navigation-switch~label span:after {
+            content: "";
+            display: block;
+            background: #fff;
+            position: absolute;
+            width: 22px;
+            height: 2px;
+            /* left: 0; */
+            /* right: 0; */
+            margin: auto;
+        }
+        
+        #file-navigation-switch~label span:before {
+            top: -9px;
+        }
+        
+        #file-navigation-switch~label span:after {
+            top: 9px;
+        }
+        
+        #file-navigation-switch:checked~label span {
+            -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+        }
+        
+        #file-navigation-switch:checked~label span:before {
+            top: 0;
+        }
+        
+        #file-navigation-switch:checked~label span:after {
+            -webkit-transform: rotate(270deg);
+            transform: rotate(270deg);
+            top: 0;
+            margin-top: 0;
+        }
+        /* 次に大きい980px以上の場合は、div.column-page-navigationを横に置くために、do-containerをflexにする */
+        
+        @media screen and (min-width: 1200px) {
+            body>div.container>div.doc-container {
+                display: flex;
+                flex-direction: row;
+            }
+            body>div.container>div.doc-container {
+                display: flex;
+                flex-direction: row;
+                margin-left: 0;
+                margin-right: 0;
+                /* font-size: 0.8em; */
+            }
+            body>div.container>div.doc-container>div.column-main-content {
+                width: 68%;
+                /* font-size: 1.0em; */
+            }
+            body>div.container>div.doc-container>div.column-page-navigation {
+                /* 合計してwidth 100%にしたときにはみでないようにする */
+                /* 上にそもそも */
+                /* max-width: 30%; */
+                position: sticky;
+                top: 0;
+                padding-top: 80px;
+                padding-left: 10px;
+                padding-right: 10px;
+                margin: 0;
+                height: 100vh;
+                display: block;
+                /* font-size: 0.8em; */
+                width: 30%;
+                border: none;
+                border-left: solid 2px rgb(206, 206, 220);
+                font-size: 0.9em;
+                min-width: 0;
+            }
+        }
+        /* さらに大きい、1200px以上の場合は、dv.containerもflexにしてfile-navigationを横並びにする */
+        
+        @media screen and (min-width: 1500px) {
+            body>div.container {
+                display: flex !important;
+                flex-direction: row !important;
+                /* 横方向にすべて使う */
+                width: 100%;
+                margin: 0;
+            }
+            body>div.container>div.file-navigation {
+                /* min-width: 250px; */
+                width: 16%;
+                height: 100vh;
+                display: block;
+                position: sticky;
+                top: 0;
+                padding: 0;
+                margin-right: 18px;
+            }
+            body>div.container>div.doc-container {
+                width: 84%;
+            }
+            body>div.container>div.doc-container>div.column-main-content {
+                width: 68%;
+                max-width: 1500px;
+                /* font-size: 1.1em; */
+            }
+            body>div.container>div.doc-container>div.column-page-navigation {
+                width: 30%;
+                padding-right: 10px;
+                min-width: 0;
+                /* width: fit-content; */
+                /* font-size: 1.0em; */
+            }
+            body>div.container>div.doc-container>div.column-main-content div.znc h2 {
+                font-size: 1.1em;
+                position: sticky;
+                padding-left: 10px;
+                /* background-color: rgb(192,192,192); */
+                white-space: nowrap;
+                /* background-color: #f4f4f4; */
+                top: 0px;
+                height: 1em;
+                display: flex;
+                vertical-align: top;
+                line-height: 1.4em;
+                border-bottom: solid 1px rgb(156, 156, 156);
+                box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.5);
+                z-index: 10;
+            }
+            div.znc h1>a::before,
+            div.znc h2>a::before,
+            div.znc h3>a::before,
+            div.znc h4>a::before {
+                content: " ";
+                display: block;
+                position: relative;
+                width: 0;
+                height: 40px;
+                margin-top: -40px;
+            }
+            body>div.container>div.doc-container>div.column-main-content div.znc span.anchor-link {
+                /* display: none; */
+                position: absolute;
+                transform: translateY(-40px);
+            }
+            body>div.container>div.file-navigation:has(input[type="checkbox"])>div.file-navigation-contents {
+                visibility: visible;
+            }
+            #file-navigation-switch {
+                display: none;
+            }
+            #file-navigation-switch~label {
+                display: none;
+            }
+            body>div.container>div.file-navigation>div.file-navigation-switcher {
+                display: block;
+                height: auto;
+            }
+            body>div.container>div.file-navigation>div.file-navigation-switcher>span.file-navigation-title {
+                margin-left: 1em;
+                display: block;
+                width: 100%;
+                position: relative;
+                padding: 0;
+                height: 20px;
+                line-height: 20px;
+            }
+            body>div.container>div.file-navigation>div.file-navigation-switcher>span.file-navigation-remark {
+                font-size: 0.8em;
+                color: #d3d3d3;
+                margin-left: 0.5em;
+                line-height: 17px;
+                width: 90%;
+                text-align: left;
+                display: block;
+                position: relative;
+                padding: 0;
+                /* bottom: 0; */
+            }
+        }
+    </style>
+
+    <style>
+        .toc {
+            position: block;
+            /* width: 400px; */
+            top: 0;
+            padding-left: 10px;
+            padding-right: 10px;
+            background-color: black;
+            border: 1px solid #eaecef;
+            border-radius: 12px;
+            margin: 0;
+            max-height: 85vh;
+            overflow-y: scroll;
+        }
+        
+        .toc li {
+            text-overflow: ellipsis;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+        
+        .toc>ul {
+            padding: 4px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+        
+        .toc a {
+            color: #272727;
+            text-decoration: none;
+        }
+        /* hover されている、 li.toc-level-1以外 を opacity をつけて多段で色を付ける */
+        
+        .toc li:not(.toc-level-1):hover {
+            background-color: rgba(120, 183, 255, 0.2);
+        }
+        
+        .toc a:hover,
+        .toc a:active {
+            color: rgb(228, 42, 42);
+        }
+        
+        .toc ul {
+            list-style-type: none;
+            padding: 4px;
+        }
+        
+        .toc ul ul {
+            padding-left: 12px;
+        }
+        
+        .toc ul ul ul {
+            padding-left: 12px;
+        }
+        
+        .toc ul ul ul ul {
+            padding-left: 12px;
+        }
+        
+        .toc li.toc-level-3::before {
+            content: "▷ ";
+        }
+        
+        .toc li.toc-level-3:has(ul)::before {
+            content: "▶ ";
+            rotate: 0;
+            transition: rotate 0.5s;
+        }
+        
+        .toc li.toc-level-3:has(ul):hover::before,
+        .toc li.toc-level-3:has(ul):active::before {
+            content: "▼ ";
+        }
+        
+        .toc li.toc-level-4 {
+            display: list-item;
+            height: 0;
+            opacity: 0;
+            transition: height 0.8s, opacity 0.8s;
+        }
+        
+        .toc li.toc-level-3 ul {
+            display: none;
+        }
+        
+        .toc li.toc-level-3:hover ul,
+        .toc li.toc-level-3:active ul {
+            display: block;
+        }
+        
+        .toc li.toc-level-3:hover li.toc-level-4,
+        .toc li.toc-level-3:active li.toc-level-4 {
+            display: list-item;
+            height: 1.4em;
+            opacity: 1;
+            transition: height 0.3s, opacity 0.6s;
+        }
+        
+        .toc li.toc-level-1 {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 3px;
+        }
+        
+        .toc li.toc-level-2 {
+            font-size: 0.8em;
+            margin-bottom: 1px;
+        }
+        
+        .toc li.toc-level-3 {
+            font-size: 0.82em;
+            margin-bottom: 1px;
+        }
+        
+        .toc li.toc-level-4 {
+            font-size: 0.9em;
+            margin-bottom: 1px;
+        }
+    </style>
+    <style>
+        .znc {
+            line-height: 1.9
+        }
+        
+        .znc>*:first-child {
+            margin-top: 0
+        }
+        
+        .znc i,
+        .znc cite,
+        .znc em {
+            font-style: italic
+        }
+        
+        .znc strong {
+            font-weight: 700
+        }
+        
+        .znc a {
+            color: #0f83fd
+        }
+        
+        .znc a:hover {
+            text-decoration: underline
+        }
+        
+        .znc p+p {
+            margin-top: 1.5em
+        }
+        
+        .znc ul,
+        .znc ol {
+            margin: 1.4rem 0;
+            line-height: 1.7
+        }
+        
+        .znc ul>li,
+        .znc ol>li {
+            margin: .4rem 0
+        }
+        
+        .znc ul ul,
+        .znc ul ol,
+        .znc ol ul,
+        .znc ol ol {
+            margin: .2em 0
+        }
+        
+        .znc ul p,
+        .znc ol p {
+            margin: 0
+        }
+        
+        .znc ul {
+            padding-left: 1.8em
+        }
+        
+        .znc ul>li {
+            list-style: disc
+        }
+        
+        .znc ul>li::marker {
+            font-size: 1.1em;
+            color: #65717b
+        }
+        
+        .znc ol {
+            padding-left: 1.7em
+        }
+        
+        .znc ol>li {
+            list-style: decimal;
+            padding-left: .2em
+        }
+        
+        .znc ol>li::marker {
+            color: #65717b;
+            font-weight: 600;
+            letter-spacing: -0.05em
+        }
+        
+        .znc .contains-task-list .task-list-item {
+            list-style: none
+        }
+        
+        .znc .task-list-item-checkbox {
+            margin-left: -1.5em;
+            font-size: 1em;
+            pointer-events: none
+        }
+        
+        .znc h1+p,
+        .znc h2+p,
+        .znc h3+p,
+        .znc h4+p,
+        .znc h5+p,
+        .znc h6+p {
+            margin-top: .3em
+        }
+        
+        .znc h1,
+        .znc h2 {
+            margin-top: 2.3em;
+            margin-bottom: .5em
+        }
+        
+        .znc h3,
+        .znc h4,
+        .znc h5,
+        .znc h6 {
+            margin-top: 2.25em;
+            margin-bottom: .5em
+        }
+        
+        .znc h1 {
+            padding-bottom: .2em;
+            margin-bottom: 1.1rem;
+            font-size: 1.7em;
+            border-bottom: solid 1px #d6e3ed
+        }
+        
+        .znc h2 {
+            padding-bottom: .3em;
+            margin-bottom: 1.1rem;
+            font-size: 1.5em;
+            border-bottom: solid 1px #d6e3ed
+        }
+        
+        .znc h3 {
+            font-size: 1.3em
+        }
+        
+        .znc h4 {
+            font-size: 1.1em
+        }
+        
+        .znc h5 {
+            font-size: 1em
+        }
+        
+        .znc h6 {
+            font-size: .9em
+        }
+        
+        @media screen and (max-width: 576px) {
+            .znc h1 {
+                font-size: 1.6em
+            }
+            .znc h2 {
+                font-size: 1.4em
+            }
+            .znc h3 {
+                font-size: 1.2em
+            }
+            .znc h4 {
+                font-size: 1.1em
+            }
+            .znc h5 {
+                font-size: 1em
+            }
+            .znc h6 {
+                font-size: .85em
+            }
+        }
+        
+        .znc hr {
+            border-top: 2px solid #d6e3ed;
+            margin: 2.5rem 0
+        }
+        
+        .znc blockquote {
+            font-size: .97em;
+            margin: 1.4rem 0;
+            border-left: solid 3px #8f9faa;
+            padding: 2px 0 2px .7em;
+            color: #65717b
+        }
+        
+        .znc blockquote p {
+            margin: 1rem 0
+        }
+        
+        .znc blockquote>:first-child {
+            margin-top: 0
+        }
+        
+        .znc blockquote>:last-child {
+            margin-bottom: 0
+        }
+        
+        .znc blockquote.twitter-tweet {
+            display: none
+        }
+        
+        .znc table {
+            margin: 1.2rem auto;
+            width: auto;
+            border-collapse: collapse;
+            font-size: .95em;
+            line-height: 1.5;
+            word-break: normal;
+            display: block;
+            overflow: auto;
+            -webkit-overflow-scrolling: touch
+        }
+        
+        .znc th,
+        .znc td {
+            padding: .5rem;
+            border: solid 1px #d6e3ed;
+            background: #fff
+        }
+        
+        .znc th {
+            font-weight: 700;
+            background: #edf2f7
+        }
+        
+        .znc code {
+            padding: .2em .4em;
+            background: rgba(33, 90, 160, .07);
+            font-size: .85em;
+            border-radius: 4px;
+            vertical-align: .08em
+        }
+        
+        .znc code,
+        .znc .code-block-filename {
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+            -webkit-font-smoothing: antialiased
+        }
+        
+        .znc pre {
+            margin: 1.3rem 0;
+            background: #1a2638;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            border-radius: 4px;
+            word-break: normal;
+            word-wrap: normal;
+            display: flex
+        }
+        
+        .znc pre:after {
+            content: "";
+            width: 8px;
+            flex-shrink: 0
+        }
+        
+        .znc pre code {
+            margin: 0;
+            padding: 0;
+            background: rgba(0, 0, 0, 0);
+            font-size: .9em;
+            color: #fff
+        }
+        
+        .znc pre>code {
+            display: block;
+            padding: 1.1rem
+        }
+        
+        @media screen and (max-width: 576px) {
+            .znc pre>code {
+                padding: 1rem .8rem;
+                font-size: .85em
+            }
+        }
+        
+        .znc .code-block-container {
+            position: relative;
+            margin: 1.3rem 0
+        }
+        
+        .znc .code-block-container pre {
+            margin: 0
+        }
+        
+        .znc .code-block-filename {
+            display: table;
+            max-width: 100%;
+            background: #323e52;
+            color: rgba(255, 255, 255, .9);
+            font-size: 12px;
+            line-height: 1.3;
+            border-radius: 4px 4px 0 0;
+            padding: 6px 12px 20px;
+            margin-bottom: -16px
+        }
+        
+        .znc .code-block-filename-container+pre {
+            border-top-left-radius: 0
+        }
+        
+        .znc img:not(.emoji) {
+            margin: 1.5rem auto;
+            display: table;
+            max-width: 100%;
+            height: auto
+        }
+        
+        .znc img+br {
+            display: none
+        }
+        
+        .znc img~em {
+            display: block;
+            margin: -1rem auto 0;
+            line-height: 1.3;
+            text-align: center;
+            color: #65717b;
+            font-size: .92em
+        }
+        
+        .znc a:has(img) {
+            display: table;
+            margin: 0 auto
+        }
+        
+        .znc details {
+            font-size: .95em;
+            margin: 1rem 0;
+            line-height: 1.7
+        }
+        
+        .znc summary {
+            cursor: pointer;
+            outline: 0;
+            padding: .7em .7em .7em .9em;
+            border: solid 1px #d6e3ed;
+            color: var(--c-contrast);
+            font-size: .9em;
+            border-radius: 14px;
+            background: #fff
+        }
+        
+        .znc summary::-webkit-details-marker {
+            color: #65717b
+        }
+        
+        .znc details[open]>summary {
+            border-radius: 14px 14px 0 0;
+            box-shadow: none;
+            background: #f1f5f9;
+            border-bottom: none
+        }
+        
+        .znc .details-content {
+            padding: .5em .9em;
+            border: solid 1px #d6e3ed;
+            border-radius: 0 0 14px 14px;
+            background: #fff
+        }
+        
+        .znc .details-content>* {
+            margin: .5em 0
+        }
+        
+        .znc span.embed-block {
+            display: block;
+            width: 100%;
+            margin: 1.5rem 0
+        }
+        
+        .znc .embed-slideshare,
+        .znc .embed-speakerdeck,
+        .znc .embed-codepen,
+        .znc .embed-jsfiddle,
+        .znc .embed-youtube,
+        .znc .embed-stackblitz {
+            padding-bottom: calc(56.25% + 38px);
+            position: relative;
+            width: 100%;
+            height: 0
+        }
+        
+        .znc .embed-slideshare iframe,
+        .znc .embed-speakerdeck iframe,
+        .znc .embed-codepen iframe,
+        .znc .embed-jsfiddle iframe,
+        .znc .embed-youtube iframe,
+        .znc .embed-stackblitz iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none
+        }
+        
+        .znc .embed-slideshare iframe {
+            border: 1px solid #d6e3ed
+        }
+        
+        .znc .embed-jsfiddle iframe {
+            border: 1px solid #d6e3ed
+        }
+        
+        .znc .embed-figma {
+            border: 1px solid #d6e3ed
+        }
+        
+        .znc .zenn-embedded iframe {
+            width: 100%;
+            display: block
+        }
+        
+        .znc .zenn-embedded-link-card {
+            margin: 1rem auto
+        }
+        
+        .znc .zenn-embedded-link-card iframe {
+            height: 125px
+        }
+        
+        .znc .zenn-embedded-tweet,
+        .znc .zenn-embedded-mermaid,
+        .znc .zenn-embedded-github,
+        .znc .zenn-embedded-gist {
+            margin: 1.5rem auto
+        }
+        
+        .znc embed-katex {
+            overflow-x: auto;
+            padding-right: 2px
+        }
+        
+        .znc embed-katex:not([display-mode="1"]) {
+            display: inline-flex;
+            max-width: 100%;
+            -ms-overflow-style: none;
+            scrollbar-width: none
+        }
+        
+        .znc embed-katex:not([display-mode="1"])::-webkit-scrollbar {
+            display: none
+        }
+        
+        .znc embed-katex[display-mode="1"] {
+            display: block;
+            width: 100%
+        }
+        
+        .znc pre[class*=language-] {
+            position: relative
+        }
+        
+        .znc .token.namespace {
+            opacity: .7
+        }
+        
+        .znc .token.comment,
+        .znc .token.prolog,
+        .znc .token.doctype,
+        .znc .token.cdata {
+            color: #94a1b3
+        }
+        
+        .znc .token.operator,
+        .znc .token.boolean,
+        .znc .token.number {
+            color: #ffc56d
+        }
+        
+        .znc .token.attr-name,
+        .znc .token.string {
+            color: #ffc56d
+        }
+        
+        .znc .token.entity,
+        .znc .token.url,
+        .znc .language-css .token.string,
+        .znc .style .token.string {
+            color: #ffc56d
+        }
+        
+        .znc .token.selector {
+            color: #ff8fa3
+        }
+        
+        .znc .token.atrule,
+        .znc .token.attr-value,
+        .znc .token.keyword,
+        .znc .token.important {
+            color: #ff8fa3
+        }
+        
+        .znc .token.deleted {
+            color: #ff8fa3
+        }
+        
+        .znc .token.inserted {
+            color: #b4ff9b
+        }
+        
+        .znc .token.deleted:not(.prefix) {
+            background: rgba(218, 54, 50, .2);
+            color: inherit;
+            display: block
+        }
+        
+        .znc .token.prefix {
+            user-select: none
+        }
+        
+        .znc .token.inserted:not(.prefix) {
+            background: rgba(0, 146, 27, .2);
+            color: inherit;
+            display: block
+        }
+        
+        .znc .token.coord {
+            color: #aad4ff
+        }
+        
+        .znc .token.regex,
+        .znc .token.statement {
+            color: #ffc56d
+        }
+        
+        .znc .token.placeholder,
+        .znc .token.variable {
+            color: #fff
+        }
+        
+        .znc .token.important,
+        .znc .token.statement,
+        .znc .token.bold {
+            font-weight: 700
+        }
+        
+        .znc .token.punctuation {
+            color: #939bc1
+        }
+        
+        .znc .token.entity {
+            cursor: help
+        }
+        
+        .znc .token.italic {
+            font-style: italic
+        }
+        
+        .znc .token.tag,
+        .znc .token.property,
+        .znc .token.function {
+            color: #38c7ff
+        }
+        
+        .znc .token.attr-name {
+            color: #ff8fa3
+        }
+        
+        .znc .token.attr-value {
+            color: #ffc56d
+        }
+        
+        .znc .token.style,
+        .znc .token.script {
+            color: #ffc56d
+        }
+        
+        .znc .token.script .token.keyword {
+            color: #ffc56d
+        }
+        
+        .znc aside.msg {
+            display: flex;
+            align-items: flex-start;
+            margin: 1.5rem 0;
+            padding: 1.4em 1em;
+            border-radius: 4px;
+            background: #fff6e4;
+            color: rgba(0, 0, 0, .7);
+            font-size: .94em;
+            line-height: 1.6
+        }
+        
+        .znc aside.msg.alert {
+            background: #ffeff2
+        }
+        
+        .znc aside.msg a {
+            color: inherit;
+            text-decoration: underline
+        }
+        
+        .znc .msg-symbol {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            width: 1.4rem;
+            height: 1.4rem;
+            border-radius: 99rem;
+            background-color: #ffb84c;
+            color: #fff
+        }
+        
+        .znc aside.msg.alert .msg-symbol {
+            background-color: #ff7670
+        }
+        
+        .znc .msg-content {
+            flex: 1;
+            margin-left: .6em;
+            min-width: 0
+        }
+        
+        .znc .msg-content>* {
+            margin: .7rem 0
+        }
+        
+        .znc .msg-content>*:first-child {
+            margin-top: 0
+        }
+        
+        .znc .msg-content>*:last-child {
+            margin-bottom: 0
+        }
+        
+        .znc .footnotes {
+            margin-top: 3rem;
+            color: #65717b;
+            font-size: .9em
+        }
+        
+        .znc .footnotes li::marker {
+            color: #65717b
+        }
+        
+        .znc .footnotes-title {
+            padding-bottom: 3px;
+            border-bottom: solid 1px #65717b;
+            font-weight: 700;
+            font-size: 15px
+        }
+        
+        .znc .footnotes-list {
+            margin: 13px 0 0
+        }
+        
+        .znc .footnote-item:target {
+            background: #f1f5f9
+        }
+    </style>
+    <style>
+        div.container>div.doc-container>div.column-main-content div.znc details {
+            font-size: 0.95em;
+            margin: 1rem 0;
+            line-height: 1.7;
+        }
+        
+        div.container>div.doc-container>div.column-main-content div.znc summary {
+            cursor: pointer;
+            outline: 0;
+            padding: 0.7em 0.7em 0.7em 0.9em;
+            border: solid 1px #d6e3ed;
+            color: var(--c-contrast);
+            font-size: 0.9em;
+            border-radius: 14px;
+            background: #fff;
+        }
+        
+        div.container>div.doc-container>div.column-main-content div.znc summary::-webkit-details-marker {
+            color: #65717b;
+        }
+        
+        div.container>div.doc-container>div.column-main-content div.znc details[open]>summary {
+            border-radius: 14px 14px 0 0;
+            box-shadow: none;
+            background: #f1f5f9;
+            border-bottom: none;
+        }
+        
+        div.container>div.doc-container>div.column-main-content div.znc details>.details-content {
+            border-radius: 14px;
+            opacity: 0;
+            transform: translateY(-20px);
+            transition: opacity 0.5s ease-out, transform 0.3s ease-out;
+        }
+        
+        div.container>div.doc-container>div.column-main-content div.znc details[open]>.details-content {
+            padding: 0.5em 0.9em;
+            border: solid 1px #d6e3ed;
+            border-radius: 0 0 14px 14px;
+            background: #fff;
+            opacity: 1;
+            transform: translateY(0);
+            transition: opacity 0.5s ease-out, transform 0.3s ease-out;
+        }
+        
+        div.container>div.doc-container>div.column-main-content div.znc .details-content>* {
+            margin: 0.5em 0;
+        }
+        
+        div.container div.column-main-content div.znc table {
+            max-height: 70vh;
+            overflow: auto;
+        }
+        /* first row as a sticky header */
+        
+        div.container div.column-main-content div.znc>table>thead>tr>th {
+            position: sticky;
+            top: -1px;
+            z-index: 10;
+            background-color: #bfd9f3 !important;
+            /* overflow-wrap: anywhere; */
+            /* min-width: 150px; */
+        }
+        
+        div.container div.column-main-content div.znc div.code-block-container {
+            user-select: all;
+        }
+        /* first column as a sticky column */
+        
+        div.container div.column-main-content div.znc table th:first-child,
+        div.container div.column-main-content div.znc table td:first-child {
+            position: sticky;
+            left: -1px;
+            background-color: #edf2f7;
+        }
+    </style>
+    <style>
+        body {
+            background-color: #000;
+            font-size: 1rem;
+            color: #fff;
+        }
+        
+        h2,
+        h3 {
+            background-color: #000;
+            color: rgb(167, 167, 167);
+        }
+        
+        li {
+            color: rgb(116, 116, 116);
+        }
+        
+        a {
+            color: red !important;
+        }
+    </style>
+    <!-- <script src="https://embed.zenn.studio/js/listen-embed-event.js"></script> -->
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="doc-container">
+            <div class="column-main-content">
+                <div class="znc">
+                    <h1 id="silent-hill-2-remake---complete-memo-locations-guide-(68-total)" data-line="2" class="code-line">
+                        <a class="header-anchor-link" href="#silent-hill-2-remake---complete-memo-locations-guide-(68-total)" aria-hidden="true"></a> Silent Hill 2 Remake - Complete Memo Locations Guide (68 Total)</h1>
+                    <h2 id="east-south-vale" data-line="4" class="code-line">
+                        <a class="header-anchor-link" href="#east-south-vale" aria-hidden="true"></a> East South Vale</h2>
+                    <ol data-line="5" class="code-line">
+                        <li data-line="5" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477397" target="_blank" rel="nofollow noopener noreferrer">Back Room Letter</a> - Located in Neely's Bar storage room, behind the counter on a shelf next to some bottles</li>
+                        <li data-line="6" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477402" target="_blank" rel="nofollow noopener noreferrer">Barrier Note</a> - Found near the police barrier on Martin Street, pinned to a wooden barricade</li>
+                        <li data-line="7" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477405" target="_blank" rel="nofollow noopener noreferrer">Big Jay's Note</a> - Inside Big Jay's convenience store, behind the counter near the cash register</li>
+                        <li data-line="8" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477777" target="_blank" rel="nofollow noopener noreferrer">Bloody Note</a> - In the dark alley between Sanders and Neely's Street, stuck to a blood-stained wall</li>
+                        <li data-line="9" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477406" target="_blank" rel="nofollow noopener noreferrer">Code Note</a> - Hidden inside a broken vending machine near Pete's Bowl-O-Rama entrance</li>
+                        <li data-line="10" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477411" target="_blank" rel="nofollow noopener noreferrer">Flower Shop Message</a> - Inside Sanders Street flower shop, beneath the wilted flowers on the main display
+                            counter
+                        </li>
+                        <li data-line="11" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477409" target="_blank" rel="nofollow noopener noreferrer">Martin Street Note</a> - Behind fallen debris near the construction site on Martin Street</li>
+                        <li data-line="12" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477401" target="_blank" rel="nofollow noopener noreferrer">Motor Home Note</a> - Inside abandoned motor home's glove compartment, parked near Sanders Street</li>
+                        <li data-line="13" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477408" target="_blank" rel="nofollow noopener noreferrer">Neely's Bar Note</a> - Stuck between liquor bottles on the top shelf behind Neely's Bar counter</li>
+                        <li data-line="14" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477404" target="_blank" rel="nofollow noopener noreferrer">Record Store Note</a> - Inside record store, tucked in a vinyl sleeve near the jazz section</li>
+                        <li data-line="15" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477407" target="_blank" rel="nofollow noopener noreferrer">Sanders Street Note</a> - Under a knocked-over newspaper stand on Sanders Street corner</li>
+                        <li data-line="16" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478778" target="_blank" rel="nofollow noopener noreferrer">Saul Street Note (1)</a> - Inside a broken mailbox at the intersection of Saul and Katz Street</li>
+                        <li data-line="17" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478777" target="_blank" rel="nofollow noopener noreferrer">Saul Street Note (2)</a> - Behind a dumpster in the alley off Saul Street</li>
+                        <li data-line="18" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477400" target="_blank" rel="nofollow noopener noreferrer">Saul Street Note (3)</a> - Wedged in a car's broken windshield at the end of Saul Street</li>
+                    </ol>
+                    <h2 id="wood-side-apartments" data-line="20" class="code-line">
+                        <a class="header-anchor-link" href="#wood-side-apartments" aria-hidden="true"></a> Wood Side Apartments</h2>
+                    <ol start="15" data-line="21" class="code-line">
+                        <li data-line="21" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477396" target="_blank" rel="nofollow noopener noreferrer">Administration Note</a> - In the apartment complex mailbox #105, requires small key to open</li>
+                        <li data-line="22" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477780" target="_blank" rel="nofollow noopener noreferrer">Calendar Page</a> - Room 208, torn calendar page stuck between wall cracks near the window</li>
+                        <li data-line="23" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477790" target="_blank" rel="nofollow noopener noreferrer">Crumpled Note</a> - Third floor hallway, wadded up behind a knocked-over trash can</li>
+                        <li data-line="24" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477794" target="_blank" rel="nofollow noopener noreferrer">Family Photo</a> - Room 202, tucked inside a family photo album on the coffee table</li>
+                        <li data-line="25" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477766" target="_blank" rel="nofollow noopener noreferrer">Keypad Combination Note</a> - Written on the back of a maintenance request form near the locked storage room</li>
+                        <li data-line="26" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477394" target="_blank" rel="nofollow noopener noreferrer">Sinister Note</a> - Room 209, written in red on bathroom mirror, visible only when steamed</li>
+                        <li data-line="27" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477395" target="_blank" rel="nofollow noopener noreferrer">Strange Note</a> - Under the bed in Room 205, requires flashlight to spot</li>
+                    </ol>
+                    <h2 id="brookhaven-hospital" data-line="29" class="code-line">
+                        <a class="header-anchor-link" href="#brookhaven-hospital" aria-hidden="true"></a> Brookhaven Hospital</h2>
+                    <ol start="22" data-line="30" class="code-line">
+                        <li data-line="30" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477780" target="_blank" rel="nofollow noopener noreferrer">Calendar Page</a> - Attached to a calendar book on the ground, under a mattress frame, of Room M2 of Brookhaven
+                            Hospital Otherworld</li>
+                        <li data-line="31" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478776" target="_blank" rel="nofollow noopener noreferrer">Director's Note</a> - Inside the Director's Office on the third floor, locked in the top desk drawer</li>
+                        <li data-line="32" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477779" target="_blank" rel="nofollow noopener noreferrer">Dissociated Notice</a> - Posted on the bulletin board near the Nurse's Station, first floor</li>
+                        <li data-line="33" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477769" target="_blank" rel="nofollow noopener noreferrer">Evaluation Card, Patient #0050</a> - Filing cabinet in Records Room, second drawer from top</li>
+                        <li data-line="34" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477770" target="_blank" rel="nofollow noopener noreferrer">Evaluation Card, Patient #0090</a> - Inside patient's personal effects box, Storage Room B</li>
+                        <li data-line="35" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477771" target="_blank" rel="nofollow noopener noreferrer">Evaluation Card, Patient #0130</a> - Scattered on floor of Day Room, mixed with other papers</li>
+                        <li data-line="36" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477785" target="_blank" rel="nofollow noopener noreferrer">Evaluation Card, Patient #3141</a> - Hidden behind medicine bottles in the Pharmacy</li>
+                        <li data-line="37" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477787" target="_blank" rel="nofollow noopener noreferrer">Interview Transcript</a> - In the psychiatric ward office, inside a patient file marked "CONFIDENTIAL"</li>
+                        <li data-line="38" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477774" target="_blank" rel="nofollow noopener noreferrer">Key Locker Note</a> - Security office, pinned to the key management board</li>
+                        <li data-line="39" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477773" target="_blank" rel="nofollow noopener noreferrer">Nurse's Memo</a> - Staff break room, left on the coffee table next to an empty cup</li>
+                        <li data-line="40" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477781" target="_blank" rel="nofollow noopener noreferrer">Nurse's Note</a> - Inside the medication cart in the east wing corridor</li>
+                    </ol>
+                    <h2 id="brookhaven-hospital-(continued)" data-line="42" class="code-line">
+                        <a class="header-anchor-link" href="#brookhaven-hospital-(continued)" aria-hidden="true"></a> Brookhaven Hospital (continued)</h2>
+                    <ol start="33" data-line="43" class="code-line">
+                        <li data-line="43" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477778" target="_blank" rel="nofollow noopener noreferrer">Ominous Note</a> - Written in blood on the wall of isolation room S7, only visible with flashlight</li>
+                        <li data-line="44" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477786" target="_blank" rel="nofollow noopener noreferrer">Page From A Diary</a> - Inside the bedside table drawer in Room 206, under a Bible</li>
+                        <li data-line="45" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477791" target="_blank" rel="nofollow noopener noreferrer">Paranoid Note</a> - Scribbled on walls of padded cell in C Wing, requires careful examination</li>
+                        <li data-line="46" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477784" target="_blank" rel="nofollow noopener noreferrer">Patient's Note</a> - Hidden under the mattress in Room 312, stained with medication</li>
+                        <li data-line="47" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477776" target="_blank" rel="nofollow noopener noreferrer">Reception Desk Note</a> - Behind the front desk computer monitor, partially covered by folders</li>
+                        <li data-line="48" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477772" target="_blank" rel="nofollow noopener noreferrer">Staff Memo</a> - Posted on employee bulletin board in basement level break room</li>
+                        <li data-line="49" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477783" target="_blank" rel="nofollow noopener noreferrer">The Procedure</a> - Locked in medical cabinet in Treatment Room 3, requires special key</li>
+                        <li data-line="50" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477765" target="_blank" rel="nofollow noopener noreferrer">Treatment Room Note</a> - On operating table in Special Treatment Room, covered in suspicious stains</li>
+                    </ol>
+                    <h2 id="historical-society-%26-prison" data-line="52" class="code-line">
+                        <a class="header-anchor-link" href="#historical-society-%26-prison" aria-hidden="true"></a> Historical Society &amp; Prison</h2>
+                    <ol start="41" data-line="53" class="code-line">
+                        <li data-line="53" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478780" target="_blank" rel="nofollow noopener noreferrer">Burned Note</a> - Partially burned document in the museum's fireplace, must be carefully retrieved</li>
+                        <li data-line="54" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477835" target="_blank" rel="nofollow noopener noreferrer">Confession</a> - Written on prison cell wall in Block C, cell 17, use flashlight to read clearly</li>
+                        <li data-line="55" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478860" target="_blank" rel="nofollow noopener noreferrer">Cryptic Letter</a> - Hidden behind the painting "Misty Day, Remains of the Judgment" in gallery</li>
+                        <li data-line="56" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477793" target="_blank" rel="nofollow noopener noreferrer">Guard's Letter</a> - In the warden's office desk, third drawer down, beneath old reports</li>
+                        <li data-line="57" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477796" target="_blank" rel="nofollow noopener noreferrer">Letter</a> - Stuffed inside a crack in the wall of the execution chamber</li>
+                        <li data-line="58" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477797" target="_blank" rel="nofollow noopener noreferrer">Note on a Map</a> - Scrawled on back of historical prison layout map in museum entrance</li>
+                        <li data-line="59" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477418" target="_blank" rel="nofollow noopener noreferrer">Prison Note</a> - Inside a rusty tin can in the prison cafeteria kitchen</li>
+                        <li data-line="60" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477789" target="_blank" rel="nofollow noopener noreferrer">Prisoner's Letter</a> - Hidden in loose brick in cell block A, near the shower area</li>
+                        <li data-line="61" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477419" target="_blank" rel="nofollow noopener noreferrer">Tablet Note</a> - Carved into stone tablet in underground exhibition room</li>
+                        <li data-line="62" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477420" target="_blank" rel="nofollow noopener noreferrer">Underground Note</a> - Found in maintenance tunnel beneath prison, near broken pipes</li>
+                    </ol>
+                    <h2 id="lakeview-hotel" data-line="64" class="code-line">
+                        <a class="header-anchor-link" href="#lakeview-hotel" aria-hidden="true"></a> Lakeview Hotel</h2>
+                    <ol start="51" data-line="65" class="code-line">
+                        <li data-line="65" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478787" target="_blank" rel="nofollow noopener noreferrer">Cleaning Staff Memo #1</a> - Inside janitor's cart on 2F hallway, between cleaning supplies</li>
+                        <li data-line="66" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478783" target="_blank" rel="nofollow noopener noreferrer">Cleaning Staff Note #2</a> - Posted in maintenance closet on 1F, behind vacuum cleaner</li>
+                        <li data-line="67" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478782" target="_blank" rel="nofollow noopener noreferrer">Cleaning Staff Note #3</a> - Tucked in cleaning schedule binder in staff room</li>
+                        <li data-line="68" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478786" target="_blank" rel="nofollow noopener noreferrer">Door Photo</a> - Inside guest book at front desk, used as bookmark</li>
+                        <li data-line="69" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477410" target="_blank" rel="nofollow noopener noreferrer">Elevator Note</a> - Posted next to elevator call button on 3F</li>
+                        <li data-line="70" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477421" target="_blank" rel="nofollow noopener noreferrer">Employee Note</a> - In employee locker room, pinned inside locker #7</li>
+                        <li data-line="71" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478784" target="_blank" rel="nofollow noopener noreferrer">Gate Photo</a> - Behind reception desk in old photograph frame</li>
+                        <li data-line="72" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477422" target="_blank" rel="nofollow noopener noreferrer">Hotel Letter</a> - Room 319 nightstand drawer, under Bible</li>
+                        <li data-line="73" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477423" target="_blank" rel="nofollow noopener noreferrer">Hotel Note</a> - Behind front desk in guest complaint folder</li>
+                        <li data-line="74" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478781" target="_blank" rel="nofollow noopener noreferrer">Keypad Numbers Memo</a> - Written on back of maintenance request form in security office</li>
+                        <li data-line="75" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478788" target="_blank" rel="nofollow noopener noreferrer">Laura's Letter</a> - Dropped in hallway outside Room 312</li>
+                        <li data-line="76" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478789" target="_blank" rel="nofollow noopener noreferrer">Lost &amp; Found Note</a> - In lost and found box behind front desk</li>
+                        <li data-line="77" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478790" target="_blank" rel="nofollow noopener noreferrer">Receptionist Memo</a> - Under keyboard at front desk computer</li>
+                        <li data-line="78" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477424" target="_blank" rel="nofollow noopener noreferrer">Room 312 Note</a> - On bed in Room 312, partially hidden under pillow</li>
+                        <li data-line="79" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/478785" target="_blank" rel="nofollow noopener noreferrer">Stain Photo</a> - In photo album on coffee table in lobby</li>
+                        <li data-line="80" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477792" target="_blank" rel="nofollow noopener noreferrer">Threatening Note</a> - Slipped under door of Room 204</li>
+                        <li data-line="81" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477775" target="_blank" rel="nofollow noopener noreferrer">Toolbox Memo</a> - Inside maintenance room toolbox, beneath tools</li>
+                        <li data-line="82" class="code-line"><a href="https://game8.co/games/Silent-Hill-2-Remake/archives/477852" target="_blank" rel="nofollow noopener noreferrer">Unfinished Report</a> - On manager's desk in back office, coffee stained</li>
+                    </ol>
+                    <p data-line="84" class="code-line"><em>Note: All 68 memos are required for the Archivist achievement. Each link provides additional screenshots and detailed directions. Some memos may only be accessible at specific points in the story or require certain items to reach.</em></p>
+                </div>
+            </div>
+            <div class="column-page-navigation">
+
+                <div class="toc">
+                    <ul>
+                        <li class="toc-level-1"><a href="#silent-hill-2-remake---complete-memo-locations-guide-(68-total)" title="# Silent Hill 2 Remake - Complete Memo Locations Guide (68 Total)">Silent Hill 2 Remake - Complete Memo Locations Guide (68 Total)</a>
+                            <ul>
+                                <li class="toc-level-2"><a href="#east-south-vale" title="## East South Vale">East South Vale</a></li>
+                                <li class="toc-level-2"><a href="#wood-side-apartments" title="## Wood Side Apartments">Wood Side Apartments</a></li>
+                                <li class="toc-level-2"><a href="#brookhaven-hospital" title="## Brookhaven Hospital">Brookhaven Hospital</a></li>
+                                <li class="toc-level-2"><a href="#brookhaven-hospital-(continued)" title="## Brookhaven Hospital (continued)">Brookhaven Hospital (continued)</a></li>
+                                <li class="toc-level-2"><a href="#historical-society-%26-prison" title="## Historical Society & Prison">Historical Society & Prison</a></li>
+                                <li class="toc-level-2"><a href="#lakeview-hotel" title="## Lakeview Hotel">Lakeview Hotel</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

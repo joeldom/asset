@@ -1,3 +1,17 @@
+<style>
+    body {
+        background-color: #000;
+		font-size: .94rem;
+		color: #fff;
+    }
+	h3 {
+		color: green;
+	}
+	li{
+		color: red;
+	}
+</style>
+
 # Strange Photo Locations
 
 ### Eastern South Vale Strange Photos
@@ -49,7 +63,7 @@
 	- In the drawer of a bedside cabinet in room C5 of Brookhaven Hospital	
 
 15. Name: "They musn't know"
-	- On a wooden bench, near a lifebuoy, at the north-west corner of the pool area of Brook Haven Hospital
+	- On a wooden bench, near a lifebuoy, at the north-west corner of the pool area of Brook Haven Hospital (after Maria rejoins the party)
 
 ### South Vale Otherworld Strange Photos
 16. Name: "They're here"

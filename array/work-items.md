@@ -4,47 +4,59 @@
                     coma : beta :  s i g m a
                      #1a3acc #1ACCAB #ab1acc
 
-                              var
-                     @primary: #1a3acc;
-                     $cool-blue: #e0e9fe;
-                     $off-white: #e4dfd9;
-                     $cool-grey: #a3a3a3;
-                     $warm-grey: #e4dfd9;
-                     @magenta: #ab1acc;
-                     $fucshia: #84017E;
-                     @red: #600000;
-                     $blood-red: #690808;
-                     @legacy: #008080;
-                     $java: #1ACCAB;
-                     $pale-blue: #a6aaf4;
-                     $evergreen: #142a2d;
-                     $gable: #142a2d;
-                     $dark-olive: #1A1E1C;
-                     @gold: #CCAB1A;
-                     @golden: #CCAB1A;
-                     @burlywood: #DEB887;
-                     $safety-green: #BBFF32;
-                     $bright-green: #14E158;
-                     $mint: #2e8c5f;
-                     $pale-olive: #648476;
-                     $bright-base: #F0F4F7;
-                     $rosy-pink: #F7F2FB;
-                     $metal: #5A6771;
-                     $dark-grey: #767676;
-                     $medium-grey: #C4C4C4;
-                     $warm-black: #2D2828;
-                     $deep-green: #0A202E;
-                     $deep-root: #004161;
+                     /* colors */
+						--brand-blue: #1A3ACC;
+						--dark-blue: #001C9B;
+						--very-dark-blue: #000E4E;
+						--cool-blue: #E0E9FE;
+						--magenta: #AB1ACC;
+						--fuchsia: #84017E;
+						--blood-red: #600000;
+						--dim-red: #EE0202;
+						--legacy: #008080;
+						--java: #1ACCAB;
+						--mint: #C0FFEA;
+						--pale-blue: #A6AAF4;
+						--robin: #A5C4DB;
+						--golden: #CCAB1A;
+						--burlywood: #DEB887;
+						--safety-green: #BBFF32;
+						--bright-green: #14E158;
+						--mint-green: #2E8C5F;
+						--pale-olive: #648476;
+						--bright-orange: rgba(255, 111, 63, 0.5);
+						--orange: #FF6F3F;
+						--dark-olive: #1A1E1C;
+						--black: #0A0C0E;
+						--white: #FFFFFF;
+						--base-bright: #F0F4F7;
+						--bright-grey: #F2F2F2;
+						--light-grey: #CFCFCF;
+						--warm-grey: #818181;
+						--metal: #5A6771;
+						--discord: #292B2F;
+						--ever-green: #142A2D;
+						--deep-green: #0A202E;
+						--warm-black: #2D2828;
+						--deep-root: #004161;
+						--euphoria: #00050F;
+						--euphoria-bg: rgba(0, 5, 15, 1);
+						--trans-black: rgba(0, 0, 0, 0.5);
+						/* properties */
+						--font-base-size: 14px;
+						--font-small-size: 12px;
+						--font-tiny-size: 10px;
+						--font-micro-size: 8px;
 
-                             urls
-                     joeldom.github.io/redesign
-                     joeldom.github.io/style-guide
-                     joeldom.github.io/resume
-                     twitter.com/joeldombek
-                     instagram.com/joeld/
-                     dribbble.com/joeldombek
-                     ello.co/joeldombek
-                     twitch.tv/joeldombek
+                    /* urls */
+						joeldom.github.io/redesign
+						joeldom.github.io/style-guide
+						joeldom.github.io/resume
+						twitter.com/joeldombek
+						instagram.com/joeld/
+						dribbble.com/joeldombek
+						ello.co/joeldombek
+						twitch.tv/joeldombek
 
                             cmd
 
@@ -56,6 +68,7 @@ The Redesign (<i>See [Style Guide](https://joeldom.github.io/style-guide/) compo
 ## Redesign + Vue.js
 
 Objectives:
+
 - Enhance UX: Intuitive and engaging interface.
 - Modern UI: Fresh design with brand-aligned aesthetics.
 - Performance: Fast, responsive, smooth application.
@@ -63,10 +76,23 @@ Objectives:
 - Maintainability: Easy-to-update codebase with Vue.js components.
 
 Key Features:
+
 - Dynamic Interactivity: Vue.js-powered interfaces.
 - Responsive Design: Seamless experience on all devices.
 - Structured & Abstract Design: Grid-based with asymmetry and large color areas.
 - User-Centric: Incorporates user feedback, guided by philosophy and Tao/Dao principles.
+
+<hr>
+
+## Writing Section
+
+**Non-Fiction**
+
+- Ego of Art - Book
+
+**Fiction**
+
+- From Beyond
 
 <hr>
 
@@ -134,6 +160,27 @@ pnpm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 <hr>
+
+
+## Color
+
+
+| Scope                | Color                                            | HEX     | RGB                |
+| -------------------- | ------------------------------------------------ | ------- | ------------------ |
+| Background           | ![#282c34](https://fakeimg.pl/35/282c34/?text=+) | #282c34 | rgb(40, 44, 52)    |
+| Foreground           | ![#abb2bf](https://fakeimg.pl/35/abb2bf/?text=+) | #abb2bf | rgb(171, 178, 191) |
+| Comment              | ![#636d83](https://fakeimg.pl/35/636d83/?text=+) | #636d83 | rgb(99, 109, 131)  |
+| Keyword              | ![#10b1fe](https://fakeimg.pl/35/10b1fe/?text=+) | #10b1fe | rgb(16, 177, 254)  |
+| Function/Method      | ![#3fc56b](https://fakeimg.pl/35/3fc56b/?text=+) | #3fc56b | rgb(63, 197, 107)  |
+| Property             | ![#ce9887](https://fakeimg.pl/35/ce9887/?text=+) | #ce9887 | rgb(206, 152, 135) |
+| String               | ![#f9c859](https://fakeimg.pl/35/f9c859/?text=+) | #f9c859 | rgb(249, 200, 89)  |
+| Number               | ![#ff78f8](https://fakeimg.pl/35/ff78f8/?text=+) | #ff78f8 | rgb(255, 120, 248) |
+| Constant             | ![#9f7efe](https://fakeimg.pl/35/9f7efe/?text=+) | #9f7efe | rgb(159, 126, 254) |
+| Markup Tag           | ![#3691ff](https://fakeimg.pl/35/3691ff/?text=+) | #3691ff | rgb(54, 145, 255)  |
+| Markup Attribute     | ![#ff936a](https://fakeimg.pl/35/ff936a/?text=+) | #ff936a | rgb(255, 147, 106) |
+| Class/Type/Interface | ![#ff6480](https://fakeimg.pl/35/ff6480/?text=+) | #ff6480 | rgb(255, 100, 128) |
+| Operator/Punctuation | ![#7a82da](https://fakeimg.pl/35/7a82da/?text=+) | #7a82da | rgb(122, 130, 218) |
+
 
 <article>
 	<span style="color:#1a3acc;background-color:#1a3acc;width:20px;display:inline-block;" title="#1a3acc">&nbsp;&squ;</span>
