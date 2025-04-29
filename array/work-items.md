@@ -65,6 +65,35 @@
 
 The Redesign (<i>See [Style Guide](https://joeldom.github.io/style-guide/) components and layouts</i>) uses [Vue.js](https://vuejs.org/guide/introduction.html) to transform the user experience and interface, aligning with the brand's neo-industrial corporate persona. Objectives include dynamic interactivity, improved performance, and a modern UI reflecting structured grid-based designs combined with abstract art principles.
 
+---
+
+## Tao Todo App
+[Repo - https://github.com/joeldom/tao-todo](https://github.com/joeldom/tao-todo)
+
+[Ai Lovable Project workspace](https://lovable.dev/projects/936b5720-8dfb-4f2f-921f-595974160f09)
+
+[Project Issue](https://github.com/joeldom/joeldom/issues/4)
+
+---
+### Concept: 
+todo list that expands out into a scheduling app that also would be like a card deck of things to pull from to tell you or it to do.
+
+### Ideas:
+to dos you can do! 
+or
+to dos that can be done.
+or
+AI assistant task runner
+
+### UI:
+simple dark todo list. that also has a task running event for running logistics of "things" being done or set to happen
+
+### Prompt:
+`lets build a dark mode (dark black background, with X/twitter aesthetic like Next.js for elements on the same plane to not have visible borders unless the element has an interaction and components being outlines to distinguish for testing) todo list. i want to be able to arrange the items numerically and also drag and drop mostly exactly like how the steam wishlist works. i want an input that is the prime focus when keyboard inputs happen with ENTER submitting the todo. order the todo list in one column using flex-box that has new items added to the bottom oldest at the top but include a way to sort ascending/descending to flip this. there will also be several tags used for grouping tasks such as: money, chore, job, personal, fun, urgent, eventually, soon, default (applied by default, to find ones not classified). each todo once added need to be able to be edited. clicking on the name allows the user to edit but must click "save" to update the entry also being able to delete if -> edit is first clicked similar to how discord messages work. making the content into an input and tiny buttons with small contextual words to indicate for clarity. `
+
+References:
+[Steam Wishlist - sortable, content rich](https://store.steampowered.com/wishlist/id/hidden_method/)
+
 ## Redesign + Vue.js
 
 Objectives:
@@ -218,7 +247,31 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <hr>
 
 <img style="padding:1em;background:transparent
-;display:inline-block;" width="100px" src="https://joeldom.github.io/asset/chip-logo.png"/>&nbsp;<img style="padding:1em;background:transparent
-;display:inline-block;" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/120px-Vue.js_Logo_2.svg.png"/>
+;display:inline-block;" alt="JD Chip Logo" width="100px" src="https://joeldom.github.io/asset/chip-logo.png"/>&nbsp;<img style="padding:1em;background:transparent
+;display:inline-block;" alt="Vue.js" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/120px-Vue.js_Logo_2.svg.png"/>
 <img style="padding:1em;background:pink
-;display:inline-block;" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/GAINAX.svg/1280px-GAINAX.svg.png"/>
+;display:inline-block;" alt="GAINAX" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/GAINAX.svg/1280px-GAINAX.svg.png"/>
+
+
+---
+
+### Copy / Paste
+
+Time slots
+
+```js
+1:00
+2:00
+3:00
+4:00
+5:00
+6:00
+7:00
+8:00
+9:00
+10:00
+11:00
+12:00
+```
+
+---
