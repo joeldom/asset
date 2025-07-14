@@ -17,6 +17,7 @@
         "password123",
         "snake",
         "BIG",
+        "Derivative",
         "What?",
         "python",
         "regular",
@@ -31,6 +32,7 @@
         "grave",
         "tnogight",
         "tonight",
+        "Context",
         "Focused",
         ":hover",
         "<div>",
@@ -74,6 +76,7 @@
         "YOUR",
         "FRIENDS",
         "/n",
+        "100P",
         ".be/nzvLiwUK3R8",
         "MORE",
         "v1",
@@ -195,7 +198,7 @@
         "BOT",
         "attenuation",
         "dang",
-        "is wut it is",
+        "is what it is",
         "FormLESS",
         "Somewhere",
         "spectrum...",
@@ -215,6 +218,7 @@
         "paste(cmd+p)",
         "ORDER",
         "READ",
+        "READ THIS",
         "READ MORE",
         "ActiveCfg",
         "x64.Build.0",
@@ -389,7 +393,7 @@
         "Seegson",
         "Solomons",
         "Cheyenne",
-        "Northridge[",
+        "Northridge",
         "Sephora",
         "Cordelia",
         "Oberon",
@@ -402,7 +406,7 @@
         "",
         "",
         "",
-        ""
+        "_BLANK_"
     ],
     "SiteStrings": [
         "Sitio",
@@ -454,6 +458,116 @@
     ],
     "storedPassword": [
         "COMPANY_NAME",
-        "Joel Dombek"
+        "Joel Dombek",
+        "let me in",
+        "Let Me In",
+        "LET ME IN"
+    ],
+    "pageTitle": [
+        "DESIGN GATEWAY 隠された向こう側 -COMA VII.XII,MMXXV",
+        "From Beyond",
+        "向こうから",
+        "Contra Memoria",
+        "コントラメモリア",
+        "Counter Memory",
+        "カウンターメモリ",
+        "Hidden Method",
+        "隠された方法",
+        "Recurring Nightmare",
+        "繰り返される悪夢",
+        "Outpost Omega",
+        "前哨基地オメガ",
+        "Last Stop",
+        "最後の停留所",
+        "The End",
+        "終わり",
+        "Nocturnus",
+        "STX6",
+        "Nocturnalis",
+        "S++TX6"
+    ],
+    "pages": [{
+            "id": 0,
+            "type": "article",
+            "name": "Prologue",
+            "title": "The Prologue 序章",
+            "image": "",
+            "description": "プロローグ",
+            "keywords": "Prologue, Introduction, Start, Beginning, Design, Development, Programming, Coding, Creative",
+            "url": ""
+        },
+        {
+            "id": 1,
+            "type": "article",
+            "name": "Home",
+            "title": "Home 家",
+            "image": "",
+            "description": "Make it count.",
+            "keywords": "Home, Index, Main, Start, Landing, Page, Design, Development, Programming, Coding, Creative",
+            "url": ""
+        },
+        {
+            "id": 2,
+            "type": "article",
+            "name": "Work",
+            "title": "My Work 私の仕事",
+            "image": "",
+            "image 01": "",
+            "image 02": "",
+            "image 03": "",
+            "description": "Make it count.",
+            "keywords": "Work, Portfolio, Projects, Design, Development, Programming, Coding, Creative",
+            "url": ""
+        },
+        {
+            "id": 3,
+            "type": "article",
+            "name": "Ideas",
+            "title": "Ideas アイデア",
+            "image": "",
+            "description": "Make it count.",
+            "keywords": "Ideas, Thoughts, Concepts, Design, Development, Programming, Coding, Creative",
+            "url": ""
+        },
+        {
+            "id": 4,
+            "type": "article",
+            "name": "Info",
+            "title": "Info 情報",
+            "image": "",
+            "description": "Make it count.",
+            "keywords": "Info, Information, Contact, About, Me, Joel Dombek, me@joeldombek.com",
+            "url": ""
+        },
+        {
+            "id": 5,
+            "type": "article",
+            "name": "Resume",
+            "title": "Resumé 履歴書 / 再開する",
+            "image": "",
+            "description": "Make it count.",
+            "keywords": "Resume, CV, Curriculum Vitae, Portfolio, Work, Experience, Skills, Education",
+            "url": ""
+        },
+        {
+            "id": 6,
+            "type": "article",
+            "name": "Sandbox",
+            "title": "Sandbox サンドボックス",
+            "image": "",
+            "description": "Make it count.",
+            "keywords": "Sandbox, test, play, experiment, design, development",
+            "url": ""
+        },
+        {
+            "id": 7,
+            "type": "article",
+            "name": "Style Guide",
+            "title": "Style GUide スタイルガイド",
+            "image": "",
+            "description": "Make it count.",
+            "keywords": "design, style, guide, css, html, javascript",
+            "url": ""
+        }
     ]
 }

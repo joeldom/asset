@@ -27,7 +27,6 @@
 	],
 	"settings": {
 		"cSpell.words": [
-			"",
 			"ABCČĆDĐEFGHIJKLMNOPQRSŠTUVWXYZ",
 			"ABCČĆDĐEFGHIJKLMNOPQRSŠTUVWXYZŽabcčćdđefghijklmnopqrsštuvwxyzžАБВГҐДЂЕЁЄЖЗЅИІЇЙЈКЛЉМНЊОПРСТЋУЎФХЦЧЏШЩЪЫЬЭЮЯабвгґдђеёєжзѕиіїйјклљмнњопрстћуўфхцчџшщъыьэюяΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωάΆέΈέΉίϊΐΊόΌύΰϋΎΫὰάὲέὴήὶίὸόὺύὼώΏआईऊऋॠऌॡऐऔऎअंअँकखगघङचछजझञटठडढणतथदधनपफबभयरवळशषसहĂÂÊÔƠƯăâêôơư1234567890",
 			"absmiddle",
@@ -54,6 +53,8 @@
 			"MMXXV",
 			"mozallowfullscreen",
 			"nesbit",
+			"Nocturnalis",
+			"Nocturnus",
 			"predeploy",
 			"preheader",
 			"Reactable",
