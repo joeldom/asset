@@ -1,0 +1,18 @@
+{
+    "used_history_button": true,
+    "show_success_notification_for_icognito": true,
+    "theme": "dark",
+    "view_options": {
+        "all_tabs": false,
+        "low_quality": false,
+        "sort_by_status": true,
+        "sort_reverse": false,
+        "show_button_clean": true,
+        "show_button_clean_all": true,
+        "show_button_convert_local": true,
+        "hide_downloaded": false
+    },
+    "use_sidebar": true,
+    "open_count_store": 7,
+    "successfull_dl": 30
+}
