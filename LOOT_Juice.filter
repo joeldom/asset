@@ -1,0 +1,106 @@
+Show
+    Quality >= 1
+    SetFontSize 28
+    SetTextColor 200 200 200
+    SetBorderColor 150 150 150
+    SetBackgroundColor 30 30 30
+
+Show
+    Sockets >= 1
+    SetFontSize 28
+    SetTextColor 200 200 200
+    SetBorderColor 150 150 150
+    SetBackgroundColor 30 30 30
+
+# Trial Keys (Waystones)
+Show
+    Class "Waystones"
+    SetFontSize 36
+    SetTextColor 255 215 0  # Gold color
+    SetBorderColor 255 165 0  # Orange border
+    SetBackgroundColor 50 0 0  # Dark red background
+    PlayAlertSound 2 300
+    PlayEffect Brown
+    MinimapIcon 2 Brown Diamond
+
+# Quivers (Hunting)
+Show
+    Class "Quivers"
+    Rarity >= Magic
+    SetFontSize 36
+    SetTextColor 200 200 255
+    SetBorderColor 150 150 255
+    SetBackgroundColor 30 30 50
+    PlayAlertSound 4 200
+    PlayEffect Blue
+    MinimapIcon 2 Blue Diamond
+
+Hide
+    Class == "Body Armour" "Boots" "Gloves" "Helmets" "Bows" "Crossbows" "Foci" "One Hand Maces" "Quivers" "Quarterstaves" "Shields" "Staves" "Two Hand Maces" "Bucklers"
+  ##    Class == "Body Armour"         "Gloves" "Helmets" "Bows" "Crossbows"        "One Hand Maces" "Quivers"                 "Shields"          "Two Hand Maces" 
+  Rarity <= Magic
+
+## Hide
+  ## Class "Amulet" "Ring" "Belt"
+  ## Rarity <= Normal
+
+Hide
+  BaseType "Scroll of Wisdom"
+
+Hide
+  Class "Flask"
+  Rarity < Magic
+
+Hide
+  BaseType "Gold"
+  StackSize < 25
+
+Hide 
+  Class "Charms"
+  Rarity <= Magic
+  Quality = 0
+
+# Hide Low-Value Items
+Hide
+    Rarity Normal Magic
+    ItemLevel < 66
+    Class "Armour" "Flask" "Jewel" "Bucklers" "Shields"
+    SetFontSize 0 # Effectively hides by making invisible
+
+# Hide all normal/magic bucklers and shields
+Hide
+    Class "Bucklers"
+    Rarity <= Magic
+    SetFontSize 0
+
+Hide
+    Class "Shields"
+    Rarity <= Magic
+    SetFontSize 0
+
+	# Highlight Reliquary Keys and Golden Keys
+Show
+    BaseType "Golden Key" "Silver Key" "Bronze Key"
+    SetTextColor 255 215 0 255    # Gold color for high visibility
+    SetBorderColor 255 215 0 255  # Gold border
+    SetBackgroundColor 50 50 50 200  # Dark background
+    PlayAlertSound 2 300          # Loud alert sound (adjust ID and volume as needed)
+    MinimapIcon 2 Yellow Star     # Yellow star on minimap
+    PlayEffect Yellow Beam        # Yellow beam effect
+
+Show
+    Class "Currency" "Key"
+    SetTextColor 255 255 255 255
+    PlayAlertSound 1 300
+
+
+# Trial Keys (Gold, Silver, Bronze) - High Priority
+Show
+    BaseType "Gold Key" "Silver Key" "Bronze Key"
+    SetTextColor 255 255 0 255    # Bright yellow text for visibility
+    SetBorderColor 255 0 0 255    # Red border to stand out
+    SetBackgroundColor 0 0 0 200  # Dark background for contrast
+    PlayAlertSound 2 300          # Loud sound (ID 2, max volume)
+    MinimapIcon 0 Red Circle      # Red circle on minimap
+    PlayEffect Red Beam           # Red beam effect for emphasis
+	
