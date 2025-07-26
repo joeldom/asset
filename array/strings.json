@@ -343,6 +343,8 @@
         "Alyoshenka",
         "Triton",
         "exo-",
+        "EXO",
+        "exo"
         "MU69",
         "New Horizons",
         "Kuiper",
@@ -490,7 +492,8 @@
         "Nocturnus",
         "STX6",
         "Nocturnalis",
-        "S++TX6"
+        "S++TX6",
+        "EXO Agent"
     ],
     "pages": [{
             "id": 0,
@@ -521,7 +524,7 @@
             "image 01": "",
             "image 02": "",
             "image 03": "",
-            "description": "Make it count.",
+            "description": "What it is",
             "keywords": "Work, Portfolio, Projects, Design, Development, Programming, Coding, Creative",
             "url": ""
         },
@@ -569,7 +572,7 @@
             "id": 7,
             "type": "article",
             "name": "Style Guide",
-            "title": "Style GUide スタイルガイド",
+            "title": "Style Guide スタイルガイド",
             "image": "",
             "description": "Make it count.",
             "keywords": "design, style, guide, css, html, javascript",
