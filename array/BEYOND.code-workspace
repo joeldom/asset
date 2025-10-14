@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "../../sandbox"
+		},
+		{
+			"path": "../../EXO"
 		}
 	],
 	"settings": {

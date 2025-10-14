@@ -143,6 +143,8 @@
         "λ9 Nine",
         "λ10 Ten",
         "epsilon",
+        "beyond",
+        "catalyst",
         "gamma",
         "gaiden",
         "geist",
@@ -415,6 +417,9 @@
         ".06, .12, .96, 1.05",
         "",
         "_BLANK_"
+        "Alison",
+        "Elisibeth",
+        "Kathrine"
     ],
     "SiteStrings": [
         "Sitio",
@@ -463,6 +468,18 @@
         "صندوق رمل",
         "Cassetta di sabbia",
         "모래 상자"
+    ],
+    "CasestudiesStrings": [
+        "...",
+        "...",
+        "Case Studies",
+        "...",
+        "..",
+        "...",
+        "...",
+        "...",
+        "...",
+        "..."
     ],
     "storedPassword": [
         "COMPANY_NAME",
@@ -576,6 +593,16 @@
             "image": "",
             "description": "Make it count.",
             "keywords": "design, style, guide, css, html, javascript",
+            "url": ""
+        },
+        {
+            "id": 8,
+            "type": "article",
+            "name": "Branding",
+            "title": "Branding ブランディング",
+            "image": "",
+            "description": "What is first recognized",
+            "keywords": "brand, design, style, guide, css, html, javascript",
             "url": ""
         }
     ]
