@@ -452,6 +452,18 @@
         "Sito",
         "사이트"
     ],
+    "WorkStrings": [
+        "Trabajo",
+        "Work",
+        "Emprego",
+        "工作",
+        "作品",
+        "Работа",
+        "Werk",
+        "عمل",
+        "Lavoro",
+        "작업"
+    ],
     "ResumeStrings": [
         "Currículum",
         "Curriculum vitae",
@@ -488,17 +500,17 @@
         "Cassetta di sabbia",
         "모래 상자"
     ],
-    "CasestudiesStrings": [
-        "...",
-        "...",
+    "CaseStudiesStrings": [
+        "Estudios de Caso",
         "Case Studies",
-        "...",
-        "..",
-        "...",
-        "...",
-        "...",
-        "...",
-        "..."
+        "Estudos de Caso",
+        "案例研究",
+        "事例紹介",
+        "Кейсы",
+        "Fallstudien",
+        "دراسات الحالة",
+        "Studi di Caso",
+        "사례 연구"
     ],
     "storedPassword": [
         "COMPANY_NAME",
