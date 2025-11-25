@@ -466,20 +466,20 @@
     ],
     "ResumeStrings": [
         "Currículum",
-        "Curriculum vitae",
+        "Curriculum Vitae",
         "Lebenslauf",
         "简历",
         "履歴書",
         "Резюме",
         "Currículo",
         "سيرة ذاتية",
-        "Curriculum vitae",
+        "Curriculum Vitae",
         "이력서"
     ],
     "StyleguideStrings": [
         "Guía de estilo",
-        "Guide de style",
         "Styleguide",
+        "Guide de style",
         "样式指南",
         "スタイルガイド",
         "Руководство по стилю",
@@ -490,8 +490,8 @@
     ],
     "SandboxStrings": [
         "Caja de arena",
-        "Bac à sable",
         "Sandbox",
+        "Bac à sable",
         "沙盒",
         "砂場",
         "Песочница",
