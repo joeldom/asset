@@ -1,0 +1,281 @@
+├───about
+├───all
+├───beyond
+│   ├───boilerplate
+│   │   └───new-site
+│   │       ├───css
+│   │       ├───doc
+│   │       ├───img
+│   │       └───js
+│   │           └───vendor
+│   ├───css
+│   └───js
+├───bitmain-rip
+├───bkup
+├───brand
+├───coma
+├───contact
+├───coverage
+├───css
+│   └───css-21
+├───f
+│   └───Inter
+│       └───static
+├───greybox
+│   ├───ck backup
+│   │   ├───4.19
+│   │   ├───5-17
+│   │   └───5.25
+│   ├───css
+│   │   ├───backup
+│   │   └───backup 6-10-14
+│   ├───font
+│   │   └───specimen_files
+│   ├───img
+│   ├───js
+│   │   ├───min
+│   │   └───tests
+│   │       ├───unit
+│   │       └───vendor
+│   ├───pages
+│   │   ├───temp
+│   │   └───_backup
+│   ├───sass
+│   │   ├───.sass-cache
+│   │   │   └───07230a629bf87608cfb45a892f5aeb65b69fa3d1
+│   │   ├───backup
+│   │   ├───bootstrap
+│   │   │   └───mixins
+│   │   └───_backup
+│   │       ├───5-24-16
+│   │       └───5-31-16
+│   └───src
+│       ├───halcyon
+│       │   ├───assets
+│       │   ├───css
+│       │   ├───img
+│       │   └───js
+│       │       └───min
+│       └───Swifticons_invisionApp
+│           ├───Colored
+│           │   ├───EPS
+│           │   ├───PNG
+│           │   │   ├───@1x
+│           │   │   ├───@2x
+│           │   │   └───@3x
+│           │   └───SVG
+│           ├───Filled
+│           │   ├───EPS
+│           │   ├───PNG
+│           │   │   ├───@1x
+│           │   │   ├───@2x
+│           │   │   └───@3x
+│           │   └───SVG
+│           ├───Outlined
+│           │   ├───EPS
+│           │   ├───PNG
+│           │   │   ├───@1x
+│           │   │   ├───@2x
+│           │   │   └───@3x
+│           │   └───SVG
+│           └───_Source
+│               ├───AI
+│               └───Sketch
+├───greybox 2
+│   ├───ck backup
+│   │   ├───5-17
+│   │   └───5.25
+│   ├───css
+│   │   ├───backup
+│   │   └───backup 6-10-14
+│   ├───font
+│   │   └───specimen_files
+│   ├───img
+│   ├───js
+│   │   ├───min
+│   │   ├───tests
+│   │   │   ├───unit
+│   │   │   └───vendor
+│   │   └───_backup
+│   │       └───5.24.16
+│   │           ├───bootstrap
+│   │           │   └───2.0.1
+│   │           └───min
+│   ├───pages
+│   ├───sass
+│   │   └───_backup
+│   │       └───5.24.16
+│   └───src
+│       └───Swifticons_invisionApp
+│           ├───Colored
+│           │   ├───EPS
+│           │   ├───PNG
+│           │   │   ├───@1x
+│           │   │   ├───@2x
+│           │   │   └───@3x
+│           │   └───SVG
+│           ├───Filled
+│           │   ├───EPS
+│           │   ├───PNG
+│           │   │   ├───@1x
+│           │   │   ├───@2x
+│           │   │   └───@3x
+│           │   └───SVG
+│           ├───Outlined
+│           │   ├───EPS
+│           │   ├───PNG
+│           │   │   ├───@1x
+│           │   │   ├───@2x
+│           │   │   └───@3x
+│           │   └───SVG
+│           └───_Source
+│               ├───AI
+│               └───Sketch
+├───ideas
+│   └───quotes
+├───images
+│   └───2019
+│       └───07
+├───img
+├───info
+├───interface
+├───js
+├───other
+│   ├───crazy-balls-horizont
+│   │   ├───css
+│   │   └───less
+│   ├───rainbow-effect
+│   │   ├───css
+│   │   └───js
+│   ├───rainbow-noise
+│   │   ├───css
+│   │   ├───js
+│   │   └───scss
+│   └───tectonic
+│       ├───css
+│       ├───js
+│       └───scss
+├───para
+├───quotes
+├───react-redesign
+│   ├───public
+│   └───src
+│       ├───comp
+│       │   └───part
+│       ├───data
+│       ├───doc
+│       │   ├───content
+│       │   └───snippets
+│       ├───font
+│       │   └───IBM_Plex_Sans
+│       ├───img
+│       ├───pages
+│       ├───style
+│       │   ├───base
+│       │   └───part
+│       └───utilities
+├───s
+│   └───p
+│       └───1
+├───sandbox
+│   ├───absolute
+│   ├───arise
+│   ├───destroy
+│   ├───ecco
+│   ├───hidden
+│   ├───img
+│   ├───layers
+│   ├───modsynth
+│   ├───motherbase
+│   │   ├───v1
+│   │   ├───v2
+│   │   └───v3
+│   ├───neogeo
+│   ├───opcost
+│   ├───packets
+│   ├───products
+│   ├───prompt
+│   │   └───lib
+│   ├───sorta
+│   ├───static
+│   │   └───v2
+│   ├───style-guide
+│   │   └───css
+│   ├───tagcloud
+│   ├───TAS
+│   │   └───prog
+│   ├───tests
+│   ├───timecries
+│   ├───v2
+│   ├───vidjs
+│   └───writing
+├───sigma
+│   ├───ck backup
+│   │   ├───4.19
+│   │   ├───5-17
+│   │   └───5.25
+│   ├───css
+│   │   ├───backup
+│   │   └───backup 6-10-14
+│   ├───font
+│   │   └───specimen_files
+│   ├───img
+│   ├───js
+│   │   ├───min
+│   │   └───tests
+│   │       ├───unit
+│   │       └───vendor
+│   ├───node_modules
+│   ├───pages
+│   │   ├───temp
+│   │   └───_backup
+│   ├───scss
+│   │   ├───.sass-cache
+│   │   │   └───07230a629bf87608cfb45a892f5aeb65b69fa3d1
+│   │   ├───backup
+│   │   ├───bootstrap
+│   │   │   └───mixins
+│   │   └───_backup
+│   │       ├───5-24-16
+│   │       └───5-31-16
+│   └───src
+│       ├───halcyon
+│       │   ├───assets
+│       │   ├───css
+│       │   ├───img
+│       │   └───js
+│       │       └───min
+│       └───Swifticons_invisionApp
+│           ├───Colored
+│           │   ├───EPS
+│           │   ├───PNG
+│           │   │   ├───@1x
+│           │   │   ├───@2x
+│           │   │   └───@3x
+│           │   └───SVG
+│           ├───Filled
+│           │   ├───EPS
+│           │   ├───PNG
+│           │   │   ├───@1x
+│           │   │   ├───@2x
+│           │   │   └───@3x
+│           │   └───SVG
+│           ├───Outlined
+│           │   ├───EPS
+│           │   ├───PNG
+│           │   │   ├───@1x
+│           │   │   ├───@2x
+│           │   │   └───@3x
+│           │   └───SVG
+│           └───_Source
+│               ├───AI
+│               └───Sketch
+├───site
+├───style-guide
+│   └───css
+├───stylesheets
+│   └───sass
+├───templates
+├───timeline
+├───work
+└───_includes

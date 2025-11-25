@@ -1,0 +1,44 @@
+├───array
+│   ├───backup
+│   ├───ffxiv
+│   └───pathofexile
+├───audio
+│   └───songs
+├───books
+├───config
+├───coverage
+├───doc
+│   ├───Echoes of Eternity
+│   └───Interview
+├───documents
+├───favicon
+├───fonts
+├───icons
+├───images
+│   ├───r
+│   ├───ui
+│   └───z_bkup
+├───lib
+├───logos
+│   ├───Beth
+│   ├───creative-assembly
+│   ├───jd
+│   ├───NS
+│   ├───oak
+│   └───phil-pastine-resume
+├───NS
+├───patterns
+│   └───hologram
+├───photos
+├───profile
+├───PS CS6 Splash
+├───samples
+├───self
+├───style-guide
+│   └───ux
+├───textures
+├───ui-img
+│   └───mod-synth
+├───ui-svg
+├───vid
+└───writing
