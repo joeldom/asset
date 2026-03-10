@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Principal UX Engineer opportunity with Brainstorm Creative Resources. With over a decade of experience bridging product design and frontend engineering across financial, healthcare, and enterprise platforms, I have consistently operated at the intersection of scalable UI architecture, accessibility governance, and cross-functional product delivery.
+
+Most recently, I contributed to enterprise design system evolution and reporting dashboard modernization at BNY Mellon, where I co-architected a Figma component library aligned with Storybook and Angular implementation. My work focused on reducing design-to-development drift, strengthening WCAG 2.2 AA accessibility compliance through semantic HTML and ARIA practices, and aligning sprint planning with engineering lift and personalization requirements across complex financial products.
+
+Previously, I led frontend development and UI architecture for multi-tenant healthcare platforms serving organizations such as Bayer and Johnson & Johnson. There, I partnered closely with backend engineering and QA teams to integrate scalable frontend systems with APIs, implement modular CSS/SCSS patterns, and support automated regression and accessibility validation workflows to reduce release risk.
+
+Across roles, I have served as a cross-functional bridge between Product, Design, and Engineering — defining scope, contributing to sprint planning, strengthening design system governance, and delivering rapid prototypes that accelerate stakeholder alignment and go-to-market initiatives. I actively integrate AI-assisted workflows to enhance component standardization, accessibility auditing, and documentation clarity.
+
+I am particularly drawn to this opportunity because it combines advanced frontend implementation, accessibility rigor, and enterprise-scale design systems — areas where I have consistently delivered measurable impact. I would welcome the opportunity to contribute both technical leadership and systems-level thinking to your client’s UX Engineering team.
+
+Thank you for your time and consideration. I look forward to discussing how my background can support your team in delivering visually distinctive, accessible, and technically robust digital experiences that reflect the creative standards Brainstorm is known for.
+
+Sincerely,
+Joel Dombek
+[me@joeldombek.com](mailto:me@joeldombek.com)
+joeldombek.com

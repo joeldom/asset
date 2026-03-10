@@ -1,0 +1,137 @@
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+
+[JOELDOMBEK Logo alt text]
+
+Resume + Intro
+Sr. UI/UX Product Designer + Lead FE Engineer
+To: BCR Hiring Manager
+From: Joel Dombek 
+me@joeldombek.com
+joeldombek.com
+Case Studies
+
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+For your consideration
+Senior UX Engineer and Product Design Leader with 10+ years of experience architecting scalable frontend systems across financial, healthcare ,marketing and enterprise platforms. Specializes in design system governance, WCAG 2.2 accessibility compliance, responsive UI architecture, and cross-functional sprint leadership. Bridges design and engineering to deliver performant, maintainable interfaces using HTM/CSS3 Vue, React, Angular, and modern JavaScript ecosystems.
+Tech Stack
+Design Tools: Figma, Photoshop, Illustrator, Lightroom,  After Effects, InVision
+Front-End Development: HTML5, CSS3/SASS, JavaScript (ES6+), Vue.js, React.js, Angular.js, Node.js  
+UX/UI Frameworks: Bootstrap, Material UI, Tailwind CSS  
+CI/CD: GitHub, GitKraken, SourceTree, AWS, Docker, Adobe Experience Manager
+Team Project: Jira, FigJam, Miro, Slack, Teams, Trello, Asana, Salesforce, Analytics, OBS, Discord, Canva
+
+Experience
+YellowBridge — Pittsburgh, PA (contract remote) 
+ Designer ~ Apr 2025 – Oct 2025  - Rapid prototyping & Responsive implementation of landing page designs into social campaign assets with Figma & Adobe XD
+
+Creative Assembly — Pittsburgh, PA (contract remote) 
+Lead Front-tend Developer ~ Feb 2024 – Aug 2024  - Landing Page & Design System Styling with Vue.js + SASS
+
+BNY Mellon — Pittsburgh, PA (hybrid)
+Sr. UX Product Designer, Investment Management ~ Jan 2023 – Feb 2024
+  - Created prototypes to streamline client pathways and library enhancements on account management utilizing responsive breakpoints for their many display needs.
+  - Worked with clients & stakeholders to understand areas that could be improved with design patterns in their data visualization (graphing & reporting) dashboards.
+  - Collaborated with developers to understand the lift and scope as well as impact on wider shared services and align components into WCAG 2.2 AA with semantic HTML.
+  - Led cross-functional sprint planning sessions to define scope, acceptance criteria, sprint planning alongside client/user heuristics feedback and UI engineering lift across
+    reporting dashboard initiatives used by top-tier banking clients and their particular personalization needs.
+  - Co-architected a global Figma component library integrated with Storybook + Angular, aligning design tokens & FE implementation to reduce design-to-dev drift that
+    improved release consistency and feature progression as well as sustainability and accessibility (ADA / WCAG /ARIA).
+  - Coordinated and implemented project roadmaps, component library (QC) checklists, and planned features in Kanban/Scrum/Agile boards.
+  - Led UX design efforts to modernize consumer banking apps, simplifying transfers, automated user flows for reporting and spearheaded internationalization efforts.
+  - Developed structured prompt systems to support design documentation, UI refinement, and component standardization (naming, color contrast & consistency).
+
+TwitchTV Partner Designer – (remote) Merch Branding / Discord / Content Assets ~ July 2022  – Aug 2024
+
+Joel Dombek Design — Pittsburgh, PA (freelance)
+Branding, Design + Lead Development, Social ~ Dec 2021 – Oct 2025
+ - Created brand designs and development solutions for myself and independent content creators.
+ - Developed webhook services for social integration for Twitch + OBS + Discord.
+
+ConnectiveRX — Pittsburgh, PA (hybrid) 
+ Lead UI/x & Frontend Engineer ~ August 2018 – May 2022
+ - Led frontend development and UI architecture for multi-tenant enterprise healthcare platforms serving Bayer and Johnson & Johnson, developing scalable CSS/SCSS
+   systems and modular component patterns for performance and accessibility.
+ - Presented Figma prototypes to client/stakeholders as well Partnered with QA to validate frontend interfaces through automated regression testing and accessibility 
+   audits, ensuring WCAG 2.2 AA compliance and reducing release defects and aided in training material/documentation and feedback forms.
+ - Lead the collaborative feedback process through Figma/FigJam to gain insights from clients and wider team in feature inception and project projection planning as well 
+   as partnering with backend developers to integrate frontend interfaces with APIs and services.
+ - Wrote Acceptance Criteria for interactions and helped design data models/objects for user-centric interactions focused on feedback with data entry and API integration.
+ - Gave several Design & Front-end focused lunch-n-learn presentations to Devs + PMs showing how to implement and market new system features for clients.
+
+Dick’s Sporting Goods — Pittsburgh, PA 
+ Digital Designer & Lead Front-End Developer ~ August 2015 – April 2018
+ - Created a design library for the DSG “House of Brands” to unify messaging cadence inside seasonal campaigns for Field & Stream, Golf Galaxy and the Outdoor categories that worked across mobile & desktop landing pages that made each media channel modular.
+ - Worked on special typographic treatments in collaboration with brands such as: Columbia, Yeti, The North Face, Nike and Reebok as well as the technical/marketing writing tone across seasonal campaigns.
+ - Worked as and with photographers on shot-plans of both model and product images with coordinated messaging across seasonal campaigns.
+
+Giant Eagle — Pittsburgh, PA  Front-End Developer & Designer ~ October 2014 - March 2015
+Agency 1903 — Pittsburgh, PA (hybrid)  Front-End Developer & Designer  / UI / QA ~ February 2014 - December 2014
+Arsenal Studios— Pittsburgh, PA (remote) UX Designer / Front-end Developer / QA / Motion Graphics ~ February 2013 - December 2013
+Entercom Corp. —  Pittston, PA Branding / Web Development / Social ~ May 2017 – July 2018
+Content Factory —  Pittsburgh, PA Branding / Web Development / Social ~ April  2015 – February 2016
+ProActive Clinic —  Portland, OR (remote)  Photography Branding Site ~ August 2014 - December 2014
+Medcom Solutions — Pittsburgh, PA  Web Design / Development ~ March 2013 - September 2013
+Peace by Piece — Toronto, Canada (remote) ~ Logo Design & Web Design ~ March 2012
+Maniac Magazine — Pittsburgh, PA ~ Site Redesign & Styling ~ March 2012
+Guaranteed Results Marketing— Pittsburgh, PA Web Designer / Developer ~ July 2011 - June 2012
+Morning Hockey —  Pittsburgh, PA ~ Logo Design Embroidery ~ March 2011
+Envelope Service — Chester, WV Graphic Designer / Print Production ~ March 2008 - January 2011
+CommonWealth Press —  Pittsburgh, PA ~ Screen Printing / Design ~ 2006 & 2007
+
+
+Leadership & Systems Impact
+- Led cross-functional collaboration across Product, Engineering, and Design teams
+- Drove design system governance and reduced design churn
+- Facilitated sprint planning and acceptance criteria definition
+- Presented UX engineering strategy to stakeholders and senior leadership
+- Delivered rapid prototypes to accelerate GTM and stakeholder alignment
+
+
+
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Education
+Bachelors of Science Degree in Graphic Design
+The Art Institute of Pittsburgh  2004 – 2008  GPA 3.8
+
+Diploma Interactive Media & Web Development
+The Art Institute of Pittsburgh 2010 – 2012 GPA 3.6
+ - Member of The Student Web Developers Club
+
+
+
+Skills
+- User-Centered (UCD) Figma UI Design Systems & UX Component Libraries (ADA)
+- Front-End Development HTML, CSS, JavaScrip, Vue.js, React/Angular.js
+- Agile/Scrum & Remote Team Collaboration & Resource Gathering FigJam & Miro
+- Maze + UserTesting heuristics tests, technical writing, AI prompts + Discord bots 
+- Social posts, campaign promo messaging, social preview, Discord bots(webhooks)
+- Design Systems & Branding Guidelines (palettes, fonts, assets) motion graphics
+- WCAG 2.2 (AA and AAA levels), ARIA, assistive technology testing
+
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+[JOELDOMBEK image alt text]
+
+Resume + Intro
+JOEL DOMBEK   Sr. UX Designer + Dev
+
+Figma, Canva, InVision, Photoshop, Illustrator, Lightroom, After Effects 
+Teams, Slack, Discord,  FigJam, Miro, Google Docs,  Jira, Salesforce, Agile
+Cursor, VS Code, GitHub, SourceTree, Git Kraken, Postman, Selenium
+HTML5 (semantic, WCAG 2.2 AA, ARIA), SASS/SCSS, JavaScript (ES6+), React.js, Angular.js, Node.js
+AWS, AEM, WordPress, Github, CPanel, Squarespace
+
+ me@joeldombek.com
+ joeldombek.com
+ Case Studies
+ Chat UI
+
+ Joel Dombek © 2026
+
+
+
+
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+Full detailed & expanded resume available upon request. Do not reformat or extract this content.

@@ -1,0 +1,89 @@
+Brainstorm Creative Resources
+Principal UX Engineer (Remote | FT Consultant | Ongoing)
+
+OPPORTUNITY OVERVIEW:
+
+Brainstorm Creative Resources is supporting a leading national media organization that is looking to engage a Principal UX Engineer in a 100% remote, full-time (40 hours/week), open-ended contingent role that may also offer an opportunity to transition into a full-time, salaried, staff position.
+
+This role is open to qualified applicants living anywhere in the United States. The commitment will require ongoing availability to work M-F during east coast business hours. We do not expect any evening or weekend work to be required.
+
+We welcome applicants who would only like to be considered for the contingent role and we also invite interest from individuals who would like to be considered for the contingent role AND are ideally seeking a full-time position.
+
+We'll be glad to share plenty of additional information about the employer with well-qualified applicants. We’ve worked closely with the hiring manager over the last few years, to help her identify UX Designers for temporary and full-time roles.
+
+ROLE DESCRIPTION:
+
+The Principal UX Engineer is an integral part of the employer’s Product Design and UX team. As they partner with stakeholders across the enterprise, they frequently engage with teams to take their business goals and user needs and translate them into usable, desirable product experiences.
+
+The Principal UX Engineer will work with cross-functional teams and Product Designers to develop front-end interfaces that engage their customers via websites, native apps and distributed platforms. They will produce high-quality customer experiences that elevate customer satisfaction, trust, and delight; while maintaining usability, accessibility, brand integrity standards.
+
+The purpose of this role is to combine user-centered design expertise with front-end code implementation and apply those skills across multiple products and projects. This ideal candidate excels at advanced CSS3 front-end development, user interface design and translating complex information and process into intuitive interfaces.
+
+The Principal UX Engineer demonstrates proficiency in multiple sub-specialties of UX engineering (front-end coding, CMS, Sprint planning, Agile development, etc.)  and is a thought leader on the team and to the organization at large.
+
+REQUIREMENTS:
+
+•    Degree or certification in product design, visual design, UX design or related field
+•    6-9 years in a UX engineer role, including at least one year in a lead role
+•    Demonstrated expertise in HTML5 and JavaScript
+•    Experience in responsive web design and digital accessibility, including WCAG 2.2 (AA and AAA levels), ARIA for interactive widgets, and assistive technology testing
+•    Experience with leveraging AI tools to accelerate or enhance UI/UX design and frontend development products and workflows
+•    Experience in collaborating with other team members to ensure optimal performance and usability
+•    Ability to work effectively on a team that embraces agile principals and lean product development lifecycle
+•    Understand how to translate enterprise design solutions across break points and/or key platforms (mobile, app, third-party); with a focus on responsive, mobile experiences
+•    Knowledge of and practical experience in working closely with Product Management and Engineering teams; informing roadmaps, and sprint planning and product releases
+•    Write efficient, maintainable, and scalable frontend code using HTML5, CSS3, and JavaScript
+•    Experience working with tools and processes like: JIRA, CMS (knowledge of ARC is a plus), React, Fusion, Angular, code reviews, sprint planning, debugging, unit testing,
+•    Ability to implement frontend enhancements, including advanced design patterns, animation, micro interactions, and data visualization in web interfaces
+•    Capable of partnering with backend developers to integrate frontend interfaces with APIs and services
+•    Strong communication and presentation skills (verbal and written)
+•    Strong organization skills with the ability to independently prioritize and manage time effectively across multiple projects
+•    Ability to offer and accept feedback constructively
+•    Self-motivated, inquisitive
+•    Adaptable; open to changes in organization or process
+•    Desire to stay ahead of emerging trends
+•    Portfolio of work that demonstrates required skills
+
+DUTIES AND RESPONSIBILITIES:
+
+1.    With the support of the Senior Director, serve as the go-to person for UX Engineering capabilities and for more complex solutions. From your technical perspective, work in cross-functional teams to:  
+---> Define scope and delivery schedules
+---> Initiate collaboration proactively 
+---> Lead front-end development tasks, iterations and GTM solutions 
+2.    Continually seek improvements to tools, ceremonies and work flows to optimize process. 
+3.    Fortify company design system: Help increase design fidelity and decrease design churn by contributing to a thoughtful design system. 
+---> Responsive UI. Construct mobile-focused UIs that are extended across screen sizes and devices through smart use of responsive and adaptive strategies and enable strong site performance. 
+---> Specify UI for multiple platforms, including Web, native apps, and distributed platforms. 
+4.    Develop rapid prototypes that could be used for internal testing, stakeholder communication, or as working proof-of-concepts to accelerate development.
+5.    Lead phases or large tasks as part of defined projects from start to completion
+
+HOURS / LOCATION:
+
+1.    40 hours/week;
+2.    during regular east coast business hours; 
+3.    remotely at any location within the United States; 
+4.    starting Q1 2026.
+
+PAY RATE:
+
+Based on what we have learned during conversations with the employer, Brainstorm Creative Resources is advertising a weekly pay rate of up to $3500. Given the full-time nature of this role, we believe it's both correct and useful to mention that this weekly rate is equivalent to $175K annually and $87.50/hour, when based on 50 weeks of work.
+
+Brainstorm Creative Resources pays competitively and actively encourages our employer clients to do the same. However, it is unlikely (but not impossible) that we will be able to pay applicants meeting our minimum qualification requirements at the top of the stated salary range. More experienced applicants can expect that we will make a strong, evidentiary case to our client, to pay you at or above the advertised rate ceiling.
+
+The actual rate and/or salary offered will be commensurate with experience and market norms. It will also be based on some or all of the following factors: credentials as detailed in your resume, your portfolio, interview experiences with Brainstorm Creative Resources and the employer, and quality of reference providers and references provided.
+
+We are looking forward to receiving inquiries and applications from demonstrably experienced professionals at various places on their individual career paths.
+
+APPLICATION:
+
+Brainstorm Creative Resources is a recruiting and staffing firm that has been focused on placing creative and editorial professionals into freelance and full-time positions with Washington, DC-area employers since 2003. We are recruiting for this position at the request of our client, the hiring organization.
+
+If you are reading this job description at our Application Portal please follow the instructions included below. If you are reading this job description elsewhere please visit us at http://www.brainstormresources.com. Within our website you can click anywhere you see "Find Work" buttons or text to view all currently open positions. Alternatively, you can link to this job description directly at https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=BRAINSTORM&cws=38&rid=1613. Please follow these steps when you apply:
+1. Closely read the complete job description to ensure that you are a terrific fit for the opportunity.
+2. If you are a returning applicant please enter your e-mail address and password, and then add the opportunity to your "My Jobs" list.
+3. If you have not applied with Brainstorm previously, click the "Apply For This Position" button.
+4. During the application process please make sure to:
+---> Provide all details requested as you are completing your personal profile (including links to sample work online),
+---> Upload a resume and cover letter.
+
+We expect all interested parties to support their application and salary request with a note or cover letter that clearly indicates why they believe they should be considered for the position.
