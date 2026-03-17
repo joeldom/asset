@@ -1,0 +1,252 @@
+/** variables */
+
+//the page background
+$BGback:             black;
+
+//camera settings
+$camAngle:                      65deg;
+$camPerspective:                900px;
+$sphereAngle:                   (90deg - $camAngle);  //offsets to make speheres into billboards
+
+//the "grid" is the invisible parent div (was a grid during development)
+$gridWidth:                     100vw;
+$gridHeight:                    100vw;
+$gridWidthMax:                  50rem;
+$gridHeightMax:                 50rem;
+$gridLevel:                     42vh;
+
+//the circle
+$particles:                     16;
+$piUnit:                        (pi() * 2) / $particles;
+$radius:                        45%;                 //radius of circle, not sphere
+
+//the sphere
+$sphereWidth:                   9%;                  //sphere size
+$sphereOffsetTop:               155%;
+$sphereOffsetBottom:            0;
+
+//sphere BGs:; normal and reflected spheres
+$sphereBGBase:                  rgba(51,255,0,1);
+$sphereBGTop:                   radial-gradient(circle, rgba(255,219,219,1) 1.4%, rgba(184,38,38,1) 3%,  rgba(160,9,9,1) 17%, rgba(121,9,9,1) 30%, rgba(93,1,3,1) 35%, $sphereBGBase 44%, $sphereBGBase);
+$sphereBGReflect:               radial-gradient(circle, darken($sphereBGBase, 2%), $sphereBGBase 30%,  rgba(73,1,3,1) 44%, rgba(101,9,9,1));
+
+//the floor
+$floorSize:                     750%;                //relative to size of central grid
+$floorBGBottom:                 lighten(black, 15%);
+$floorBGTop:                    #eddcff;
+$floorBG:                       linear-gradient( -45deg, transparent 75%, $floorBGTop 75% ),
+                                linear-gradient( 45deg, transparent 75%, $floorBGTop 75% ),
+                                linear-gradient( 45deg, $floorBGTop 25%, transparent 25% ),
+                                linear-gradient( -45deg, $floorBGTop 25%, transparent 25% )
+                                ;
+
+$floorBG2:                      radial-gradient(closest-side, transparent 15%, rgba(0,0,0,0.8) 60%, $BGback 100%);
+$floorBGSize:                   7.5%;
+$floorOpacity:                  .375;
+
+
+//anims
+$animDurationRotate:            75s;
+$animDurationSphereBounce:      4.2s;
+$animDelaySphereBounce:         ( $animDurationSphereBounce / $particles ) * 3;
+
+
+/** doc setup */
+
+html, body {
+  margin: 0;
+  overflow: hidden;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  perspective: $camPerspective;
+  height: 100%;
+  background: $BGback;
+}
+
+
+/** grid base. This is the div that everything's relative to (not visible).
+It was a grid during dev, so that's why it's called a "grid". */
+
+.grid {
+  box-sizing: content-box;
+
+  width: $gridWidth;
+  height: $gridHeight;
+  max-width: $gridWidthMax;
+  max-height: $gridHeightMax;
+
+  position: absolute;
+  top: $gridLevel;
+  left: 50%;
+
+  transform: translate(-50%, -50%) rotateX($camAngle) rotateZ(0);
+  transform-style: preserve-3d;
+
+  animation-name: grid-rotate360;
+  animation-duration: $animDurationRotate;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+
+  /** grid unit. Positioners for spheres. */
+
+  .grid__unit {
+    box-sizing: border-box;
+    position: absolute;
+
+    width: $sphereWidth;
+    height: $sphereWidth;
+
+    transform: rotatex(90deg) translatex(-50%);// ;
+    transform-origin: top left;
+    transform-style: preserve-3d;
+
+    animation-name: grid__unit-rotate360;
+    animation-duration: $animDurationRotate;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+  }
+
+  //individual modifiers, for positioning into a circle
+  @for $x from 0 through $particles {
+    .grid__unit--#{$x} {
+      left: calc( #{sin($piUnit * $x) * $radius} + 50% );
+      top: calc( #{cos($piUnit * $x) * $radius} + 50% );
+    }
+  }
+
+
+/** sphere and sphere reflection */
+
+.sphere {
+  --sphereOffsetTop: #{$sphereOffsetTop};
+  --sphereOffsetBottom: #{$sphereOffsetBottom};
+  --sphereBG:    #{$sphereBGTop};
+  --sphereBGPosTop:     -25%;
+
+  box-sizing: border-box;
+
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: $sphereBGBase;
+  transform: rotatex($sphereAngle) translatey(var(--sphereOffsetBottom));
+  border-radius: 100%;
+
+  animation-name: sphere-motion;
+  animation-duration: $animDurationSphereBounce;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+
+  overflow: hidden;
+
+  &:after {
+    content: "";
+    position: absolute;
+    top: var(--sphereBGPosTop);
+    left: -75%;
+    width: 250%;
+    height: 200%;
+    background-color: $sphereBGBase;
+    background-image: var(--sphereBG);
+  }
+}
+
+  .sphere--reflection {
+    --sphereOffsetTop: -#{$sphereOffsetTop};
+    --sphereOffsetBottom: -#{$sphereOffsetBottom};
+    --sphereBG:    #{$sphereBGReflect};
+    --sphereBGPosTop:     -5%;
+
+    top: -100%;
+    filter: blur(1px)
+  }
+
+  //individual modifiers, for positioning
+  @for $x from 0 through $particles {
+    .sphere--#{$x} {
+      animation-delay: -$animDelaySphereBounce * $x;
+    }
+  }
+
+
+/** chequered floor */
+
+.floor {
+  width: $floorSize;
+  height: $floorSize;
+  background-color: $floorBGBottom;
+  background-image: $floorBG;
+  background-size: $floorBGSize $floorBGSize;
+  background-position: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0px);
+  opacity: $floorOpacity;
+  overflow: hidden;
+  backface-visibility: hidden;
+
+  //separate element for gradient "fog" bg
+  //prob possible to do it withabout an extra element but ran out of patience getting it to work...
+  &:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: $floorBG2;
+    background-position: center;
+  }
+}
+
+
+/** keyframes */
+
+//the camera panning motion
+@keyframes grid-rotate360 {
+  from {
+    transform: translate(-50%, -50%) rotateX($camAngle) rotatez(0deg);
+  }
+
+  to {
+    transform: translate(-50%, -50%) rotateX($camAngle) rotatez(360deg);
+  }
+}
+
+
+//make the positioners into billboards (always facing the camera)
+@keyframes grid__unit-rotate360 {
+  0% {
+    transform: rotatex(90deg) rotatey(0deg) translatex(-50%);
+  }
+
+  100% {
+    transform: rotatex(90deg) rotatey(-360deg) translatex(-50%);
+  }
+}
+
+
+//sphere motion
+@keyframes sphere-motion {
+  from {
+    transform: rotatex($sphereAngle) translatey(var(--sphereOffsetTop));
+  }
+
+  50% {
+    transform: rotatex($sphereAngle) translatey(var(--sphereOffsetBottom));
+  }
+
+  to {
+    transform: rotatex($sphereAngle) translatey(var(--sphereOffsetTop));
+  }
+}

@@ -1,0 +1,30 @@
+<svg width="1200px" height="410px" viewBox="0 0 1200 410" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+      <polyline id="path-1" points="0 421.171875 0 350.476562 110.09375 304.867188 188.132813 256.078125 319.921875 275.421875 367.195313 259.039062 412.671875 336.242188 526.945312 295.640625 642.5625 285.664062 778.796875 229.25 896.523438 156.828125 1024.10156 213.835937 1093.79688 122.671875 1170.86719 156.828125 1240.61719 0 1263.88281 421.171875"></polyline>
+      <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+          <feGaussianBlur stdDeviation="30" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+          <feOffset dx="0" dy="15" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+          <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+          <feColorMatrix values="0 0 0 0 0.290196078   0 0 0 0 0.654901961   0 0 0 0 0.952941176  0 0 0 0.152853261 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+      </filter>
+  </defs>
+  <g id="Services" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g id="Path-237">
+          <use fill="#D9F1FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+          <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+          <use stroke="#3FA9F5" stroke-width="4" xlink:href="#path-1"></use>
+      </g>
+      <circle id="Oval-55" fill="#45A8F4" cx="188" cy="256" r="6"></circle>
+      <circle id="Oval-55-Copy-3" fill="#45A8F4" cx="109" cy="306" r="6"></circle>
+      <circle id="Oval-55" fill="#45A8F4" cx="318" cy="274" r="6"></circle>
+      <circle id="Oval-55" fill="#45A8F4" cx="366" cy="259" r="6"></circle>
+      <circle id="Oval-55" fill="#45A8F4" cx="412" cy="336" r="6"></circle>
+      <circle id="Oval-55-Copy" fill="#45A8F4" cx="527" cy="296" r="6"></circle>
+      <circle id="Oval-55-Copy-2" fill="#45A8F4" cx="642" cy="284" r="6"></circle>
+      <circle id="Oval-55-Copy-4" fill="#45A8F4" cx="779" cy="229" r="6"></circle>
+      <circle id="Oval-55-Copy-5" fill="#45A8F4" cx="897" cy="157" r="6"></circle>
+      <circle id="Oval-55-Copy-6" fill="#45A8F4" cx="1024" cy="213" r="6"></circle>
+      <circle id="Oval-55-Copy-7" fill="#45A8F4" cx="1094" cy="124" r="6"></circle>
+      <circle id="Oval-55-Copy-8" fill="#45A8F4" cx="1172" cy="157" r="6"></circle>
+  </g>
+</svg>

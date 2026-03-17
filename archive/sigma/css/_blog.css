@@ -1,0 +1,149 @@
+/*##########################
+    BLOG TABS
+###########################*/
+#blog-section .nav > li > a, #blog-section #search {
+  padding: 0 15px 10px 0;
+  border: none;
+  border-bottom-style: none; }
+
+#blog-section .nav-tabs > li.active > a, .nav-tabs > li.active > a:link {
+  background-color: none !important;
+  border: none;
+  border-bottom-style: none; }
+
+#blog-section .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+  background-color: none;
+  border-bottom-style: none; }
+
+#blog-section .nav-tabs > li > a:hover {
+  background-color: none !important;
+  border-bottom: 2px solid white; }
+
+#blog-section .nav-tabs > li > a {
+  background-color: none !important;
+  background: none; }
+
+#blog-section .nav-tabs > li > a:hover, #blog-section .nav-tabs > li > a:focus,
+#blog-section .nav-tabs > li.active > a:hover, #blog-section .nav-tabs > li.active > a:focus {
+  border: none;
+  border-bottom: 4px solid white; }
+
+/*BLOG LIST POSTS*/
+.blog-list-row a.post-image-link {
+  min-height: 228px;
+  display: block;
+  border: none; }
+
+@media (max-width: 991px) {
+  .blog-list-row a.post-image-link {
+    min-height: 10px; } }
+/*##########################
+    SIDEBAR
+###########################*/
+.tagcloud .tag {
+  display: inline-block;
+  padding: 1px 2px;
+  font-size: .85em;
+  color: inherit; }
+
+@media (max-width: 767px) {
+  .tagcloud .tag {
+    display: inline-block;
+    padding: 1em;
+    font-size: .85em;
+    color: inherit;
+    background: white;
+    margin: 0 0 3px 0;
+    word-wrap: break-word;
+    border: none;
+    box-sizing: content-box; }
+
+  #blog-list ul {
+    padding-left: 0; }
+
+  #blog-recent-list li {
+    display: block;
+    padding: 1em;
+    background: white;
+    margin: 0 0 3px 0;
+    list-style-type: none; }
+
+  #blog-recent-list li a {
+    text-decoration: none;
+    border: none; } }
+.sidebar p strong {
+  display: block; }
+
+.sidebar p, .sidebar li a {
+  /*margin-bottom:2px;*/
+  margin-bottom: 0px;
+  padding: 24px 36px;
+  background-color: white;
+  position: relative;
+  border-bottom: 1px dotted #d7d7d7; }
+
+.sidebar li a {
+  display: block;
+  text-decoration: none;
+  font-weight: bold; }
+
+.sidebar li a .bitcoin, .sidebar li a .amazon {
+  background-color: white;
+  border: 1px solid white;
+  color: #545454;
+  text-align: center;
+  display: inline-block;
+  width: 1.75em;
+  vertical-align: middle;
+  line-height: 1.25em;
+  position: absolute;
+  right: 45px;
+  top: 20px;
+  padding: 1px;
+  line-height: 1.5em;
+  border-radius: 2em; }
+
+.sidebar li a .bitcoin {
+  font-size: 1.25em; }
+
+.sidebar li a .amazon {
+  font-size: 1.125em;
+  width: 1.9em;
+  line-height: 1.65em; }
+
+.sidebar li a:hover .bitcoin, .sidebar li a:hover .amazon {
+  background-color: #F7931A;
+  border: 1px solid #F7931A;
+  color: white; }
+
+/*.sidebar li a .bitcoin i{
+  -ms-transform: rotate(7deg);
+  -webkit-transform: rotate(7deg);
+  transform: rotate(7deg);
+}*/
+/*##########################
+    PAGEINATION
+###########################*/
+.pagination {
+  margin-left: 0;
+  padding: 0;
+  font-size: 1em;
+  list-style-type: none;
+  display: inline-block; }
+
+.pagination li {
+  display: inline-block; }
+
+.pagination a {
+  padding: 8px 14px;
+  text-decoration: none;
+  border: none; }
+
+.pagination a:hover {
+  border-bottom: 1px solid #545454;
+  color: black; }
+
+.pagination li.current a {
+  border-bottom: 1px solid #545454; }
+
+/*# sourceMappingURL=_blog.css.map */

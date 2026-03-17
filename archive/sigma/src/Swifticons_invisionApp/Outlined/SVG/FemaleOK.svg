@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>FemaleOK</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Interface" sketch:type="MSLayerGroup" transform="translate(-357.000000, -1675.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="FemaleOK" transform="translate(360.000000, 1679.000000)" sketch:type="MSShapeGroup">
+                <path d="M27,0 C12.0883118,0 0,12.0883118 0,27 C0,41.9116882 12.0883118,54 27,54 C41.9116882,54 54,41.9116882 54,27" id="Oval-1813"></path>
+                <path d="M23,33 L20.7560976,38.4545455 L16.0695239,38.4545455 C13.2639087,38.4545455 11,40.5913682 11,43.2272727 L11,48.5 M42.9999999,48.5 L43,43.2272727 C43,40.5967318 40.7302969,38.4545455 37.9304761,38.4545455 L32.5684803,38.4545455 L30,33" id="Rectangle-2326"></path>
+                <path d="M17.15625,19.1818182 C17.15625,23.3030303 15,31.5454545 15,31.5454545 C15,31.5454545 20.03125,33 26.5,33 C32.96875,33 38,31.5454545 38,31.5454545 C38,31.5454545 35.84375,23.3030303 35.84375,19.1818182 L35.84375,16.8575869 C35.84375,12.5179615 32.3287742,9 27.9862629,9 L25.0137371,9 C20.6741668,9 17.15625,12.5262424 17.15625,16.8575869 L17.15625,19.1818182 Z" id="Rectangle-2323"></path>
+                <path d="M53,4 L48.5,13 L43.5,10" id="Line-407"></path>
+            </g>
+        </g>
+        <g id="Interface_sliced" sketch:type="MSLayerGroup" transform="translate(-360.000000, -1680.000000)"></g>
+    </g>
+</svg>

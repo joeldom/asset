@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Maleadd</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Interface" sketch:type="MSLayerGroup" transform="translate(-477.000000, -1555.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Maleadd" transform="translate(480.000000, 1559.000000)" sketch:type="MSShapeGroup">
+                <path d="M27,0 C12.0883118,0 0,12.0883118 0,27 C0,41.9116882 12.0883118,54 27,54 C41.9116882,54 54,41.9116882 54,27" id="Oval-1812"></path>
+                <path d="M17.1176471,17.2012572 L17.1176471,14.5581055 C17.1176471,10.9361638 20.0513567,8 23.6691899,8 L37,8 L37,17.2215966 L37,17.2215966 C38.1393974,17.4430421 39,18.4526825 39,19.6533528 L39,20.3466472 C39,21.5631677 38.1327324,22.5748493 36.9743805,22.7839179 C36.6058999,27.9352707 32.308446,32 27.0588235,32 C21.8169317,32 17.5226228,27.9363942 17.1446773,22.8020478 C15.9342472,22.6412474 15,21.5976358 15,20.3466472 L15,19.6533528 C15,18.404824 15.913506,17.3720551 17.1176471,17.2012572 Z" id="Rectangle-2323" fill="#D8D8D8"></path>
+                <path d="M22.3041498,32 L19.9657895,36.7727273 L14.3989181,36.7727273 C11.542082,36.7727273 8.99999999,39.1758166 8.99999999,42 L8.99999999,47.1136364 M45,47 L45,41.8863636 C45,39.0679269 42.6888598,36.7727273 39.837924,36.7727273 L33.5832996,36.7727273 L31.2449393,32" id="Rectangle-2326"></path>
+                <path d="M49,11 L49,1" id="Line"></path>
+                <path d="M54,6 L44,6" id="Line-404"></path>
+            </g>
+        </g>
+        <g id="Interface_sliced" sketch:type="MSLayerGroup" transform="translate(-480.000000, -1560.000000)"></g>
+    </g>
+</svg>

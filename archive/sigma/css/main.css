@@ -1,0 +1,89 @@
+/*
+Error: Undefined variable: "$gutter".
+        on line 6 of /Users/dksc102725/Desktop/::10 Redesign/repo/redesign/greybox/sass/_bootstrap.scss
+        from line 5 of /Users/dksc102725/Desktop/::10 Redesign/repo/redesign/greybox/sass/main.scss
+
+1: @import "compass/css3/transition";
+2: @import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=5cff4beb-9d80-4122-b00d-c4420417aa8e");
+3: @import 'warning';
+4: @import 'reset';
+5: @import 'bootstrap';
+6: @import 'icon';
+7: @import 'colors';
+8: html {
+9:   font-size: 62.5%;
+10:   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+11: }
+
+Backtrace:
+/Users/dksc102725/Desktop/::10 Redesign/repo/redesign/greybox/sass/_bootstrap.scss:6
+/Users/dksc102725/Desktop/::10 Redesign/repo/redesign/greybox/sass/main.scss:5
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/tree/variable.rb:49:in `_perform'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/tree/node.rb:50:in `perform'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:395:in `visit_prop'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:79:in `block in with_base'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:115:in `with_frame'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:79:in `with_base'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:158:in `visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:431:in `block (2 levels) in visit_rule'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:431:in `map'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:431:in `block in visit_rule'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:429:in `visit_rule'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:79:in `block in with_base'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:115:in `with_frame'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:79:in `with_base'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:158:in `visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:326:in `block (2 levels) in visit_import'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:326:in `map'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:326:in `block in visit_import'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:88:in `block in with_import'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:115:in `with_frame'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:88:in `with_import'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:323:in `visit_import'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:79:in `block in with_base'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:115:in `with_frame'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/stack.rb:79:in `with_base'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:158:in `visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/base.rb:52:in `map'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:167:in `block in visit_children'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:166:in `visit_children'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:186:in `visit_root'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:157:in `visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:8:in `visit'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/root_node.rb:36:in `css_tree'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/root_node.rb:29:in `render_with_sourcemap'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:378:in `_render_with_sourcemap'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:295:in `render_with_sourcemap'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass-import-once/lib/compass/import-once/engine.rb:23:in `block in render_with_sourcemap'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass-import-once/lib/compass/import-once/engine.rb:29:in `with_import_scope'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass-import-once/lib/compass/import-once/engine.rb:22:in `render_with_sourcemap'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/plugin/compiler.rb:490:in `update_stylesheet'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/plugin/compiler.rb:209:in `each'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/scss/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass/lib/compass/sass_compiler.rb:40:in `compile!'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass/lib/compass/commands/update_project.rb:49:in `perform'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass/lib/compass/commands/base.rb:18:in `execute'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass/lib/compass/commands/project_base.rb:19:in `execute'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass/lib/compass/exec/sub_command_ui.rb:15:in `run!'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass/bin/compass:52:in `block in <main>'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass/bin/compass:66:in `call'
+/Users/dksc102725/Desktop/::03 App/CodeKit.app/Contents/Resources/engines/compass/compass/bin/compass:66:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$gutter\".\A         on line 6 of /Users/dksc102725/Desktop/::10 Redesign/repo/redesign/greybox/sass/_bootstrap.scss\A         from line 5 of /Users/dksc102725/Desktop/::10 Redesign/repo/redesign/greybox/sass/main.scss\A \A 1: @import \"compass/css3/transition\";\A 2: @import url(\"http://fast.fonts.net/t/1.css?apiType=css&projectid=5cff4beb-9d80-4122-b00d-c4420417aa8e\");\A 3: @import 'warning';\A 4: @import 'reset';\A 5: @import 'bootstrap';\A 6: @import 'icon';\A 7: @import 'colors';\A 8: html {\A 9:   font-size: 62.5%;\A 10:   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\A 11: }"; }

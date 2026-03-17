@@ -1,0 +1,23 @@
+body{
+  width:100%; 
+  overflow:hidden;
+  margin:0;
+  background: hsla(10,50%,70%,1);
+ background-blend-mode:multiply;
+}
+
+
+#canv{
+ z-index:2;
+  position:absolute;
+   filter: contrast(3);
+  mix-blend-mode:difference;
+}
+
+#c{
+ z-index:0;
+  position:absolute;
+  filter: grayscale(1) contrast(4) invert(1);
+	 -webkit-filter: grayscale(1) contrast(4) invert(1);
+   mix-blend-mode:color-burn;
+}

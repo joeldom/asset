@@ -1,0 +1,58 @@
+//_googlemap.scss
+
+.google-map {
+  width: 100%;
+  min-height: 300px;
+}
+
+@media only screen and (max-width: 320px) {
+  .google-map {
+    min-height: 274px;
+  }
+}
+
+@media only screen and (min-width: 321px) and (max-device-width: 480px) {
+  .google-map {
+    min-height: 120px;
+  }
+}
+
+@media (min-width: 768px) {
+  .google-map {
+    min-height: 462px;
+  }
+}
+
+@media (min-width: 992px) {
+  .google-map {
+    min-height: 572px;
+  }
+}
+
+@media (min-width: 1380px) {
+  .google-map {
+    min-height: 648px;
+  }
+}
+
+/* =============================== CHANGE
+
+ PASTED FROM HEADER.PHP MARCH 12th 2015 
+ 
+ =================================*/
+img[src=""], img[src="http://maps.gstatic.com/mapfiles/api-3/images/mapcnt3.png"] {display: none !important;}
+			.gm-style-iw + div {border:1px solid #d1d1d1;width: 15px !important;height: 14px !important;top:10px !important;right:11px !important;}
+		/* Border/Background Reset */
+		#map-jd > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(2){border: none !important;background: white !important;background-color: white !important;border-radius: 0px !important;box-shadow: rgba(0, 0, 0, 0.25) 0px 1px 40px -1px !important; -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0px 1px 40px -1px !important;}
+		
+		/* Postion of infowindow */
+		#map-jd > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(4) > div{top:90px !important;}
+		/* Skew infowindow point */
+		/* LEFT */
+		#map-jd > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div{transform:skewX(40deg) !important;}
+		/* RIGHT */
+		#map-jd > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) > div{transform:skewX(-40deg) !important;}
+		/* Shadow of infowindow */
+		#map-jd > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div,#map-jd > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) > div{box-shadow: rgba(0, 0, 0, 0.36) 0px 1px 25px !important;}
+		
+		#map-jd > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(1){border-top-color: rgba(0, 0, 0, 0) !important;}

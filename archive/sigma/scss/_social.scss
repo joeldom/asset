@@ -1,0 +1,66 @@
+//_social.scss
+.social{
+  &:before{
+    background: #d2d0cd;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    content: ' ';
+    height: 1px;
+    margin: 36px 0px;
+    overflow: hidden;
+    width: 25%;
+  }
+  /*&:after{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    content: ' ';
+    height: 1px;
+    margin: 18px 0px;
+    width: 25%;
+  }*/
+}
+.social span{
+  margin-right: 20px;
+  position: relative;
+}
+.social span a{text-decoration: none;border: none;}
+.social span a:hover{color: black;}
+a span.hint, .social span a span.hint, .read-time a span.hint{
+  pointer-events: none;
+  display: none;
+  position: absolute;
+  top: -2.5rem;
+  left: 0;
+  height: 2rem;
+  line-height: 2rem;
+  background-color: $textcolor;
+  font-weight:400;
+  border-radius: 1rem;
+  padding: 0 0.6875rem;
+  color: white !important;
+  white-space: nowrap;
+  -webkit-transition: opacity 150ms ease, visibility 0s ease 150ms;
+  transition: opacity 150ms ease, visibility 0s ease 150ms;
+  -webkit-transform: translateX(calc(-50% + 20px));
+  -ms-transform: translateX(calc(-50% + 20px));
+}
+.read-time a span.hint{
+  left:17px;
+}
+a:hover span.hint, .social span a:hover span.hint, .read-time a:hover span.hint{
+  display: inline-block;
+  color: white;
+}
+@media (max-width: 768px) {
+  .social{
+    font-size:1.25em;
+    text-align:center;
+  }
+  .module-related:before, .social:before{
+    width: 100% !important;
+  }
+}

@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<!--///////////////////////////////////////////////////////
+			DESIGN REFFERENCES																	RATING 1-10
+			method: http://method.com/work/coda									**********
+			pitchfork: http://pitchfork.com/										*********
+			expdesign: http://experiencedesignthebook.com/			********
+			ibm: http://www.ibm.com/en-us/homepage-a.html 			****
+			coinbase: https://www.coinbase.com/charts						******
+			exch coinbase: https://exchange.coinbase.com/				********
+			dropbox: https://www.dropbox.com/home/Resume				**
+			welathfront: https://www.wealthfront.com/						***
+			antlr: ttp://www.antlr-interactive.com/blog					****
+			mobirise: https://mobirise.com/											*****
+			devicon: http://devicon.fr/													***
+			ello: https://ello.co/following											********
+			bounce exhange: http://www.bounceexchange.com/			******
+			http://google.github.io/material-design-icons/			**********
+			https://design.google.com/icons/										**********
+			https://github.com/google/code-prettify							********
+			material design: https://getmdl.io/components/
+			http://www.garbett.com.au/design/
+			http://styleguide.devbproto.com/styleguide
+
+			NOTES:
+			use SVG icons for hero sections with graphics
+			-http://webdesign.tutsplus.com/articles/manipulating-svg-icons-withsimple-css--webdesign-15694
+			- http://webdesign.tutsplus.com/articles/manipulating-svg-icons-withsimple-css--webdesign-15694
+			- http://tutsplus.github.io/Styling-Iconic/theming/index.html
+			- Advice shuffle from GFDA jQuery https://cdn.shopify.com/s/files/1/0201/8578/t/4/assets/advice.js?13716389383775519554
+			- SVG icons need sized and framed properly in Language-Icon section
+			- downloading and using strict image SVG files is easier to scale and would work better for 3rd party icons
+			- https://sarasoueidan.com/blog/svg-coordinate-systems/
+
+			TO DO:
+			[ ] Isotope & Lazy loading <div>'s content - JSFiddle Lazyload & Isotope http://jsfiddle.net/arthurc/ZnEhn/
+			[ ] Video Player in Hero Module - GE has a nice codebase
+			[/] Resume / Career Timeline (Kickstarter) - http://kck.st/23LAfo7 > http://joeldom.github.io/redesign/timeline/
+			[ ] Custom Shortlink URL - Share Better - http://bit.ly/1LxtklZ
+			[X] Responsive Spotify Player
+			[/] Sticky sidebar for blog related posts
+			[X] SVG logos for Languages/Applications sections > Resume/Experience
+			[ ] Twitter Feed and Share Options
+////////////////////////////////////////////////////////-->
+
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <!--<![endif]-->
+	<head>
+    <meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+		<title>Joel Dombek | Portfolio</title>
+    <!-- Linked Files -->
+		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> -->
+		<!-- <link rel="stylesheet" href="http://www.joeldombek.com/blog/wp-content/themes/15-redesign/css/main.css"> -->
+		<!-- <link rel="stylesheet" href="css/main.css"> -->
+		<link rel="stylesheet" href="css/global.css">
+		<!-- <link rel="stylesheet" href="http://www.joeldombek.com/blog/wp-content/themes/15-redesign/css/font-awesome-4_3.css"> -->
+		<!-- Font Links -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/master/devicon.min.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+		<link rel="stylesheet" href="css/breadcrumb.css">
+		<!-- PRE stylesheet -->
+
+    <link rel='shortlink' href='http://www.joeldombek.com/' />
+    <!-- Top Scripts -->
+		<script src="http://joeldom.github.io/14-redesign/js/modernizr.min.js"></script>
+    <script type='text/javascript' src='http://www.joeldombek.com/blog/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+		<script type='text/javascript' src='http://www.joeldombek.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+
+		<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js?autoload=true&amp;skin=default" defer="defer"></script>
+
+    <style type="text/css">
+		/*a{
+			transition: none !important;
+			-webkit-transition: none !important;
+		}*/
+		/*##########################
+				NAVBAR
+		###########################*/
+		/*@media screen and (max-width: 767px){
+			body{padding: 68px 11px 6px;}
+			.navbar{padding: 12px 11px;}
+			.navbar-toggle{
+				padding: 15px 0 0 20px;
+			}
+		}*/
+		/*@media screen and (min-width: 768px){
+			body{
+				padding: 80px 18px 6px;
+			}
+		}*/
+		/**/
+		.carousel-indicators{top:20px;}
+      /*##########################
+          FEATURED
+      ###########################*/
+      #featured{background-color: white; display: table; margin-left: 8px; margin-right: 8px;}
+      #featured .col-md-8, #featured .col-lg-8, #featured .col-md-4, #featured .col-lg-4{padding-left: 0; padding-right: 0;}
+      #featured .featured-image{padding-right: 5px;}
+      #featured .featured-info{padding: 0 12px 3px 18px;}
+      .carousel-control{top:150px;}
+      .tile-graphic .tile-title{text-shadow: none;}
+
+
+      @media (max-width: 767px){
+				/*ADJUSTING TILE Excerpt 1.4*/
+				.tile-graphic.tile-large .tile-excerpt[class*="palette-"]{
+					color: white;
+					position: absolute;
+					bottom: 10px;
+					border-bottom: none;
+				}
+				.module-hero .module-overlay{
+					position: absolute;
+					bottom: 10px;
+				}
+				.carousel-control{display: none;}
+      }
+      @media (max-width: 767px){
+        #featured{margin-left: 5px; margin-right: 5px;}
+        .blog-list-row [class*="col-"]:first-child{padding-left: 0;padding-right: 0;}
+        .form-group{width: 75%;display: inline-block;}
+        input.search{padding: .95em !important;}
+        .form-inline .btn-primary{width: 25%;padding: .95em !important;}
+      }
+      button{background: transparent;border:none;color: white;}
+
+			@media (min-width: 768px){
+				.module-article > .well, .module-article .panel, .module-article .embed-responsive {margin-right: 42.666667%;padding-right: 8px}
+				.module-article > .newsletter-signup{margin-right: 42.666667%;}
+			}
+
+			.panel{min-height: 20px; padding: 15px;background-color: #fff;border: 1px solid transparent;box-shadow: 0 1px 1px rgba(0,0,0,.05);-webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);border-radius: 1px;}
+			.well{min-height: 20px; padding: 15px;background-color: #f5f5f5;border: 1px solid #e3e3e3;box-shadow: inset 0 1px 1px rgba(0,0,0,.05);-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.05);border-radius: 1px;}
+
+			.newsletter-signup{
+				background-color: #474747;
+				color: white;
+				text-align: center;
+				min-height: 100pxp;
+				padding: 2em;
+				position: relative;
+				border-radius: 3px;
+			}
+			.newsletter-signup input{
+				height: 50px;
+			}
+			.newsletter-signup form label{
+				position: absolute;
+				top: 0;
+				left: 0;
+				margin: 17px 0 0 20px;
+				color: #545454;
+			}
+			/*##########################
+          STATS & REVIEW
+      ###########################*/
+			/*http://jsfiddle.net/wuSF7/462/*/
+			.svg-fontend path {fill: #5C6FAF !imporant;}
+
+			.vert-img{
+				position: relative;
+				min-height: 400px;
+			}
+			.vert-img img{
+				width:100%;display:block;margin:auto 0;vertical-align:middle;position:absolute;top:50%;bottom:50%;
+			}
+			.stats-hero{
+				display: block;
+				width:100%;
+				/*min-height: 400px;*/
+				position: relative;
+			}
+
+
+			.stats-hero img{max-width: 100% !important;}
+
+
+      /*##########################
+          COLOR PALETTE
+					opt #9AB5C1 #9AB5C1 #74698C #C1867B
+					opt #A21232 #1A1831 #20615B #DECE9C
+					opt #83AFA6 #58727F #E5E5E5 #D3A284 *
+					opt #D9DAD7 #C24D2C #3E4A61 #1A2639
+      ###########################*/
+      .vert-align {position: relative;line-height:95px;/*top: 45%;transform: translateY(-50%);*/}
+      #color-palette p{height:100px; text-align:center; vertical-align:middle; color:white;padding:5px;}
+      #color-palette p{border:2px solid #f4f4f4}
+      #color-palette p:hover{border:2px solid white}
+      /*COLOR PALETTE*/
+    .vert-align {position: relative;line-height:95px;/*top: 45%;transform: translateY(-50%);*/}q
+      #color-palette p{height:100px;text-align:center;vertical-align:middle;color:white;padding:5px;}
+      #color-palette p.fifty{height: 50px;margin: 0}
+      .module-title p{color: #62645c; text-shadow: none;}
+
+
+			.diag{
+				background-image: url(img/diag.png);
+				background-position: left top;
+				background-repeat: repeat;
+			}
+			.dkgrid{
+				background-image: url(img/dkgrid.png);
+				background-position: left top;
+				background-repeat: repeat;
+			}
+			.module-article .author-about{background-color: white;}
+			/*##########################
+          LANGUAGE & FRAMEWORKS
+      ###########################*/
+			#language-icon .icon, #language-icon .name{
+				display: block;
+				text-align: center;
+			}
+			#language-icon .icon{font-size: 5em;height: 100px;line-height: 100px;}
+			#language-icon .name{}
+
+			/*resolve arrow in hero sizing*/
+
+
+			/*##########################
+					SPOTIFY PLAYER
+			###########################*/
+
+
+			#container > div.main, .spotify .main, .spotify *{border: none !important;}
+			.theme-white #container .main, {border:none !important;}
+
+
+
+			/*##########################
+          Breadcrumbs / Multistep
+      ###########################*/
+			.multi-step{padding: 0 0 1.5em 0;}
+
+
+    </style>
+  </head>
+	<body class="single-article">
+	<div class="wrapper">
+
+    <!-- Navigation Section -->
+    <div id="navbar" class="navbar navbar-fixed-top" role="banner">
+			<div class="container">
+				<a class="navbar-brand" href="/">JOEL<strong>DOMBEK</strong></a>
+				<nav class="navbar-responsive-collapse">
+					<ul class="nav navbar-nav pull-right" role="navigation">
+						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/">Work</a>
+							<ul class="dropdown-menu">
+								<li class=""><a href="http://www.joeldombek.com/work/">All</a></li>
+								<li class=""><a href="#">Brand</a></li>
+								<li class=""><a href="#">Web</a></li>
+								<li class=""><a href="#">Interface</a></li>
+								<li class=""><a href="#">Print</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">Ideas</a>
+							<ul class="dropdown-menu">
+								<li class=""><a href="quotes.html">Quotes</a></li>
+								<li class=""><a href="http://www.joeldombek.com/ideas/inspiration/">Inspiration</a></li>
+								<li class=""><a href="http://www.joeldombek.com/blog/">Blog</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">Info</a>
+							<ul class="dropdown-menu">
+								<li><a id="nav-search" href="#"><i class="material-icons">search</i></a></li>
+								<li class=""><a href="http://www.joeldombek.com/about/">About</a></li>
+								<li class=""><a href="#">How I Work</a></li>
+								<li class=""><a href="single.html">Annual Report</a></li>
+								<li class=""><a href="http://www.joeldombek.com/resume/">Resume</a></li>
+								<li class=""><a href="http://www.joeldombek.com/contact/">Contact</a></li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
+				<button type="button" class="navbar-toggle">
+					<span class="icon-bar" style="display: block;"><i class="material-icons">dehaze</i></span>
+					<span class="icon-chevron-up" style="display: none;"><i class="material-icons">clear</i></span>
+					<!-- <span href="#menu" class="box-shadow-menu"></span> -->
+					<!-- <span href="#menu" class="gradient-menu"></span> -->
+					<!-- <img width="25px" height="14px" src="http://www.joeldombek.com/blog/wp-content/themes/15-redesign/img/navicon.png" alt="Menu"> -->
+				</button>
+			</div>
+		</div>
+    <!-- End Navigation Section -->
+		<div class="row toggle">
+			<div class="container">
+				<button href="#collapse1" class="quote-toggle"><i class="material-icons">clear</i></button>
+			</div>
+		</div>
+
+
+		<div class="module-hero">
+			<p><img id="collapse1" src="img/herox2x.png"></p>
+			<div class="module-overlay">
+        <div class="container">
+					<p class="category">TYPOGRAPHY</p>
+          <p class="module-title">What will your customers experience today?</p>
+        </div>
+      </div>
+			<!-- <div class="module-content palette-grey40  palette-inverse">
+				<div class="container">
+					<h1 class="module-title">Single Article</h1>
+					<p>Published: <time datetime="March 11th, 2016" pubdate="">May 11th, 2016</time></p>
+					<p class="byline"><em>Written by <a href="#">Joel<span class="hint">Say Hi</span></a></em><br></p>
+					<p class="hidden-xs read-time pull-right"><a href="#"><i class="fa fa-eye"></i> 10 MINS <span class="hint">Est. Read Time</span></a></p>
+				</div>
+			</div> -->
+		</div>
+
+		<!-- <div class="module-hero">
+			<div id="banner" style="background: url('img/herox2x.png') no-repeat fixed 50% 0; background-size: cover; color: #fff; height: 100%; width: 100%;display:block;">
+				<p></p>
+			</div>
+      <div class="module-overlay">
+        <div class="container">
+					<div id="bannertext"><p class="category">TYPOGRAPHY</p>
+          <p class="module-title">What will your customers experience today?</p></div>
+        </div>
+      </div>
+    </div> -->
+
+		<div class="container">
+			<div class="row">
+
+				<div class="col-sm-8 body">
+          <p>For any organization, thriving in an “adapt-or-die” world that changes at the relentless pace of technology is a continual challenge. For experience design firm, <a href="http://method.com" target="_blank"> Method</a>, it also presents a tremendous opportunity to build loyalty and adapt over time. With over 15 years of helping clients build better end-to-end customer experiences at Method, Chief Strategy Officer, Patrick Newbery, and CEO, Kevin Farnham, argue that experience design is the key building block for businesses that want to grow and innovate.</p>
+          <p>In their new book, <em>Experience Design: A Framework for Integrating Brand, Experience, and Value</em>, Newbery and Farnham build a common ground of understanding for design and business to help approach and solve these urgent and ongoing business challenges.</p>
+          <figure class="quote palette-teal">
+            <blockquote class="h2">We believe that using an approach such as experience design can redefine how business and design work together to create value in more efficient ways that also help business be more nimble and proactive in negotiating change.</blockquote>
+            <figcaption>excerpt from page 83</figcaption>
+          </figure>
+          <p>Experience design is based on using the concept behind the brand as a way to identify and define value for customers. And this becomes the purpose and intent of the business—to deliver products, services, and experiences that deliver the value that the brand represents, and reinforces the unique brand meaning. But it also means measuring that value from the customer’s perspective, and continually investigating new areas of value that are natural extensions for the brand.</p>
+          <p>Experience design provides a way for the business and the designer to both discuss objectives and options. It creates a way for business to invite design to the table earlier, and understand how design can help solve problems. And it also helps businesses rethink how they engage design partners in ways that are more likely to produce success with less risk.</p>
+          <p>In a robust and thought-provoking analysis, Newbery and Farnham provide business leaders with insight into ways to integrate brand purpose into products and service value and across the entire journey a customer has with a business. The goal is to build a strategic approach for helps business engage their customers through experiences that deliver value and strengthen the relationship between business and customer.</p>
+					<a class="btn-floating palette-navy palette-inverse"><i class="material-icons">add</i></a>
+        </div><!--/col-->
+
+				<div class="col-sm-4 sidebar overlap-sm">
+					<span class="author-headshot"><img src="http://www.joeldombek.com/blog/wp-content/themes/15-redesign/img/me-bw.jpg" alt="Joel D" /></span>
+					<p><strong>Order a copy today,</strong> start changing the world tomorrow.</p>
+					<ul class="list-unstyled">
+						<li><a href="#" target="_blank">Buy on Amazon <span class="amazon"><i class="fa fa-amazon"></i></span></a></li>
+						<!-- <li><a href="#" target="_blank">Buy on Barnes &amp; Noble</a></li> -->
+						<li><a href="#" target="_blank">Donate Bitcoin <span class="bitcoin"><i class="fa fa-btc"></i></span></a></li>
+						<li>
+							<div style="width:100%;">
+								<!-- SPOTIFY RESPONSIVE PLAYER -->
+								<iframe id="spotify" src="js/spotify.html" width="100%" height="80" frameborder="0" allowtransparency="true"></iframe>
+							</div><!-- end respondify -->
+						</li>
+					</ul>
+					<div class="promo">
+						<button href="#collapse2" class="quote-toggle"><i class="material-icons">clear</i></button>
+						<div id="collapse2" class="palette-grey80 palette-inverse">
+							<p>Like what you see? Lets work together!</p>
+							<div class="text-center"><a class="read-more center-block" href="#">Contact</a></div>
+						</div>
+					</div>
+				</div><!--/col-->
+				<div class="col-sm-12 social">
+					<span class="post-views">
+						<a href="#">
+							<i class="fa fa-eye"></i> 100
+							<span class="hint">Views</span>
+						</a>
+					</span>
+					<span class="post-time-ago">
+						<a href="#">
+							1d
+							<span class="hint">Posted</span>
+						</a>
+					</span>
+					<span class="comment-tools">
+						<a href="#">
+							<i class="fa fa-comment-o"></i> 5
+							<span class="hint">Comment</span>
+					</a>
+					</span>
+					<span class="love-tools">
+						<a href="#">
+							<i class="fa fa-heart-o"></i>
+							<span class="hint">Love</span>
+					</a>
+					</span>
+					<span class="share-tools">
+						<a href="#">
+							<i class="fa fa-share"></i>
+							<span class="hint">Share</span>
+					</a>
+					</span>
+				</div><!--/col social-->
+			</div><!--/row-->
+		</div><!--/container-->
+
+
+
+
+
+
+
+
+
+
+		<!-- RELATED SECTION START -->
+		<aside class="container">
+			<div class="module row">
+				<header class="module-header module-related col-sm-12"><h2 class="module-title h4">Related</h2></header>
+				<div class="col-sm-4">
+					<article class="tile tile-text">
+						<header class="tile-header">
+							<p><small>Branding </small></p>
+							<h3 class="tile-title"><a href="http://www.joeldombek.com/work/joel-dombek-logo/ ">My Logo</a></h3>
+						</header>
+						<div class="tile-excerpt hidden-xs">
+							<p>My Personal Logo/Identity This is my personal logo. This believe it or not took several years to develop/transition into. The […]</p>
+						</div>
+					</article>
+				</div>
+
+				<div class="col-sm-4">
+					<article class="tile tile-text">
+						<header class="tile-header">
+							<p><small>Branding </small></p>
+							<h3 class="tile-title"><a href="http://www.joeldombek.com/work/budget-kitchen-bath/ ">Budget Kitchen &amp; Bath</a></h3>
+						</header>
+						<div class="tile-excerpt hidden-xs">
+							<p>Budget Kitchen &amp; Bath This project was done while at Guaranteed Results Marketing. Creating both the layout, framework and branding, […]</p>
+						</div>
+					</article>
+				</div>
+
+				<div class="col-sm-4">
+					<article class="tile tile-text">
+						<header class="tile-header">
+							<p><small>Branding </small></p>
+							<h3 class="tile-title"><a href="http://www.joeldombek.com/work/guaranteed-results-marketing/ ">Guaranteed Results Marketing</a></h3>
+						</header>
+						<div class="tile-excerpt hidden-xs">
+							<p>This is a project I was creative director on starting with the logo for a internet marketing firm. It’s goal was to create a platform for small business to leverage themselves in an online market. Through a visual redesign and implementation of a CMS (Content Management System) so that SEO (Search Engine Optimization) driven content could easily be added.</p>
+						</div>
+					</article>
+				</div>
+			</div>
+		</aside>
+		<!-- RELATED SECTION END -->
+
+		<div class="container">
+
+		</div><!-- /container -->
+</div>
+<div class="footer-para">
+	<div class="container">
+		<div class="row">
+
+			<footer class="footer" itemscope="" itemtype="http://schema.org/Organization">
+				<span id="back-top"><a href="#top"><i class="material-icons">keyboard_arrow_up</i></a></span>
+				<div class="row">
+					<a class="footer-brand col-xs-6 col-sm-2" href="#" itemprop="name"><!-- JOEL<strong>DOMBEK</strong> -->
+					<img src="img/logo.png" style="width: auto;max-height:75px;padding: 0 25px;"></a>
+          <!-- <div class="col-xs-6 col-sm-2">
+          	<a href="http://www.joeldombek.com/contact/"><strong itemprop="name">Contact</strong></a><br>
+            <ul class="list-unstyled">
+              <li><a href="#" target="_blank"><i class="fa fa-facebook-official"></i> Facebook</a></li>
+              <li><a href="#" target="_blank"><i class="fa fa-twitter"></i> Twitter</a></li>
+              <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
+              <li><a href="http://www.joeldombek.com/contact/"><i class="fa fa-file-pdf-o"></i> Resume</a></li>
+            </ul>
+            <p><small>&copy; Joel Dombek 2016 V4.12.08.11.47</small></p>
+          </div> -->
+					<div class="col-xs-12 col-sm-5">
+						This is the Graphic / Web design portfolio &amp; blog of Joel Dombek who has 9+ years experience in: logo design, identity design, graphic design, advertising, marketing, web design, and UX design. Read the rest of my <a href="#">Resume</a> here.
+
+						<ul class="list-unstyled hidden-sm hidden-md hidden-lg">
+							<li><a href="#">Work</a></li>
+							<li><a href="#">Blog</a></li>
+							<li><a href="#">About</a></li>
+							<li><a href="#">Contact</a></li>
+						</ul>
+					</div>
+          <div class="col-xs-12 col-sm-3 col-sm-offset-2">
+						<div class="row">
+
+							<div class="col-sm-6 col-xs-12">
+								<!-- <a href="http://www.joeldombek.com/contact/"><strong itemprop="name">Contact</strong></a><br> -->
+								<ul class="list-unstyled">
+									<!-- <li><a href="#" target="_blank"><i class="fa fa-facebook-official"></i> Facebook</a></li> -->
+									<li><a href="#" target="_blank"><i class="material-icons">&#xE0E1;</i><span class="hidden-xs"> General</span></a></li>
+									<li><a href="#" target="_blank"><i class="fa fa-twitter"></i><span class="hidden-xs"> Twitter</span></a></li>
+									<li><a href="#" target="_blank"><i class="fa fa-linkedin"></i><span class="hidden-xs"> LinkedIn</span></a></li>
+									<li><a href="http://www.joeldombek.com/contact/"><i class="fa fa-file-pdf-o"></i><span class="hidden-xs"> Resume</span></a></li>
+								</ul>
+							</div>
+
+							<div class="col-sm-6 col-xs-12">
+								<p class="text-right">
+									JOEL<strong>DOMBEK</strong><br class="hidden-xs"/>
+									<small>V4.12.08.11.47<br class="hidden-xs"/> &copy; 2016</small></p>
+									<br/><br/><br/>
+							</div>
+
+              <!-- <div class="col-sm-4">
+                <address itemscope="" itemtype="http://schema.org/LocalBusiness">
+                  <a href="#"><strong itemprop="name">New York</strong></a><br>
+                  <span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                    <span itemprop="streetAddress">151 Lafayette Street<br>Floor 5</span><br>
+                    <span itemprop="addressLocality">New York</span>,
+                    <span itemprop="addressRegion">NYspan&gt;
+                    <span itemprop="postalCode">10013</span>
+                  </span><br>
+                  <span itemprop="telephone">+1.212.981.9499</span>
+                </span></address>
+              </div>
+              <div class="col-sm-4">
+                <address itemscope="" itemtype="http://schema.org/LocalBusiness">
+                  <a href="#"><strong itemprop="name">London</strong></a><br>
+                  <span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                    <span itemprop="streetAddress">The Tea Building, Studio 7.01<br>56 Shoreditch High Street</span><br>
+                    <span itemprop="addressLocality">London</span>,
+                    <span itemprop="postalCode">E1 6JJ</span>
+                  </span><br>
+                  <span itemprop="telephone">+44.20.3051.7935</span>
+                </address>
+              </div> -->
+
+            </div>
+          </div>
+        </div>
+			</footer>
+		</div>
+	</div>
+</div>
+<!-- WRAPPER -->
+		<!-- Search Overlay -->
+		<div id="overlay-search">
+    	<input name="Search" type="text" onfocus="if(this.value == 'value') { this.value = ''; }" value="Search" />
+			<span class="searchHint">Search anytime by typing</span>
+    	<span id="close"><a href="#blog-section" style="text-decoration:none;"><i class="material-icons">clear</i> Close</a></span>
+			<div id="overlay-results">
+				<span class="resultHint">Results: <strong>4</strong></span>
+
+				<div class="row results-list-row">
+					<div class="col-md-2 col-xs-12">
+						<a class="post-image-link" href="#">
+							<img src="img/tilex2x.png">
+						</a>
+					</div><!-- /col-xs-2 -->
+					<div class="col-md-10 col-xs-12">
+						<article class="tile tile-text">
+							<header class="tile-header">
+								<p><small>Branding </small></p>
+								<h3 class="tile-title"><a href="http://www.joeldombek.com/work/joel-dombek-logo/ ">My Logo</a></h3>
+							</header>
+							<div class="tile-excerpt hidden-xs">
+								<p>My Personal Logo/Identity This is my personal logo. This believe it or not took several years to develop/transition into. <a href="LINK">Read&nbsp;more</a></p>
+							</div>
+						</article>
+					</div>
+				</div><!-- result-list-row --><br/>
+
+				<div class="row results-list-row">
+					<div class="col-md-2 col-xs-12">
+						<a class="post-image-link" href="#">
+							<img src="img/tilex2x.png">
+						</a>
+					</div><!-- /col-xs-2 -->
+					<div class="col-md-10 col-xs-12">
+						<article class="tile tile-text">
+							<header class="tile-header">
+								<p><small>Branding </small></p>
+								<h3 class="tile-title"><a href="http://www.joeldombek.com/work/guaranteed-results-marketing/ ">Guaranteed Results Marketing</a></h3>
+							</header>
+							<div class="tile-excerpt hidden-xs">
+								<p>This is a project I was creative director on starting with the logo for a internet marketing firm. It’s goal was to create a platform for small business to leverage themselves in an online market. Through a visual redesign and implementation of a CMS (Content Management System) so that SEO (Search Engine Optimization) driven content could easily be added. <a href="LINK">Read&nbsp;more</a></p>
+							</div>
+						</article>
+					</div>
+				</div><!-- result-list-row --><br/>
+
+				<div class="row results-list-row">
+					<div class="col-md-2 col-xs-12">
+						<a class="post-image-link" href="#">
+							<img src="img/tilex2x.png">
+						</a>
+					</div><!-- /col-xs-2 -->
+					<div class="col-md-10 col-xs-12">
+						<article class="tile tile-text">
+							<header class="tile-header">
+								<p><small>Branding </small></p>
+								<h3 class="tile-title"><a href="http://www.joeldombek.com/work/guaranteed-results-marketing/ ">Guaranteed Results Marketing</a></h3>
+							</header>
+							<div class="tile-excerpt hidden-xs">
+								<p>This is a project I was creative director on starting with the logo for a internet marketing firm. It’s goal was to create a platform for small business to leverage themselves in an online market. Through a visual redesign and implementation of a CMS (Content Management System) so that SEO (Search Engine Optimization) driven content could easily be added. <a href="LINK">Read&nbsp;more</a></p>
+							</div>
+						</article>
+					</div>
+				</div><!-- result-list-row --><br/>
+
+				<div class="row results-list-row">
+					<div class="col-md-2 col-xs-12">
+						<a class="post-image-link" href="#">
+							<img src="img/tilex2x.png">
+						</a>
+					</div><!-- /col-xs-2 -->
+					<div class="col-md-10 col-xs-12">
+						<article class="tile tile-text">
+							<header class="tile-header">
+								<p><small>Branding </small></p>
+								<h3 class="tile-title"><a href="http://www.joeldombek.com/work/guaranteed-results-marketing/ ">Guaranteed Results Marketing</a></h3>
+							</header>
+							<div class="tile-excerpt hidden-xs">
+								<p>This is a project I was creative director on starting with the logo for a internet marketing firm. It’s goal was to create a platform for small business to leverage themselves in an online market. Through a visual redesign and implementation of a CMS (Content Management System) so that SEO (Search Engine Optimization) driven content could easily be added. <a href="LINK">Read&nbsp;more</a></p>
+							</div>
+						</article>
+					</div>
+				</div><!-- result-list-row --><br/>
+
+				<div class="col-xs-12 text-center"><a class="read-more center-block" href="#">Load More</a></div>
+
+			</div><!-- overlay-results -->
+		</div><!-- overlay-search -->
+
+    <!-- Scripts -->
+<<<<<<< HEAD
+		<script>
+    	(function($, inActiveTab, undefined) {
+
+			$(function () {
+			  var message = "Hey! Come back!";
+			  var original;
+
+			  $(window).focus(function() {
+			    if(original) {
+			      document.title = original;
+			    }
+			  }).blur(function() {
+			    var title = $('title').text();
+			    if(title != message) {
+			      original = title;
+			    }
+			    document.title = message;
+			  });
+			});
+
+      }(window.jQuery, window.inActiveTab));
+    </script>
+=======
+
+
+>>>>>>> parent of c2da404... INDEX AND PAGE JAVASCRIPTS
+
+<script type="text/javascript">
+function EasyPeasyParallax() {
+	scrollPos = $(this).scrollTop();
+	$('#banner').css({
+		'background-position' : '50% ' + (-scrollPos/4)+"px"
+	});
+	$('#bannertext').css({
+		'margin-top': (scrollPos/4)+"px",
+		'opacity': 1-(scrollPos/250)
+	});
+}
+$(document).ready(function(){
+	$(window).scroll(function() {
+		EasyPeasyParallax();
+	});
+});
+</script>
+		<style type="text/css" id="cssID">.main{border-color:white !important; border:none !important;}#container > div.main{border:none !important;}
+		.theme-white .extra, .theme-white .main{border-color:white !important;}
+		iframe *, iframe * *, iframe * * *, iframe * * * *, iframe * * * * *, iframe * * * * * *{border-color:white !important;border:none !important;}</style>
+		<script>
+//		$('#spotify').load(function() {
+//			$('#spotify').contents().find("body")
+//			.append($("<style type='text/css'>  .main{border:none !important;}  </style>"));
+//		});
+
+//		$(document.getElementById('#spotify').contentWindow.document).ready(function() {
+//      $('#spotify').contents().find('head').append("<style type='text/css'>  .main{border:none !important;}  </style>");
+ //});
+		</script>
+
+
+		<script type="text/javascript">
+    $(function () {
+        $("#spotify").contents().find("head")[0].appendChild(cssID);
+        //Or $("#iFrameID").contents().find("head")[0].appendChild($('#cssID')[0]);
+    });
+</script>
+		<script src="js/main.js"></script>
+		<script src="js/quotes.js"></script>
+		<!-- <script type='text/javascript' src='http://www.joeldombek.com/blog/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+    <script type='text/javascript' src='http://www.joeldombek.com/blog/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3'></script> -->
+		<!--
+				TABBED / MENU ISSUE WITH THIS
+				Something here is affecting the dropdown menu animation, but this alow the tabbed blog section to work.
+				Possibly adding the actual lines of tabbed code instead of the CDN version of Bootstrap would fix this.
+		-->
+		<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"</script> -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<!-- <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script> -->
+
+		<script>
+		//RESPONDIFY SCRIPT
+		function respondify(){
+			$('iframe[src*="embed.spotify.com"]').each( function() {
+				$(this).css('width',$(this).parent(1).css('width'));
+				$(this).attr('src',$(this).attr('src'));
+			});
+			}
+			$(document).ready(function(){
+			respondify();
+			});
+			$(window).resize(function() {
+			respondify();
+		});
+		</script>
+		<script>
+			/*
+			 * Replace all SVG images with inline SVG
+			 */
+			jQuery('img.svg').each(function(){
+				var $img = jQuery(this);
+				var imgID = $img.attr('id');
+				var imgClass = $img.attr('class');
+				var imgURL = $img.attr('src');
+				jQuery.get(imgURL, function(data) {
+						// Get the SVG tag, ignore the rest
+						var $svg = jQuery(data).find('svg');
+						// Add replaced image's ID to the new SVG
+						if(typeof imgID !== 'undefined') {
+								$svg = $svg.attr('id', imgID);
+						}
+						// Add replaced image's classes to the new SVG
+						if(typeof imgClass !== 'undefined') {
+								$svg = $svg.attr('class', imgClass+' replaced-svg');
+						}
+						// Remove any invalid XML tags as per http://validator.w3.org
+						$svg = $svg.removeAttr('xmlns:a');
+						// Check if the viewport is set, if the viewport is not set the SVG wont't scale.
+						if(!$svg.attr('viewBox') && $svg.attr('height') && $svg.attr('width')) {
+								$svg.attr('viewBox', '0 0 ' + $svg.attr('height') + ' ' + $svg.attr('width'))
+						}
+						// Replace image with new SVG
+						$img.replaceWith($svg);
+				}, 'xml');
+			});
+		</script>
+
+		<script type="text/javascript">
+		//OVERLAY SEARCH
+		$(document).ready(function(){
+    	var $overlay = $('#overlay-search');
+    	$('#search, #nav-search').click(function(){
+        if ( $overlay.is(':visible') ) {
+            $overlay.fadeOut();
+        } else {
+            $overlay.fadeIn();
+        }
+    	});
+    	$('#close').click(function(){
+        $overlay.fadeOut();
+    	});
+		});
+		</script>
+
+		<script type="text/javascript">
+		//focus search input
+		$(document).on('keydown', function(){
+			var input = $('input[name="Search"]');
+			if(!input.is(':focus')) {
+				input.focus();
+			}
+		});
+		</script>
+		<script>
+			//Element State Change for Inputs
+			// Compare the textbox's current and last value.  Report a change to the console.
+function watchTextbox() {
+  var txtInput = $('#Search');
+  var lastValue = txtInput.data('lastValue');
+  var currentValue = txtInput.val();
+  if (lastValue != currentValue) {
+    console.log('Value changed from ' + lastValue + ' to ' + currentValue);
+    txtInput.data('lastValue', currentValue);
+  }
+}
+
+// Record the initial value of the textbox.
+$('#Search').data('lastValue', $('#Search').val());
+
+// Bind to the keypress and user-defined set event.
+$('#Search').bind('keypress set', null, watchTextbox);
+
+// Example of JS code triggering the user event
+$('#btnSetText').click(function (ev) {
+  $('#Search').val('abc def').trigger('set');
+}); 100);
+
+		</script>
+		<script>
+		$.event.special.inputchange = {
+		    setup: function() {
+		        var self = this, val;
+		        $.data(this, 'timer', window.setInterval(function() {
+		            val = self.value;
+		            if ( $.data( self, 'cache') != val ) {
+		                $.data( self, 'cache', val );
+		                $( self ).trigger( 'inputchange' );
+		            }
+		        }, 20));
+		    },
+		    teardown: function() {
+		        window.clearInterval( $.data(this, 'timer') );
+		    },
+		    add: function() {
+		        $.data(this, 'cache', this.value);
+		    }
+		};
+
+		$('#Search').on('inputchange', function() {
+		    $('p').text(this.value);
+		});
+		</script>
+
+		<script type="text/javascript">
+		//focus search input
+		$('body').on('keydown', function() {
+			var input = $('input[name="Search"]');
+
+			if(!input.is(':focus')) {
+				input.focus();
+			}
+		});
+		//$(document).on('keydown', function(){
+    //	var input = $('input[name="Search"]');
+    //	$('#search').click(function(){
+    //    if ( $overlay.is(':visible') ) {
+    //        $overlay.fadeOut();
+    //    } else {
+    //        $overlay.fadeIn();
+    //    }
+    //	});
+		</script>
+
+  </body>
+</html>

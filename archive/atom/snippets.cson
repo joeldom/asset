@@ -1,0 +1,191 @@
+# Your snippets
+
+# Your snippets
+'.text.html':
+  'HTML 5':
+    'prefix': 'html'
+    'body': '''
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <title></title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.3/handlebars.min.js"></script>
+        <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+        <link href="style.css" rel="stylesheet">
+      </head>
+      <body>
+
+      </body>
+    </html>
+'''
+'.text.html':
+  'Table Simple':
+    'prefix': 'tbl'
+    'body': '''
+    <table>
+      <tr>
+        <td>$1</td>
+        <td>$2</td>
+        <td>$3</td>
+      </tr>
+      <tr>
+        <td>$1</td>
+        <td>$3</td>
+      </tr>
+    </table>
+'''
+'.text.html':
+  'Email Table':
+    'prefix': 'emailtbl'
+    'body': '''
+    <table class="emailwrapto320" width="690" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td>
+          <a href="LINK" target="_BLANK">
+            <img class="emailimageresize320" style="display:block;" width="690" height="$1" src="$2" alt="$3">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="LINK" target="_BLANK">
+            <img class="emailimageresize320" style="display:block;" width="690" height="$1" src="$2" alt="$3">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="LINK" target="_BLANK">
+            <img class="emailimageresize320" style="display:block;" width="690" height="$1" src="$2" alt="$3">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="LINK" target="_BLANK">
+            <img class="emailimageresize320" style="display:block;" width="690" height="$1" src="$2" alt="$3">
+          </a>
+        </td>
+      </tr>
+    </table>
+'''
+'.text.html':
+  'AngularJS':
+    'prefix': 'anglhtml'
+    'body': '''
+    <!DOCTYPE html>
+    <html ng-app>
+      <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <title>Angular App</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-rc.0/angular.min.js"></script>
+
+        <link href="style.css" rel="stylesheet">
+      </head>
+      <body>
+
+      </body>
+    </html>
+'''
+'.text.html':
+  'Bootstrap':
+    'prefix': 'boot'
+    'body': '''
+    <!DOCTYPE html>
+    <html ng-app>
+      <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <title>Bootstrap</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-rc.0/angular.min.js"></script>
+
+        <link href="style.css" rel="stylesheet">
+      </head>
+      <body>
+
+      </body>
+    </html>
+'''
+'.text.html':
+  'Bootstrap Navbar':
+    'prefix': 'boot-nav'
+    'body': '''
+    <nav class="navbar navbar-default" role="navigation">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Brand</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#"><i class="fa fa-home"></i> Home</a></li>
+            <li><a href="#"><i class="fa fa-flask"></i> Link</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-database"></i> Dropdown <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="#"><i class="fa fa-home"></i> Action</a></li>
+                <li><a href="#"><i class="fa fa-flask"></i> Another action</a></li>
+                <li><a href="#"><i class="fa fa-magic"></i> Something else here</a></li>
+                <li class="divider"></li>
+                <li><a href="#"><i class="fa fa-link"></i> Separated link</a></li>
+                <li class="divider"></li>
+                <li><a href="#"><i class="fa fa-user"></i> One more separated link</a></li>
+              </ul>
+            </li>
+          </ul>
+          <form class="navbar-form navbar-left" role="search">
+            <div class="form-group">
+              <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                <input type="text" class="form-control" placeholder="Search for something">
+              </div>
+            </div>
+          </form>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#"><i class="fa fa-link"></i> Link</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container-fluid -->
+    </nav>
+'''
+
+#
+# Atom snippets allow you to enter a simple prefix in the editor and hit tab to
+# expand the prefix into a larger code block with templated values.
+#
+# You can create a new snippet in this file by typing "snip" and then hitting
+# tab.
+#
+# An example CoffeeScript snippet to expand log to console.log:
+#
+# '.source.coffee':
+#   'Console log':
+#     'prefix': 'log'
+#     'body': 'console.log $1'
+#
+# This file uses CoffeeScript Object Notation (CSON).
+# If you are unfamiliar with CSON, you can read more about it here:
+# https://github.com/bevry/cson#what-is-cson

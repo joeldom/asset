@@ -1,0 +1,68 @@
+//_js.scss
+
+//VHS FILTER - codepen.io https://codepen.io/samdbeckham/pen/XBzQeK
+
+.vhs-filter {
+    overflow: hidden;
+    position: relative;
+
+    img { display: block; }
+
+    &__r,
+    &__g {
+        left: 0;
+        mix-blend-mode: screen;
+        position: absolute;
+        top: 0;
+        transition: transform .4s;
+        z-index: 1;
+    }
+
+    &__r {
+        filter: url('#r');
+        transform: translate(1px, 2px);
+    }
+    &__g {
+        filter: url('#g');
+        transform: translate(-2px, -1px);
+    }
+    &__b {
+        filter: url('#b');
+    }
+
+    &:hover {
+        // box-shadow: none;
+
+        .vhs-filter__r,
+        .vhs-filter__g {
+            transform: translate(0);
+        }
+    }
+}
+
+html {
+    color: #333;
+    text-align: center;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 900px;
+
+    > div {
+        margin: 10px;
+    }
+}
+
+h1 {
+    display: block;
+    margin: 1em auto;
+}
+
+img {
+    max-width: 100%;
+}

@@ -1,0 +1,92 @@
+//_page.scss
+
+.home-lead{
+  background-color:$brandblue-cool;
+  padding-top:8vw;
+  position:relative;
+}
+.home-lead__background {
+ content:'';
+ background-color:$gable;
+ position:absolute;
+ top:4vw;
+ right:0;
+ bottom:0;
+ left:33.3333333333vw
+}
+.home-lead__content{
+  background-color:$brandblue;
+  padding-top:4vw;
+  position:relative;
+
+  &:nth-child(even){
+    margin-right: 3em;
+  }
+  &:nth-child(odd){
+    margin-left: 3em;
+  }
+}
+
+
+
+
+
+
+//=======================
+.home-approach {
+ background-color:#e0e9fe;
+ padding-top:4.1666666667vw;
+ position:relative
+}
+.home-approach__background {
+ content:'';
+ background-color:#143232;
+ position:absolute;
+ top:0;
+ right:0;
+ bottom:0;
+ left:33.3333333333vw
+}
+.home-approach__content {
+ color:#fff;
+ background-color:#0048ff;
+ padding:4.1666666667vw 0 0;
+ margin-right:8.3333333333vw;
+ position:relative;
+ z-index:1
+}
+@media (min-width: 40em) {
+ .home-approach__content {
+  margin-right:12.5vw
+ }
+}
+@media (min-width: 60em) {
+ .home-approach__content {
+  margin-right:16.6666666667vw
+ }
+}
+@media (min-width: 80em) {
+ .home-approach__content {
+  margin-right:20.8333333333vw
+ }
+}
+.home-approach__text {
+ letter-spacing:-.02em;
+ padding:0 8.3333333333vw;
+ margin:0 auto 8.3333333333vw
+}
+@media (min-width: 40em) {
+ .home-approach__text {
+  padding:0 12.5vw
+ }
+}
+@media (min-width: 60em) {
+ .home-approach__text {
+  padding:0 16.6666666667vw
+ }
+}
+@media (min-width: 80em) {
+ .home-approach__text {
+  padding:0 20.8333333333vw
+ }
+}

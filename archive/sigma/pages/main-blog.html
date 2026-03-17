@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<!--///////////////////////////////////////////////////////
+			DESIGN REFFERENCES																	RATING 1-10
+			method: http://method.com/work/coda									**********
+			pitchfork: http://pitchfork.com/										*********
+			expdesign: http://experiencedesignthebook.com/			********
+			ibm: http://www.ibm.com/en-us/homepage-a.html 			****
+			coinbase: https://www.coinbase.com/charts						******
+			exch coinbase: https://exchange.coinbase.com/				********
+			dropbox: https://www.dropbox.com/home/Resume				**
+			welathfront: https://www.wealthfront.com/						***
+			antlr: ttp://www.antlr-interactive.com/blog					****
+			mobirise: https://mobirise.com/											*****
+			devicon: http://devicon.fr/													***
+			ello: https://ello.co/following											********
+			bounce exhange: http://www.bounceexchange.com/			******
+			http://google.github.io/material-design-icons/			**********
+			https://design.google.com/icons/										**********
+			https://github.com/google/code-prettify							********
+			material design: https://getmdl.io/components/
+			http://www.garbett.com.au/design/
+
+			NOTES:
+			use SVG icons for hero sections with graphics
+			-http://webdesign.tutsplus.com/articles/manipulating-svg-icons-withsimple-css--webdesign-15694
+			- http://webdesign.tutsplus.com/articles/manipulating-svg-icons-withsimple-css--webdesign-15694
+			- http://tutsplus.github.io/Styling-Iconic/theming/index.html
+			- Advice shuffle from GFDA jQuery https://cdn.shopify.com/s/files/1/0201/8578/t/4/assets/advice.js?13716389383775519554
+			- SVG icons need sized and framed properly in Language-Icon section
+			- downloading and using strict image SVG files is easier to scale and would work better for 3rd party icons
+			- https://sarasoueidan.com/blog/svg-coordinate-systems/
+
+			TO DO:
+			[ ] Isotope & Lazy loading <div>'s content - JSFiddle Lazyload & Isotope http://jsfiddle.net/arthurc/ZnEhn/
+			[ ] Video Player in Hero Module - GE has a nice codebase
+			[/] Resume / Career Timeline (Kickstarter) - http://kck.st/23LAfo7 > http://joeldom.github.io/redesign/timeline/
+			[ ] Custom Shortlink URL - Share Better - http://bit.ly/1LxtklZ
+			[X] Responsive Spotify Player
+			[/] Sticky sidebar for blog related posts
+			[X] SVG logos for Languages/Applications sections > Resume/Experience
+			[ ] Twitter Feed and Share Options
+////////////////////////////////////////////////////////-->
+
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <!--<![endif]-->
+	<head>
+    <meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+		<title>Joel Dombek | Portfolio</title>
+    <!-- Linked Files -->
+		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> -->
+		<!-- <link rel="stylesheet" href="http://www.joeldombek.com/blog/wp-content/themes/15-redesign/css/main.css"> -->
+		<!-- <link rel="stylesheet" href="../css/main.css"> -->
+		<link rel="stylesheet" href="../css/global.css">
+		<!-- <link rel="stylesheet" href="http://www.joeldombek.com/blog/wp-content/themes/15-redesign/css/font-awesome-4_3.css"> -->
+		<!-- Font Links -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/master/devicon.min.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+		<link rel="stylesheet" href="../css/breadcrumb.css">
+		<!-- <link rel="stylesheet" href="../css/halcyon-styles.css">
+		<link rel="stylesheet" href="../css/halcyon-flexslider.css"> -->
+		<!-- PRE stylesheet -->
+		<!-- <link rel="stylesheet" href="https://cdn.rawgit.com/google/code-prettify/master/styles/defualt.css"> -->
+
+    <link rel='shortlink' href='http://www.joeldombek.com/' />
+    <!-- Top Scripts -->
+		<script src="http://joeldom.github.io/14-redesign/js/modernizr.min.js"></script>
+    <script type='text/javascript' src='http://www.joeldombek.com/blog/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+		<script type='text/javascript' src='http://www.joeldombek.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+
+		<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js?autoload=true&amp;skin=default" defer="defer"></script>
+
+  </head>
+	<body class="home page page-id-1281 page-template page-template-template_home page-template-template_home-php">
+	<div class="wrapper">
+
+    <!-- Navigation Section -->
+    <div id="navbar" class="navbar navbar-fixed-top" role="banner">
+			<div class="container">
+				<a class="navbar-brand" href="http://www.joeldombek.com/">JOEL<strong>DOMBEK</strong></a>
+				<nav class="navbar-responsive-collapse">
+					<ul class="nav navbar-nav pull-right" role="navigation">
+						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">Work</a>
+							<ul class="dropdown-menu">
+								<li class=""><a href="http://www.joeldombek.com/work/">All</a></li>
+								<li class=""><a href="#">Brand</a></li>
+								<li class=""><a href="#">Web</a></li>
+								<li class=""><a href="#">Interface</a></li>
+								<li class=""><a href="#">Print</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">Ideas</a>
+							<ul class="dropdown-menu">
+								<li class=""><a href="#">Quotes</a></li>
+								<li class=""><a href="http://www.joeldombek.com/ideas/inspiration/">Inspiration</a></li>
+								<li class=""><a href="http://www.joeldombek.com/blog/">Blog</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">Info</a>
+							<ul class="dropdown-menu">
+								<li><a id="nav-search" href="#"><i class="material-icons">search</i></a></li>
+								<li class=""><a href="http://www.joeldombek.com/about/">About</a></li>
+								<li class=""><a href="#">How I Work</a></li>
+								<li class=""><a href="#">Annual Report</a></li>
+								<li class=""><a href="http://www.joeldombek.com/resume/">Resume</a></li>
+								<li class=""><a href="http://www.joeldombek.com/contact/">Contact</a></li>
+							</ul>
+						</li>
+						<!-- <li><a id="nav-search" href="#"><i class="material-icons">search</i></a></li> -->
+					</ul>
+				</nav>
+				<button type="button" class="navbar-toggle">
+					<!-- <span href="#menu" class="box-shadow-menu"></span> -->
+					<!-- <span href="#menu" class="gradient-menu"></span> -->
+					<img width="25px" height="14px" src="http://www.joeldombek.com/blog/wp-content/themes/15-redesign/img/navicon.png" alt="Menu">
+				</button>
+			</div>
+		</div>
+    <!-- End Navigation Section -->
+
+		<div class="row toggle">
+			<div class="container">
+				<button href="#collapse1" class="quote-toggle"><i class="material-icons">clear</i></button>
+			</div>
+		</div>
+
+		<!-- BLOG MAIN SECTION -->
+		<div class="module module-hero">
+			<img id="collapse1" src="../img/hero-blog2x.png">
+			<div id="blog-section" class="module-content palette-grey60  palette-inverse">
+					<div class="container">
+						<h1 class="module-title">BLOG</h1>
+						<div class="row">
+							<div class="col-sm-12">
+								<ul class="nav nav-tabs" role="tablist">
+									<li role="blog" class="active"><a href="#main" aria-controls="main" role="tab" data-toggle="tab">Main</a></li>
+									<li role="blog"><a href="#design" aria-controls="design" role="tab" data-toggle="tab">Design</a></li>
+									<li role="blog"><a href="#code" aria-controls="code" role="tab" data-toggle="tab">Code</a></li>
+									<li role="blog"><a href="#science" aria-controls="science" role="tab" data-toggle="tab">Science</a></li>
+									<li><a id="search" href="#"><i class="material-icons">search</i>&nbsp;Search</a></li>
+								</ul>
+
+								<!-- Tab panes -->
+								<div class="tab-content">
+									<div role="tabpanel" class="tab-pane active" id="main"></div>
+									<div role="tabpanel" class="tab-pane" id="design">
+										<ul class="list-inline">
+											<li><a href="#">One</a></li>
+											<li><a href="#">Two</a></li>
+											<li><a href="#">Three</a></li>
+										</ul>
+									</div>
+									<div role="tabpanel" class="tab-pane" id="code">
+										<ul class="list-inline">
+											<li><a href="#">Four</a></li>
+											<li><a href="#">Five</a></li>
+											<li><a href="#">Six</a></li>
+										</ul>
+									</div>
+									<div role="tabpanel" class="tab-pane" id="science">
+										<ul class="list-inline">
+											<li><a href="#">Seven</a></li>
+											<li><a href="#">Eight</a></li>
+											<li><a href="#">Nine</a></li>
+											<li><a href="#">Ten</a></li>
+										</ul>
+									</div>
+								</div>
+								<!-- Tab panes -->
+							</div>
+						</div><!-- /row -->
+					</div><!-- /container -->
+				</div><!-- /module-content palette-grey40  palette-inverse -->
+			</div><!-- /module module-hero -->
+			<div class="text-center">
+				<h1 class="blog-heading">The Latest</h1>
+			</div>
+			<!-- <section class="text-center" id="responsive">
+				<div class="container-fluid nopadding responsive-services">
+					<div class="halcyon">
+						<div class="iphone">
+							<div class="wp3"></div>
+						</div>
+						<div class="fluid-white"></div>
+					</div>
+					<div class="container designs">
+						<div class="row">
+							<div class="col-md-5 col-md-offset-7">
+								<div id="servicesSlider">
+									<ul class="slides">
+										<li>
+											<h1 class="arrow">Responsive Design Specialists</h1>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero. </p>
+											<p>
+											Mauris ultrices odio vitae nulla ultrices iaculis. Nulla rhoncus odio eu lectus faucibus facilisis. Maecenas ornare augue vitae sollicitudin accumsan. </p>
+											<p>Etiam eget libero et erat eleifend consectetur a nec lectus. Sed id tellus lorem. Suspendisse sed venenatis odio, quis lobortis eros.</p>
+										</li>
+										<li>
+											<h1 class="arrow">Bootstrap Professionals</h1>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero. </p>
+											<p>
+											Mauris ultrices odio vitae nulla ultrices iaculis. Nulla rhoncus odio eu lectus faucibus facilisis. Maecenas ornare augue vitae sollicitudin accumsan. </p>
+											<p>Etiam eget libero et erat eleifend consectetur a nec lectus. Sed id tellus lorem. Suspendisse sed venenatis odio, quis lobortis eros.</p>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section> -->
+
+		<div id="blog-list" class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="row blog-list-row">
+						<div class="col-md-12">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-12">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<!-- <a class="pull-right read-more" href="single.html">Read&nbsp;more</a> -->
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+				</div>
+
+				<div class="col-sm-4">
+					<div class="row blog-list-row">
+						<div class="col-md-12">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-12">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<!-- <a class="pull-right read-more" href="single.html">Read&nbsp;more</a> -->
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+				</div>
+
+				<div class="col-sm-4">
+					<div class="row blog-list-row">
+						<div class="col-md-12">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-12">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<!-- <a class="pull-right read-more" href="single.html">Read&nbsp;more</a> -->
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="row blog-list-row">
+						<div class="col-md-12">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-12">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<!-- <a class="pull-right read-more" href="single.html">Read&nbsp;more</a> -->
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+				</div>
+
+				<div class="col-sm-4">
+					<div class="row blog-list-row">
+						<div class="col-md-12">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-12">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<!-- <a class="pull-right read-more" href="single.html">Read&nbsp;more</a> -->
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+				</div>
+
+				<div class="col-sm-4">
+					<div class="row blog-list-row">
+						<div class="col-md-12">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-12">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<!-- <a class="pull-right read-more" href="single.html">Read&nbsp;more</a> -->
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+				</div>
+			</div>
+		</div>
+
+		<div class="text-center">
+			<h1 class="blog-heading">Related</h1>
+		</div>
+
+		<div id="blog-list" class="container">
+			<div class="row">
+				<div class="col-md-8">
+
+					<div class="row blog-list-row">
+						<div class="col-md-6">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-6">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<a class="pull-right read-more" href="single.html">Read&nbsp;more</a>
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+
+					<div class="row blog-list-row">
+						<div class="col-md-6">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-6">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<a class="pull-right read-more" href="single.html">Read&nbsp;more</a>
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+
+					<div class="row blog-list-row">
+						<div class="col-md-6">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-6">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<a class="pull-right read-more" href="single.html">Read&nbsp;more</a>
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+
+					<div class="row blog-list-row">
+						<div class="col-md-6">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-6">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<a class="pull-right read-more" href="single.html">Read&nbsp;more</a>
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+
+					<div class="row blog-list-row">
+						<div class="col-md-6">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-6">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<a class="pull-right read-more" href="single.html">Read&nbsp;more</a>
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+
+					<div class="row blog-list-row">
+						<div class="col-md-6">
+							<a class="post-image-link" href="#">
+								<img src="../img/blog-tilex2x.png"/>
+							</a>
+						</div><!-- /col-md-6 -->
+						<div class="col-md-6">
+							<small>Catagory 1</small>
+							<h4>Header 4</h4>
+							<small>Date: 00 / 00 / 000</small>
+							<p>Excerpt of the post. Normal Paragraph with filler lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit varius, viverra nisl eget, ornare odio. Proin sit amet tellus nulla.</p>
+							<a class="pull-right read-more" href="single.html">Read&nbsp;more</a>
+						</div><!-- /col-md-6 -->
+					</div><!-- /row -->
+
+				</div><!-- /col-md-9 -->
+				<div id="blog-recent-list" class="col-md-3 col-md-offset-1 col-xs-12">
+					<h4>Recent Posts</h4>
+					<ul>
+						<li><a href="#kanye-west-yeezus/">Kanye West Yeezus</a></li>
+						<li><a href="#sass-compass-in-wordpress/">Sass &amp; Compass in WordPress</a></li>
+						<li><a href="#content-strategy-wordpress-edit-post/">Content Strategy</a></li>
+						<li><a href="#pretty-code-blocks/">&lt;Pre&gt;tty Code Blocks</a></li>
+						<li><a href="#lightweight-design/">Lightweight Design</a></li>
+						<li><a href="#game-of-thrones-rebranded/">Game of Thrones Rebranded</a></li>
+						<li><a href="#edge-of-space-jump/">Edge of Space Jump</a></li>
+						<li><a href="#glitch-itecture/">Glitch-itecture</a></li>
+						<li><a href="#frances-the-mute-review/">Frances the Mute – Review</a></li>
+						<li><a href="#first-things-first/">First Things First</a></li>
+						<li><a href="#blue-velvet-review/">Blue Velvet – Review</a></li>
+						<li><a href="#magic-information-miracle-of-technology/">Magic Information</a></li>
+						<li><a href="#site-announcements/">Site Announcements</a></li>
+						<li><a href="#repeating-patterns-design-trends/">Design Trends</a></li>
+					</ul>
+					<h4>Tags</h4>
+					<div class="tagcloud">
+						<a href="http://www.joeldombek.com/blog/tag/architecture/" class="tag">architecture</a>
+						<a href="http://www.joeldombek.com/blog/tag/branding/" class="tag">branding</a>
+						<a href="http://www.joeldombek.com/blog/tag/code-2/" class="tag">code</a>
+						<a href="http://www.joeldombek.com/blog/tag/congress/" class="tag">congress</a>
+						<a href="http://www.joeldombek.com/blog/tag/content-strategy/" class="tag">content strategy</a>
+						<a href="http://www.joeldombek.com/blog/tag/copyright/" class="tag">copyright</a>
+						<a href="http://www.joeldombek.com/blog/tag/css/" class="tag">CSS</a>
+						<a href="http://www.joeldombek.com/blog/tag/culture/" class="tag">culture</a>
+						<a href="http://www.joeldombek.com/blog/tag/daredevil/" class="tag">daredevil</a>
+						<a href="http://www.joeldombek.com/blog/tag/david-lynch/" class="tag">david lynch</a>
+						<a href="http://www.joeldombek.com/blog/tag/decades/" class="tag">decades</a>
+						<a href="http://www.joeldombek.com/blog/tag/design-2/" class="tag">design</a>
+						<a href="http://www.joeldombek.com/blog/tag/fashion/" class="tag">fashion</a>
+						<a href="http://www.joeldombek.com/blog/tag/film/" class="tag">film</a>
+						<a href="http://www.joeldombek.com/blog/tag/frances-the-mute/" class="tag">Frances the Mute</a>
+						<a href="http://www.joeldombek.com/blog/tag/freefall/" class="tag">freefall</a>
+						<a href="http://www.joeldombek.com/blog/tag/future/" class="tag">future</a>
+						<a href="http://www.joeldombek.com/blog/tag/game-of-thrones/" class="tag">game of thrones</a>
+						<a href="http://www.joeldombek.com/blog/tag/glitch/" class="tag">glitch</a>
+						<a href="http://www.joeldombek.com/blog/tag/google-maps/" class="tag">google maps</a>
+						<a href="http://www.joeldombek.com/blog/tag/graphic-design/" class="tag">graphic design</a>
+						<a href="http://www.joeldombek.com/blog/tag/html/" class="tag">HTML</a>
+						<a href="http://www.joeldombek.com/blog/tag/internet/" class="tag">internet</a>
+						<a href="http://www.joeldombek.com/blog/tag/laws/" class="tag">laws</a>
+						<a href="http://www.joeldombek.com/blog/tag/layout/" class="tag">layout</a>
+						<a href="http://www.joeldombek.com/blog/tag/logo/" class="tag">logo</a>
+						<a href="http://www.joeldombek.com/blog/tag/magazine/" class="tag">magazine</a>
+						<a href="http://www.joeldombek.com/blog/tag/mars-volta/" class="tag">mars volta</a>
+						<!-- <a href="http://www.joeldombek.com/blog/tag/movie/" class="tag">movie</a>
+						<a href="http://www.joeldombek.com/blog/tag/music/" class="tag">music</a>
+						<a href="http://www.joeldombek.com/blog/tag/php/" class="tag">php</a>
+						<a href="http://www.joeldombek.com/blog/tag/print-2/" class="tag">print</a>
+						<a href="http://www.joeldombek.com/blog/tag/red-bull/" class="tag">red bull</a>
+						<a href="http://www.joeldombek.com/blog/tag/review/" class="tag">review</a>
+						<a href="http://www.joeldombek.com/blog/tag/space/" class="tag">space</a>
+						<a href="http://www.joeldombek.com/blog/tag/space-jump/" class="tag">space jump</a>
+						<a href="http://www.joeldombek.com/blog/tag/stratos/" class="tag">stratos</a>
+						<a href="http://www.joeldombek.com/blog/tag/street-view/" class="tag">street view</a>
+						<a href="http://www.joeldombek.com/blog/tag/style/" class="tag">style</a>
+						<a href="http://www.joeldombek.com/blog/tag/technology/" class="tag">technology</a>
+						<a href="http://www.joeldombek.com/blog/tag/thoughts/" class="tag">thoughts</a>
+						<a href="http://www.joeldombek.com/blog/tag/trends/" class="tag">trends</a>
+						<a href="http://www.joeldombek.com/blog/tag/video/" class="tag">video</a>
+						<a href="http://www.joeldombek.com/blog/tag/web-2/" class="tag">web</a>
+						<a href="http://www.joeldombek.com/blog/tag/wordpress/" class="tag">wordpress</a> -->
+					</div>
+					<div class="promo">
+						<button href="#collapse2" class="quote-toggle"><i class="material-icons">clear</i></button>
+						<div id="collapse2" class="palette-grey80 palette-inverse">
+							<p class="text-center">Like what you&nbsp;see? Lets&nbsp;work together!</p>
+							<div class="text-center"><a class="read-more center-block" href="#">Contact&nbsp;Me</a></div>
+						</div>
+					</div>
+				</div><!-- /col-md-3 -->
+			</div><!-- /row -->
+		</div><!-- /container -->
+
+
+		<div class="container">
+			<div class="module module-related row">
+				<!-- BEGIN PAGEINATION -->
+				<div class="">
+					<ul class="pagination">
+						<li><a href="http://www.joeldombek.com/blog/">BACK</a></li>
+						<li><a href="http://www.joeldombek.com/blog/">1</a></li>
+						<li class="current"><a href="#">2</a></li>
+						<li><a href="http://www.joeldombek.com/blog/page/3/">3</a></li>
+						<li><a href="http://www.joeldombek.com/blog/page/4/">4</a></li>
+						<li><a href="http://www.joeldombek.com/blog/page/5/">5</a></li>
+						<li><a href="http://www.joeldombek.com/blog/page/6/">6</a></li>
+						<li><a href="http://www.joeldombek.com/blog/page/7/">7</a></li>
+						<li><a href="http://www.joeldombek.com/blog/page/3/">NEXT</a></li>
+					</ul>
+				</div>
+			</div>
+			<br/><br/>
+		</div><!-- /container -->
+	</div><!-- /wrapper -->
+
+<div class="related-posts bottom-para">
+  <div class="grid palette-inverse">
+		<div class="grid-inner full-3">
+
+			<article style="background-image:url(../img/diag2.png)">
+				<!-- http://www.dtelepathy.com/blog/wp-content/uploads/2014/09/Betterment_TylerDurden-1280x720.jpg -->
+			<a href="http://www.dtelepathy.com/blog/design/how-technical-frameworks-create-alignment" class="post-link" data-dt-event-action="click" data-dt-event-category="relatedPostVisit" data-dt-event-label="position1">
+				<div class="article-inner">
+					<h3 class="cat">Products</h3>
+					<h2>The Tyler Durden Philosophy of Product Design</h2>
+				</div>
+			</a>
+			</article>
+
+			<article style="background-image:url(../img/diag3.png)">
+				<!-- http://www.dtelepathy.com/blog/wp-content/uploads/2015/09/interaction-design-sales-1280x720.jpg -->
+			<a href="http://www.dtelepathy.com/blog/inspiration/21-watch-worthy-fullscreen-video-websites" class="post-link" data-dt-event-action="click" data-dt-event-category="relatedPostVisit" data-dt-event-label="position2">
+			  <div class="article-inner">
+			    <h3 class="cat ">Inspiration</h3>
+			    <h2>21 Watch-Worthy Fullscreen Video Websites</h2>
+			  </div>
+			</a>
+			</article>
+
+			<article style="background-image:url(../img/diag1.png)">
+				<!-- http://TEST www.dtelepathy.com/blog/wp-content/uploads/2015/02/Betterment_StrategicUXFriction-1280x720.jpg -->
+			<a href="http://www.dtelepathy.com/blog/business/strategic-ux-the-art-of-reducing-friction" class="post-link" data-dt-event-action="click" data-dt-event-category="relatedPostVisit" data-dt-event-label="position3">
+			  <div class="article-inner">
+			    <h3 class="cat ">Business</h3>
+			    <h2>Strategic UX: The Art of Reducing Friction</h2>
+			  </div>
+			</a>
+			</article>
+
+    </div>
+  </div>
+</div>
+<div class="footer-para">
+	<div class="container">
+		<div class="row">
+
+			<footer class="footer" itemscope="" itemtype="http://schema.org/Organization">
+				<span id="back-top"><a href="#top"><i class="material-icons">keyboard_arrow_up</i></a></span>
+				<div class="row">
+					<a class="footer-brand col-xs-6 col-sm-2" href="#" itemprop="name"><!-- JOEL<strong>DOMBEK</strong> -->
+						<img src="../img/logo.png" style="width: auto;max-height:75px;padding: 0 25px;">
+					</a>
+
+					<div class="col-xs-12 col-sm-5">
+						This is the Graphic / Web design portfolio &amp; blog of Joel Dombek who has 9+ years experience in: logo design, identity design, graphic design, advertising, marketing, web design, and UX design. Read the rest of my <a href="#">Resume</a> here.
+
+						<ul class="list-unstyled hidden-sm hidden-md hidden-lg">
+							<li><a href="#">Home</a></li>
+							<li><a href="#">Work</a></li>
+							<li><a href="#">Blog</a></li>
+							<li><a href="#">Ideas</a></li>
+							<li><a href="#">Quotes</a></li>
+							<li><a href="#">About</a></li>
+							<li><a href="#">Resume</a></li>
+							<li><a href="#">Contact</a></li>
+							<li><a href="#">Search</a></li>
+						</ul>
+					</div>
+          <div class="col-xs-12 col-sm-3 col-sm-offset-2">
+						<div class="row">
+
+							<div class="col-sm-6 col-xs-12">
+								<!-- <a href="http://www.joeldombek.com/contact/"><strong itemprop="name">Contact</strong></a><br> -->
+								<ul class="list-unstyled">
+									<!-- <li><a href="#" target="_blank"><i class="fa fa-facebook-official"></i> Facebook</a></li> -->
+									<li><a href="#" target="_blank"><i class="material-icons">&#xE0E1;</i><span class="hidden-xs"> General</span></a></li>
+									<li><a href="#" target="_blank"><i class="fa fa-twitter"></i><span class="hidden-xs"> Twitter</span></a></li>
+									<li><a href="#" target="_blank"><i class="fa fa-linkedin"></i><span class="hidden-xs"> LinkedIn</span></a></li>
+									<li><a href="http://www.joeldombek.com/contact/"><i class="fa fa-file-pdf-o"></i><span class="hidden-xs"> Resume</span></a></li>
+								</ul>
+							</div>
+
+							<div class="col-sm-6 col-xs-12">
+								<p class="text-right">
+									JOEL<strong>DOMBEK</strong><br class="hidden-xs"/>
+									<small>V4.12.08.11.47<br class="hidden-xs"/> &copy; 2016</small></p>
+									<br/><br/><br/>
+							</div>
+
+            </div>
+          </div>
+        </div>
+			</footer>
+		</div>
+	</div>
+</div>
+<!-- WRAPPER -->
+<!-- Search Overlay -->
+<div id="overlay-search">
+	<input name="Search" type="text" onfocus="if(this.value == 'value') { this.value = ''; }" value="Search" />
+	<span class="searchHint">Search anytime by typing</span>
+	<span id="close"><a href="#blog-section" style="text-decoration:none;"><i class="material-icons">clear</i> Close</a></span>
+	<div id="overlay-results">
+		<span class="resultHint">Results: <strong>4</strong></span>
+
+		<div class="row results-list-row">
+			<div class="col-md-2 col-xs-12">
+				<a class="post-image-link" href="#">
+					<img src="../img/blog-tilex2x.png">
+				</a>
+			</div><!-- /col-xs-2 -->
+			<div class="col-md-10 col-xs-12">
+				<article class="tile tile-text">
+					<header class="tile-header">
+						<p><small>Branding </small></p>
+						<h3 class="tile-title"><a href="http://www.joeldombek.com/work/joel-dombek-logo/">My Logo</a></h3>
+					</header>
+					<div class="tile-excerpt hidden-xs">
+						<p>My Personal Logo/Identity This is my personal logo. This believe it or not took several years to develop/transition into. <a href="LINK">Read&nbsp;more</a></p>
+					</div>
+				</article>
+			</div>
+		</div><!-- result-list-row --><br/>
+
+		<div class="row results-list-row">
+			<div class="col-md-2 col-xs-12">
+				<a class="post-image-link" href="#">
+					<img src="../img/blog-tilex2x.png">
+				</a>
+			</div><!-- /col-xs-2 -->
+			<div class="col-md-10 col-xs-12">
+				<article class="tile tile-text">
+					<header class="tile-header">
+						<p><small>Branding </small></p>
+						<h3 class="tile-title"><a href="http://www.joeldombek.com/work/guaranteed-results-marketing/ ">Guaranteed Results Marketing</a></h3>
+					</header>
+					<div class="tile-excerpt hidden-xs">
+						<p>This is a project I was creative director on starting with the logo for a internet marketing firm. It’s goal was to create a platform for small business to leverage themselves in an online market. Through a visual redesign and implementation of a CMS (Content Management System) so that SEO (Search Engine Optimization) driven content could easily be added. <a href="LINK">Read&nbsp;more</a></p>
+					</div>
+				</article>
+			</div>
+		</div><!-- result-list-row --><br/>
+
+		<div class="row results-list-row">
+			<div class="col-md-2 col-xs-12">
+				<a class="post-image-link" href="#">
+					<img src="../img/blog-tilex2x.png">
+				</a>
+			</div><!-- /col-xs-2 -->
+			<div class="col-md-10 col-xs-12">
+				<article class="tile tile-text">
+					<header class="tile-header">
+						<p><small>Branding </small></p>
+						<h3 class="tile-title"><a href="http://www.joeldombek.com/work/guaranteed-results-marketing/ ">Guaranteed Results Marketing</a></h3>
+					</header>
+					<div class="tile-excerpt hidden-xs">
+						<p>This is a project I was creative director on starting with the logo for a internet marketing firm. It’s goal was to create a platform for small business to leverage themselves in an online market. Through a visual redesign and implementation of a CMS (Content Management System) so that SEO (Search Engine Optimization) driven content could easily be added. <a href="LINK">Read&nbsp;more</a></p>
+					</div>
+				</article>
+			</div>
+		</div><!-- result-list-row --><br/>
+
+		<div class="row results-list-row">
+			<div class="col-md-2 col-xs-12">
+				<a class="post-image-link" href="#">
+					<img src="../img/blog-tilex2x.png">
+				</a>
+			</div><!-- /col-xs-2 -->
+			<div class="col-md-10 col-xs-12">
+				<article class="tile tile-text">
+					<header class="tile-header">
+						<p><small>Branding </small></p>
+						<h3 class="tile-title"><a href="http://www.joeldombek.com/work/guaranteed-results-marketing/ ">Guaranteed Results Marketing</a></h3>
+					</header>
+					<div class="tile-excerpt hidden-xs">
+						<p>This is a project I was creative director on starting with the logo for a internet marketing firm. It’s goal was to create a platform for small business to leverage themselves in an online market. Through a visual redesign and implementation of a CMS (Content Management System) so that SEO (Search Engine Optimization) driven content could easily be added. <a href="LINK">Read&nbsp;more</a></p>
+					</div>
+				</article>
+			</div>
+		</div><!-- result-list-row --><br/>
+
+		<div class="col-xs-12 text-center"><a class="read-more center-block" href="#">Load More</a></div>
+
+	</div><!-- overlay-results -->
+</div><!-- overlay-search -->
+
+    <!-- Scripts -->
+		<script src="../js/main.js"></script>
+		<script src="../js/quotes.js"></script>
+		<script src="../js/contact.js"></script>
+		<script src="../js/respondify.js"></script>
+		<script src="../js/svginline.js"></script>
+		<script src="../js/overlaysearch.js"></script>
+		<script src="../js/jquery.flexslider.js"></script>
+		<script src="../js/halcyon-scripts.js"></script>
+		<script src="../js/halcyon-waypoints.min.js"></script>
+		<script src="../js/tab.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+  </body>
+</html>

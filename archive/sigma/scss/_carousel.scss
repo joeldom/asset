@@ -1,0 +1,274 @@
+//_carousel.scss
+.carousel {
+  position: relative;
+}
+
+.carousel-inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  > {
+    .item {
+      display: none;
+      position: relative;
+      -webkit-transition: .6s ease-in-out left;
+      transition: .6s ease-in-out left;
+      > {
+        img, a > img {
+          display: block;
+          max-width: 100%;
+          height: auto;
+          line-height: 1;
+        }
+      }
+    }
+    .active, .next, .prev {
+      display: block;
+    }
+    .active {
+      left: 0;
+    }
+    .next, .prev {
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
+    .next {
+      left: 100%;
+    }
+    .prev {
+      left: -100%;
+    }
+    .next.left, .prev.right {
+      left: 0;
+    }
+    .active {
+      &.left {
+        left: -100%;
+      }
+      &.right {
+        left: 100%;
+      }
+    }
+  }
+}
+
+.carousel-control {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 15%;
+  opacity: .5;
+  filter: alpha(opacity = 50);
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 1px 1px 1px rgba(101, 101, 101, 0.2);
+  &.left {
+    background-image: -webkit-linear-gradient(left, color-stop(rgba(0, 0, 0, 0.5) 0), color-stop(rgba(0, 0, 0, 0.0001) 100%));
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0, rgba(0, 0, 0, 0.0001) 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
+  }
+  &.right {
+    left: auto;
+    right: 0;
+    background-image: -webkit-linear-gradient(left, color-stop(rgba(0, 0, 0, 0.0001) 0), color-stop(rgba(0, 0, 0, 0.5) 100%));
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0001) 0, rgba(0, 0, 0, 0.5) 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+  }
+  &:hover, &:focus {
+    outline: 0;
+    color: #fff;
+    text-decoration: none;
+    opacity: .9;
+    filter: alpha(opacity = 90);
+  }
+  .icon-prev, .icon-next, .glyphicon-chevron-left, .glyphicon-chevron-right {
+    position: absolute;
+    top: 50%;
+    z-index: 5;
+    display: inline-block;
+  }
+  .icon-prev, .glyphicon-chevron-left {
+    left: 50%;
+  }
+  .icon-next, .glyphicon-chevron-right {
+    right: 50%;
+  }
+  .icon-prev, .icon-next {
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: -10px;
+    font-family: 'FontAwesome';
+  }
+  .icon-prev:before {
+    content: '\f0d9';
+  }
+  .icon-next:before {
+    content: '\f0da';
+  }
+}
+
+.carousel-indicators {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  z-index: 15;
+  width: 60%;
+  margin-left: -30%;
+  padding-left: 0;
+  list-style: none;
+  text-align: center;
+  li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #000 \9;
+    background-color: rgba(0, 0, 0, 0);
+  }
+  .active {
+    margin: 0;
+    width: 12px;
+    height: 12px;
+    background-color: #b0aca8;
+  }
+}
+
+.carousel-caption {
+  position: absolute;
+  left: 15%;
+  right: 15%;
+  bottom: 20px;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 1px 1px 1px rgba(101, 101, 101, 0.2);
+  .btn {
+    text-shadow: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .carousel-control {
+    .glyphicons-chevron-left, .glyphicons-chevron-right, .icon-prev, .icon-next {
+      width: 30px;
+      height: 30px;
+      margin-top: -15px;
+      margin-left: -15px;
+      font-size: 30px;
+    }
+  }
+  .carousel-caption {
+    left: 20%;
+    right: 20%;
+    padding-bottom: 30px;
+  }
+  .carousel-indicators {
+    bottom: 20px;
+  }
+}
+.carousel {
+  p, .tile {
+    margin-bottom: 0;
+  }
+}
+
+.carousel-indicators {
+  bottom: auto;
+  top: 290px;
+  li, .active {
+    border-width: 0;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    height: 8px;
+    margin: 0 2px;
+    width: 8px;
+  }
+  li {
+    background-color: #fff;
+  }
+}
+
+.carousel-control {
+  background: rgba(210, 208, 205, 0.6) !important;
+  border-width: 0;
+  -webkit-border-radius: 31px;
+  -moz-border-radius: 31px;
+  border-radius: 31px;
+  text-shadow: 0 !important;
+  font-size: 15px;
+  height: 31px;
+  line-height: 31px;
+  top: 144.5px;
+  width: 31px;
+  &.left {
+    left: 11px;
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  }
+  &.right {
+    right: 11px;
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  }
+}
+
+@media (min-width: 768px) {
+  .carousel-indicators {
+    top: 10px;
+  }
+  .carousel-control {
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    border-radius: 60px;
+    font-size: 22px;
+    height: 60px;
+    line-height: 62px;
+    top: 192px;
+    width: 60px;
+    &.left {
+      left: 9px;
+      font-size: 50px;
+      line-height: 50px;
+    }
+    &.right {
+      right: 9px;
+      font-size: 50px;
+      line-height: 50px;
+    }
+  }
+}
+
+@media (min-width: 992px) {
+  .carousel-control {
+    top: 264px;
+  }
+}
+
+@media (min-width: 1380px) {
+  .carousel-control {
+    top: 294px;
+  }
+}
+.hero-cover{
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	height: 400px;
+}
+/*##########################
+    CAROUSEL
+###########################*/
+.carousel-control{}
+.left.carousel-control i{margin: 3px 0 0 -8px}
+.right.carousel-control i{margin: 3px -8px 0 0}

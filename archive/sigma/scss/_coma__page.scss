@@ -1,0 +1,122 @@
+//_page.scss
+
+.home-lead{
+  background-color:$brandblue-cool;
+  padding-top:$gap; padding-bottom:$gap;
+  position:relative;
+
+  &.section--1, &.section--3, &.section--5{
+    .home-lead__background{
+      right:0;
+      bottom:$gap - $gap; top:$gap - $gap;
+      left:33.3333333333vw;
+    }
+    .home-lead__content{
+      margin-right: $gap;
+
+      .map{
+        //padding-right:$gap;
+        //padding-left: $gap;;
+      }
+    }
+  }
+  &.section--2, &.section--4, &.section--6{
+    padding-top: $gap - $gap;//this might need removed
+    .home-lead__background{
+      right:33.3333333333vw;
+      bottom:$gap - $gap; top:$gap * 6;//$gap - $gap
+      left:0;
+    }
+    .home-lead__content{
+      margin-left: $gap;
+    }
+  }
+  &.section--3, &.section--5{
+    padding-top: $gap - $gap;
+    .home-lead__background{
+      top: $gap * 6;
+    }
+  }
+}
+.home-lead__background {
+ content:'';
+ position:absolute;
+ top:$gap; bottom: $gap;
+}
+.home-lead__content{
+  background-color:$brandblue;
+  padding-top:$gap; padding-bottom:$gap;
+  position:relative;
+
+  .row{
+    .col-sm-6{
+      padding-left: 0;
+      padding-right:0;
+    }
+  }
+}
+
+
+
+
+
+
+
+//=======================
+.home-approach {
+ background-color:#e0e9fe;
+ padding-top:4.1666666667vw;
+ position:relative
+}
+.home-approach__background {
+ content:'';
+ background-color:$gable;
+ position:absolute;
+ top:0;
+ right:0;
+ bottom:0;
+ left:33.3333333333vw
+}
+.home-approach__content {
+ color:#fff;
+ background-color:#0048ff;
+ padding:4.1666666667vw 0 0;
+ margin-right:8.3333333333vw;
+ position:relative;
+ z-index:1
+}
+@media (min-width: 40em) {
+ .home-approach__content {
+  margin-right:12.5vw
+ }
+}
+@media (min-width: 60em) {
+ .home-approach__content {
+  margin-right:16.6666666667vw
+ }
+}
+@media (min-width: 80em) {
+ .home-approach__content {
+  margin-right:20.8333333333vw
+ }
+}
+.home-approach__text {
+ letter-spacing:-.02em;
+ padding:0 8.3333333333vw;
+ margin:0 auto 8.3333333333vw
+}
+@media (min-width: 40em) {
+ .home-approach__text {
+  padding:0 12.5vw
+ }
+}
+@media (min-width: 60em) {
+ .home-approach__text {
+  padding:0 16.6666666667vw
+ }
+}
+@media (min-width: 80em) {
+ .home-approach__text {
+  padding:0 20.8333333333vw
+ }
+}

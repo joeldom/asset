@@ -1,0 +1,311 @@
+//_palette.scss
+.palette-white {
+  color: $textcolor;
+  background-color: white;
+  a{
+    &:hover{
+      color: $textcolor;
+      p{color:$textcolor;}
+      .tile-category{
+        color:$linkhovercolor;
+        border-bottom:1px solid $linkhovercolor;
+//        @include transition;
+      }
+    }
+    .tile-category{
+      color:$textcolor;
+      border-bottom:1px dotted $textcolor;
+//      @include transition;
+    }
+  }
+}
+.palette-grey05 {
+  color: #f6f6f6;
+  &.palette-inverse {
+    background-color: #f6f6f6;
+  }
+}
+.palette-grey10 {
+  color: #ebebeb;
+  &.palette-inverse {
+    background-color: #ebebeb;
+  }
+}
+.palette-grey15 {
+  color: #dedede;
+  &.palette-inverse {
+    background-color: #dedede;
+  }
+}
+.palette-grey20 {
+  color: #cfcfcf;
+  &.palette-inverse {
+    background-color: #cfcfcf;
+  }
+}
+.palette-grey30 {
+  color: #acacac;
+  &.palette-inverse {
+    background-color: #acacac;
+  }
+}
+.palette-grey40 {
+  color: #999999;
+  &.palette-inverse {
+    background-color: #999999;
+  }
+}
+.palette-grey50 {
+  color: #7c7c7c;
+  &.palette-inverse {
+    background-color: #7c7c7c;
+  }
+}
+.palette-grey60 {
+  color: #6b6b6b;
+  &.palette-inverse {
+    background-color: #6b6b6b;
+  }
+}
+.palette-grey70 {
+  color: #5b5b5b;
+  &.palette-inverse {
+    background-color: #5b5b5b;
+  }
+}
+.palette-grey80 {
+  color: $grey80;
+  &.palette-inverse {
+    background-color: $grey80;
+  }
+}
+.palette-grey90 {
+  color: $grey90;
+  &.palette-inverse {
+    background-color: $grey90;
+  }
+}
+.palette-black {
+  color: $blue;
+  &.palette-inverse {
+    background-color: $blue;
+  }
+}
+.palette-blue {
+  color: $blue;
+  &.palette-inverse {
+    background-color: $blue;
+  }
+}
+.palette-inverse {
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  a {
+    color: #fff;
+  }
+}
+a.palette-inverse {
+  &:hover, &:focus {
+    color: #fff;
+  }
+}
+.palette-inverse{
+  color:white;
+  .read-more{
+    border:3px solid white;
+  }
+}
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+BRANDBLUE STYLIng FOR EVERYTHING
+
+*/
+.read-more, .see-more, #c_form input[type="submit"]{
+//  border-width:3px;
+//  border-style:solid;
+  border: 3px solid #000;
+  display:inline-block;
+  font-family:sans-serif;
+  font-size:13px;
+  font-weight:bold;
+  line-height:40px;
+  text-align:center;
+  text-decoration:none;
+  //width:150px;
+  padding: .4125em 2.5em;
+  -webkit-text-size-adjust:none;
+  mso-hide: all;
+  transition: color 400ms, background-color 400ms;
+  cursor: pointer;
+  border-radius: 0px;
+}
+
+.palette-brandblue {
+  color: $brandblue;
+  background-color: #f5f5f5;
+  .read-more, .see-more{
+    border: 3px solid $brandblue;
+    color: $brandblue;
+    &:hover{
+      background-color: $brandblue;
+      color: white;
+    }
+  }
+////////////////////////////////
+  &.cool{
+    background-color: #e0e9fe;
+    color: $brandblue;
+    h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, a, strong{color: $brandblue;}
+    hr{border: 1px solid $brandblue}
+  }
+  ////////////////////////////////
+  &.warm{
+    background-color: #e4dfd9;
+    color: #5f5f5f;
+  }
+  ////////////////////////////////
+  &.palette-inverse {
+    background-color: $brandblue;
+    color:white;
+    .read-more, .see-more{
+      border: 3px solid white;
+      color: white;
+      &:hover{
+        background-color: white;
+        color: $brandblue;
+      }
+    }
+    h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, a, strong{color: white;font-weight:700;}
+    ////////////////////////////////
+    &.cool{
+      background-color: #a3a3a3;
+      color: #142a2d;
+      .read-more, .see-more{
+        border: 3px solid #142a2d;
+        color: #142a2d;
+        &:hover{
+          background-color: #142a2d;
+          color: #a3a3a3;
+        }
+      }
+      h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, a, strong{
+        color: #142a2d;
+        &:hover{
+          color: $brandblue;
+          transition: color 400ms, background-color 400ms;
+        }
+      }
+    }
+    ////////////////////////////////
+    &.warm{
+      background-color: #142a2d;
+      color: #e4dfd9;
+      .read-more, .see-more{
+        &:hover{
+          background-color: white;
+          color: #142a2d;
+        }
+      }
+    }
+  }
+}
+
+
+.read-more{
+  border: 3px solid #545454;
+  //border-radius: 20px;
+  display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:150px;-webkit-text-size-adjust:none;mso-hide:all;}
+.read-more:hover{border: 1px solid white;/*e6e6e8*/ background: white; color: #545454;}
+#overlay-search .read-more:hover{border: 1px solid black;/*e6e6e8*/ background: white; color: black;}
+#overlay-search .read-more:hover{border: 1px solid #545454; background: #545454; color: white;}
+/*
+END BRAND BLUE STYLIGN FOR EVERYTHIGN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+
+
+.palette-brandred {
+  color: #fd483a;
+  &.palette-inverse {
+    background-color: $brandred;
+  }
+}
+.stats-hero.purple{background-color: #8385c3;}
+.stats-hero.red{background-color: #EF4544;}
+.stats-hero.blush{background-color: #BD473D;}
+.stats-hero.cream{background-color: #CFAAA5;}
+.stats-hero.mustard{background-color: #B9B445; /*aaa52d*/}
+.stats-hero.sand{background-color: #D6CFB9;}
+.stats-hero.teal{background-color: #7ea29a;}
+.stats-hero.navydark{background-color: #37477D;}
+.stats-hero.navy{background-color: #5C6FAF;}
+.stats-hero.orange{background-color: #C75134;}
+.stats-hero.grey90{background-color: #353535;}
+.stats-hero.passion{background-color: #D2595E;}
+.stats-hero.steel{background-color: #4D6974;}
+.stats-hero.gold{background-color: #f5c429;}
+//.stats-hero.brandblue{background-color: $brandblue;}
+//.stats-hero.brandred{background-color: $brandred;color:#212121;}
+//.stats-hero.brandgreen{background-color: $brandgreen;}
+.stats-hero.brandgreen{background-color: $brandgreen; color: $brandblack;}
+.stats-hero.brandred{background-color: $brandred; color: $brandblue;}
+.stats-hero.brandblue{background-color: $brandblue; color: $brandblue-light;}
+.stats-hero.brandblue .quote{color: $brandblue-light;}
+
+
+.stats-hero.brandred.stripe,
+.stats-hero.stripe.brandred{
+  background:repeating-linear-gradient(
+    90deg,
+    $brandred,
+    $brandred 200px,
+    #F6F6FA 200px,
+    #F6F6FA 400px
+  );
+  .quote{
+    color:$quotecolor
+  }
+}
+.stats-hero.brandgreen.stripe,
+.stats-hero.stripe.brandgreen{
+  background:repeating-linear-gradient(
+    90deg,
+    $brandgreen,
+    $brandgreen 200px,
+    #F6F6FA 200px,
+    #F6F6FA 400px
+  );
+  .quote{
+    color:$quotecolor;
+  }
+}
+.stats-hero.brandblue.stripe,
+.stats-hero.stripe.brandblue{
+  background:repeating-linear-gradient(
+    90deg,
+    $brandblue,
+    $brandblue 200px,
+    #F6F6FA 200px,
+    #F6F6FA 400px
+  );
+  .quote{
+    color:$quotecolor;
+  }
+}
+
+.stats-hero.bg-image {
+    // width: 100%;
+    // height: 100%;
+    //
+    // position: absolute;
+    // top: 0;
+    // left: 0;
+    // z-index: -1;
+
+    background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/167792/mountains_copy.jpg') no-repeat center center;
+    background-size: cover;
+
+    transform: scale(1.1);
+  }

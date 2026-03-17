@@ -1,0 +1,47 @@
+//_flat.scss
+@import 'flat-fonts';
+
+$flatbodycolor: #f3f4f8; /*|| f3f4f8 | D6DEEA ||*/
+$flattextcolor: #262a2b;
+$flatlinkcolor: #202b53; /*|| 202b53 | ff4632 ||*/
+
+#flat *{ background-color: none !important; }
+#flat * *{ background-color: none !important; }
+#flat * * *{ background-color: none !important; }
+#flat * * * *{ background-color: none !important; }
+#flat * * * * *{ background-color: none !important; }
+#flat * * * * * *{ background-color: none !important; }
+
+#flat, #flat .navbar, .stats-hero, #flat #carousel-quotes > div > div > div, #flat article.tile-hybrid *, #flat .quote-inner .quote, #featured{
+  background-color:$flatbodycolor !important;
+  color:$flattextcolor !important;
+  //font-family: $cousine;
+}
+#flat a{
+  &:hover{
+    color: $flatlinkcolor !important;
+  }
+}
+h1, h2, h3, h4, h5, h6{
+  //font-family: $oldstandard;
+}
+#flat .footer-brand{
+  opacity: .75;
+  &:hover{
+    opacity:1;
+  }
+}
+#flat #navbar{
+  .navbar{
+    padding: 100px 18px 0;
+  }
+  nav{
+    a{
+      color: $flattextcolor;
+      &:hover{color:$flatlinkcolor !important;}
+    }
+  }
+}
+body{
+  font-family: $menlo;
+}

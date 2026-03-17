@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Crop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Interface" sketch:type="MSLayerGroup" transform="translate(-597.000000, -595.000000)" stroke="#535353" stroke-width="2" stroke-linejoin="round">
+            <g id="Crop" transform="translate(602.000000, 600.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2495" stroke-linecap="round" fill="#D8D8D8" x="2" y="2" width="20" height="20"></rect>
+                <rect id="Rectangle-2249" stroke-linecap="round" fill="#D8D8D8" x="0" y="0" width="4" height="4"></rect>
+                <rect id="Rectangle-2249" stroke-linecap="round" fill="#D8D8D8" x="0" y="20" width="4" height="4"></rect>
+                <rect id="Rectangle-2250" stroke-linecap="round" fill="#D8D8D8" x="20" y="0" width="4" height="4"></rect>
+                <rect id="Rectangle-2250" stroke-linecap="round" fill="#D8D8D8" x="20" y="20" width="4" height="4"></rect>
+                <path d="M4,2 L20,2" id="Line" stroke-linecap="square"></path>
+                <path d="M4,22 L20,22" id="Line" stroke-linecap="square"></path>
+                <path d="M2,20 L2,4" id="Line" stroke-linecap="square"></path>
+                <path d="M22,20 L22,4" id="Line" stroke-linecap="square"></path>
+                <path d="M25,2 L48,2 L48,48 L2,48 L2,25" id="Rectangle-2253" stroke-linecap="square" stroke-dasharray="3,7"></path>
+            </g>
+        </g>
+        <g id="Interface_sliced" sketch:type="MSLayerGroup" transform="translate(-600.000000, -600.000000)"></g>
+    </g>
+</svg>

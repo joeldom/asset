@@ -1,0 +1,28 @@
+{
+  "name": "sigma",
+  "version": "1.0.0",
+  "description": "site compiler package for running front-end style output.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "joeldom.github.io/redesign/s"
+  },
+  "keywords": [
+    "ux",
+    "ui",
+    "frontend",
+    "design",
+    "2021"
+  ],
+  "author": "Joel Dombek",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "node-compass": "^0.2.4",
+    "node-sass": "^6.0.1"
+  }
+}

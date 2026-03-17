@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>No</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Interface" sketch:type="MSLayerGroup" transform="translate(-237.000000, -1075.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Add" transform="translate(241.000000, 1079.000000)" sketch:type="MSShapeGroup">
+                <circle id="Oval-1788" cx="26" cy="26" r="26"></circle>
+                <path d="M16.8076118,16.8076118 L35.1923882,35.1923882" id="Line"></path>
+                <path d="M16.4540585,35.3388348 L34.8388348,16.9540585" id="Line-401"></path>
+            </g>
+        </g>
+        <g id="Interface_sliced" sketch:type="MSLayerGroup" transform="translate(-240.000000, -1080.000000)"></g>
+    </g>
+</svg>

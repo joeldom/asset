@@ -1,0 +1,42 @@
+//_overlay.scss
+#overlay-search {
+  position: fixed;
+  top: 0; bottom: 0;
+  right: 0; left: 0;
+  display: none;
+  background: rgba(255,255,255,.95);
+  z-index: 9999;
+}
+#overlay-search input {
+  background: none;
+  padding: 20px;
+  font-size: 7em;
+  letter-spacing: -.035em!important;
+  white-space: pre-wrap!important;
+  word-wrap: break-word;
+  text-rendering: geometricPrecision;
+  font-weight: 900;
+  border: 0;
+  margin: 40px 25px 0;
+}
+#overlay-search input:focus { outline: none; }
+#overlay-search .searchHint{
+  position: absolute;
+  top:25px; left:20px;
+  margin: 0 0 0 25px;
+  color: #c3c3c3;
+  vertical-align: top;
+}
+#overlay-search #close {
+  position: absolute;
+  top: 0; right:0;
+  padding: 25px;
+  font-weight: bold;
+  cursor: pointer;
+}
+#search, #close a{text-decoration: none;border: none;}
+#close i{vertical-align: middle;}
+#overlay-results{padding: 0 50px;}
+#overlay-results .result-readmore{
+  height: 100px;
+}

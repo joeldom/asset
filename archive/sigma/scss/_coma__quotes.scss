@@ -1,0 +1,175 @@
+//_quotes.scss
+.toggle {
+  margin-bottom: -15px;
+}
+.toggle .quote-toggle {
+  color: #545454;
+  outline: none;
+  border: none;
+  position: relative;
+  z-index: 99;
+  text-align: right;
+  width: 100%;
+  display: block;
+  font-size: 0.8em;
+  padding: 0;
+  opacity: 0.5;
+  vertical-align: bottom;
+}
+ul#cyclelist,
+#shuffle {
+  color: $textcolor;
+  font-weight: 900;
+  /*text-shadow: 5px 5px 0px #ddd;*/
+  text-transform: none;
+  padding: 12px 0 0 0;
+  margin-top: -10px;
+  line-height: 1em;
+  display: block;
+  font-size: 1em;
+  width: 100%;
+  position: relative;
+  overflow: visible;
+  height: 300px;
+}
+ul#cyclelist li,
+#shuffle .quote {
+  overflow: hidden;
+  /*height: 300px;*/
+  position: absolute;
+  bottom: 0;
+  opacity: 0;
+  width: 100%;
+}
+
+.toggle {
+  .quote-toggle {
+    opacity: 0;
+  }
+  &:hover .quote-toggle {
+    opacity: 1;
+  }
+  //&:hover button i{background: rgba(255,255,255,1);@include transition;}
+  &:hover button i {
+    background: rgba(255, 255, 255, 1);
+    transition: $transition;
+  }
+  //@include transition;
+  transition: $transition;
+
+  @media (max-width: 767px) {
+    .quote-toggle {
+      opacity: 1;
+    }
+  }
+}
+.stats-hero .quote-inner {
+  width: 100%;
+  display: block;
+  padding: 0;
+  position: absolute;
+  bottom: 50px;
+}
+.quote .num {
+  font-size: 0.2em;
+  font-weight: 500;
+  color: #b1b1b1; /*#545454*/
+  height: 65px;
+  sup {
+    font-weight: 900;
+    top: -0.4em;
+  }
+}
+#quotes .quote-outer {
+  position: relative;
+  min-height: $quotes-size;
+  @media (max-width: 992px) {
+    min-height: $quotes-size - 120px;
+  }
+  @media (max-width: 767px) {
+    min-height: $quotes-size - 120px;
+  }
+}
+@media (min-width: 768px) {
+  .item .stats-hero {
+    min-height: 400px;
+    position: relative;
+  }
+}
+@media (max-width: 767px) {
+  .toggle {
+    position: absolute;
+    right: 13px;
+  }
+  .toggle .quote-toggle {
+    width: 200px;
+    font-size: 1.25em;
+  }
+  .quote .num {
+    font-size: 0.35em;
+    height: 50px;
+    margin-top: 13px;
+  }
+  .stats-hero .quote-inner {
+    padding: 10px;
+    bottom: 25px;
+  }
+}
+@media (max-width: 992px) {
+  .quote .num {
+    font-size: 0.35em;
+    height: 50px;
+    margin-top: 13px;
+  }
+  .item .stats-hero {
+    min-height: 300px;
+  }
+  .stats-hero .quote-inner {
+    bottom: 25px;
+  }
+}
+
+.quote-inner .quote {
+  color: inherit;
+  font-size: 3em;
+  font-weight: 900;
+  line-height: 1em;
+  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 24px;
+  border-bottom: 0.3rem solid $brandblue-cool; //1px solid #b1b1b1
+}
+@media screen and (min-width: 769px) {
+  .quote-inner .quote {
+    font-size: 3em;
+  }
+}
+@media screen and (min-width: 992px) {
+  .quote-inner .quote {
+    font-size: 5em;
+  }
+}
+@media (max-width: 767px) {
+  #quotes .carousel-indicators {
+    top: 20px;
+  }
+  #quotes .carousel-control.right,
+  #quotes .carousel-control.left {
+    top: 345px;
+  }
+  /*#quotes .container{position: relative;min-height: 350px;}*/
+  .stats-hero .quote-inner {
+    padding: 10px;
+  }
+}
+#quotes.module-hero {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin: 0;
+  @media (max-width: $break-small-max) {
+    margin: 0 -12px;
+  }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Targetselect</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Interface" sketch:type="MSLayerGroup" transform="translate(-117.000000, -595.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Targetselect" transform="translate(120.000000, 599.000000)" sketch:type="MSShapeGroup">
+                <path d="M22.9393573,4.46247869 C14.2051902,6.26058898 7.31922236,13.1205235 5.48301701,21.8407191 M5.49968396,31.2377349 C7.34287151,39.8380367 14.1011833,46.6148557 22.6914456,48.4850182 M32.3747054,48.4705117 C41.0319175,46.558295 47.8163605,39.6597423 49.5617933,30.9410949 M49.5124644,21.819312 C47.6760362,13.1401658 40.8363758,6.30769398 32.1533572,4.48177051" id="Oval-1768"></path>
+                <rect id="Rectangle-2232" fill="#D8D8D8" x="23" y="0" width="9" height="9"></rect>
+                <rect id="Rectangle-2232" fill="#D8D8D8" x="45" y="22" width="9" height="9"></rect>
+                <rect id="Rectangle-2232" fill="#D8D8D8" x="0" y="22" width="9" height="9"></rect>
+                <rect id="Rectangle-2232" fill="#D8D8D8" x="23" y="44" width="9" height="9"></rect>
+            </g>
+        </g>
+        <g id="Interface_sliced" sketch:type="MSLayerGroup" transform="translate(-120.000000, -600.000000)"></g>
+    </g>
+</svg>

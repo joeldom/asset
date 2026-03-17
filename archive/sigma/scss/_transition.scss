@@ -1,0 +1,28 @@
+//
+// Trying to fix errors with transition
+// --------------------------------------------------
+
+//_transition.scss
+
+$transition: 0.2s ease;
+
+// @mixin transition($props...) {
+//   $result: ();
+//
+//   @for $i from 1 through length($props) {
+//     $prop: nth($props, $i);
+//     $result: append($result, $prop);
+//     $result: append($result, ease 0.2s);
+//
+//     @if $i != length($props) {
+//       $result: append(
+//         $result,
+//         unquote(
+//           $string: ","
+//         )
+//       );
+//     }
+//   }
+//
+//   transition: $result;
+// }

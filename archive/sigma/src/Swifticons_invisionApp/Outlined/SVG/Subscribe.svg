@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Subscribe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Interface" sketch:type="MSLayerGroup" transform="translate(-837.000000, -1915.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Subscribe" transform="translate(840.000000, 1925.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2383" x="0" y="0" width="54" height="40"></rect>
+                <rect id="Rectangle-2403" x="10" y="8" width="34" height="25"></rect>
+                <rect id="Rectangle-2404" x="20" y="25" width="14" height="4"></rect>
+                <rect id="Rectangle-2405" x="14" y="16" width="26" height="5"></rect>
+                <rect id="Rectangle-2415" x="40" y="10" width="2" height="2"></rect>
+            </g>
+        </g>
+        <g id="Interface_sliced" sketch:type="MSLayerGroup" transform="translate(-840.000000, -1920.000000)"></g>
+    </g>
+</svg>

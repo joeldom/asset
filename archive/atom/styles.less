@@ -1,0 +1,440 @@
+/*..
+.:+:-.
+..::*=:..
+....::####:...
+...-=::--*##=-::::=.
+....::##############=.
+........::#@#############@:.
+..:%::=::::-#################%
+....::*#####=##################+
+......:==%#########################.
+:::#:===+##########################-:.
+.....:--%#########################:
+...::*#####-##################+
+.:=::-::::=#################@
+.........:#+#############+:.
+....::############%@+.
+..:-:::-###=:::..:.
+....::###%:...
+...:-=:..
+.:%::.
+*/
+
+// color var another user test
+@brand-primary: #1a3acc;
+@brand-magenta: #ab1acc;
+@brand-purple: purple;
+@brand-java: #1ACCAB;
+@brand-legacy: #008080;
+@brand-gable: #142a2d;
+@brand-gold: #CCAB1A;
+
+
+//Fira Code Optimizatations
+atom-text-editor {
+text-rendering: optimizeLegibility;
+}
+
+//Fira Code Ligatures
+atom-text-editor.editor .syntax--string.syntax--quoted,
+atom-text-editor.editor .syntax--string.syntax--regexp {
+-webkit-font-feature-settings: "liga" off, "calt" off;
+}
+
+// style the background color of the tree view
+.tree-view {
+// background-color: whitesmoke;
+}
+
+// style the background and foreground colors on the atom-text-editor-element itself
+atom-text-editor {
+// color: white;
+// background-color: hsl(180, 24%, 12%);
+background-color: hsl(20, 10%, 10%);
+}
+
+// style UI elements inside atom-text-editor
+atom-text-editor .cursor {
+border-color: red;
+border-width: 3px;
+}
+.bracket-matcher {
+border-top: 1px solid lime !important;
+border-bottom: 1px solid lime !important;
+border-left: none !important;
+border-right: none !important;
+position: absolute;
+border: 1px solid rgba(0, 255, 0, 0.7);
+background-color: rgba(0, 255, 0, 0.3);
+}
+atom-text-editor::shadow .lines .line.cursor-line {
+background-color: rgba(30, 80, 100, 0.125);
+}
+::-webkit-scrollbar {
+width: 18px !important;
+height: 18px !important;
+}
+.scrollbars-visible-always /deep/ ::-webkit-scrollbar {
+width: 40px;
+
+&-track {
+border-radius: 3px;
+//box-shadow: inset 0 0 1px rgba(0, 0, 0, 1);
+}
+
+&-thumb {
+background-color: rgba(0, 0, 0, 0.5);
+//border-radius: 3px;
+//box-shadow: inset 0 0 6px rgba(0, 0, 0, .25);
+
+&:window-inactive {
+background-color: rgba(0, 0, 0, 0.5);
+}
+}
+}
+atom-text-editor.editor .line.folded {
+border-bottom: 1px solid blue;
+//border-color: red;
+animation-name: flash_border;
+animation-duration: 2s;
+animation-timing-function: linear;
+animation-iteration-count: infinite;
+-webkit-animation-name: flash_border;
+-webkit-animation-duration: 2s;
+-webkit-animation-timing-function: linear;
+-webkit-animation-iteration-count: infinite;
+-moz-animation-name: flash_border;
+-moz-animation-duration: 2s;
+-moz-animation-timing-function: linear;
+-moz-animation-iteration-count: infinite;
+}
+
+@keyframes flash_border {
+0% {
+border-bottom: 1px solid blue;
+}
+50% {
+border-bottom: 1px solid #000;
+}
+100% {
+border-bottom: 1px solid blue;
+}
+}
+
+@-webkit-keyframe
+}
+atom-text-editor.editor .line-number.folded {
+border-bottom: 1px solid blue;
+}
+atom-text-editor.editor .fold-marker {
+display: none;
+// display: block;
+// position: absolute;
+// //left: 1em;
+// color: purple !important;
+// background: #999;
+// width: 12px;
+}
+
+.scrollbars-visible-always {
+::-webkit-scrollbar {
+width: 5px;
+height: 5px;
+
+&-track {
+border: 0px;
+border-radius: 0px;
+background-color: rgba(20, 42, 45, 0.25) !important;
+}
+&-thumb {
+background-color: rgba(255,200,200,0.095) !important;
+border: 0px;
+border-radius: 1px;
+
+&:hover{
+//background-color: rgba(255,200,200,0.35) !important;
+background-color: @brand-primary !important;
+background-color: darken(@brand-primary, 20%) !important;
+}
+}
+&-corner {
+background-color: rgba(20, 42, 45, 0.25) !important; //262626
+}
+}
+}
+atom-text-editor .vertical-scrollbar {
+width: 18px !important;  // has to be bigger than webkit-scrollbar
+}
+atom-text-editor .horizontal-scrollbar {
+height: 18px !important;  // has to be bigger than webkit-scrollbar
+}
+.tree-view:focus .selected:before{
+background-color: darken(@brand-primary, 20%) !important;
+}
+.btn-group > .btn.btn:focus{
+border-color: darken(@brand-primary, 20%) !important;
+box-shadow: 0 0 0 1px  darken(@brand-primary, 20%) !important;
+}
+.tab-bar .tab.active[data-type$="Editor"]{
+color: lighten(@brand-magenta, 10%) !important;
+}
+.tooltip {
+@tip-background-color: darken(@brand-primary, 20%) !important;
+@tip-text-color: #fff;
+white-space: nowrap;
+padding: 0 !important;
+
+.keystroke {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 13px;
+color: #777;
+padding-left: 2px;
+}
+
+&.in { opacity: 1; }
+
+.tooltip-inner {
+line-height: 19px;
+border-radius: @component-border-radius;
+background-color: @tip-background-color;
+color: @tip-text-color;
+white-space: nowrap;
+max-width: none;
+padding: 4px 12px 4px 6px !important;
+}
+
+&.top .tooltip-arrow {
+border-top-color: @tip-background-color;
+}
+&.top-left .tooltip-arrow {
+border-top-color: @tip-background-color;
+}
+&.top-right .tooltip-arrow {
+border-top-color: @tip-background-color;
+}
+&.right .tooltip-arrow {
+border-right-color: @tip-background-color;
+}
+&.left .tooltip-arrow {
+border-left-color: @tip-background-color;
+}
+&.bottom .tooltip-arrow {
+border-bottom-color: @tip-background-color;
+}
+&.bottom-left .tooltip-arrow {
+border-bottom-color: @tip-background-color;
+}
+&.bottom-right .tooltip-arrow {
+border-bottom-color: @tip-background-color;
+}
+}
+.title-bar-replacer.control-theme-arc-theme .tbr-title-bar i.tbr-close:before{
+background-color: darken(red, 25%);
+}
+.btn.btn-primary, .settings-view .install-button{
+background-color: darken(@brand-primary, 10%) !important;
+background-image: none !important;
+border-color: transparent !important;
+cursor: pointer !important;
+color: darkgrey;
+}
+.editor.mini.is-focused{
+border-color: darken(@brand-primary, 20%) !important;
+}
+.text-info, .debugger-breakpoint-icon-nonconditional{
+color: lighten(@brand-primary, 10%) !important;
+}
+.tab-bar .tab.modified:not(:hover) .close-icon{
+color: lighten(@brand-primary, 10%) !important;
+}
+.tab-bar .tab .close-icon{
+color: red;
+&:hover{
+background-color: darken(@brand-primary, 0%) !important;
+cursor: pointer !important;
+color: grey;
+}
+}
+// .tab-bar .tab:hover .close-icon{
+//   color: @brand-java;
+// }
+.pane.focus-within.tab.active:before {
+background: darken(@brand-primary, 0%) !important;
+}
+atom-pane-axis > atom-pane.active .tab.active:before, atom-pane-container > atom-pane.pane .tab.active:before{
+background: darken(@brand-primary, 0%) !important;
+}
+.find-and-replace.has-results .find-container .result-counter{
+color: @brand-java;
+}
+// Hide title
+.title-bar .title {
+//  display: none;
+}
+
+// Remove background from titlebar and toolbars
+.title-bar,
+.tool-bar,
+.tool-bar button.tool-bar-btn {
+background-color: transparent;
+border-width: 0;
+}
+
+// Shift the tabs up
+atom-workspace atom-workspace-axis.horizontal {
+// NOTE: comment this out if you want draggable titlebar:
+margin-top: 0px;
+}
+
+// Keep the side panels aligned
+atom-panel-container{
+&.left {
+margin-top: 20px;
+}
+&.right {
+margin-top: 20px;
+}
+}
+
+.fullscreen {
+atom-workspace atom-workspace-axis.horizontal {
+margin-top: 0px;
+}
+atom-panel-container{
+&.left {
+margin-top: 0px;
+}
+&.right {
+margin-top: 0px;
+}
+}
+}
+
+atom-workspace atom-panel-container.left:empty + atom-workspace-axis.vertical .tab-bar {
+margin-left: 70px;
+}
+
+//SYNTAX overrides
+.syntax--support .syntax--type{
+color: red !important;
+}
+.syntax--entity .syntax--name .syntax--tag{
+color: blue !important;
+}
+
+
+//notifications
+// atom-notifications atom-notification.error.icon:before{
+//   background-color: @brand-purple !important;
+// }
+// atom-notifications atom-notification.error .content{
+//   color: @brand-purple;
+//   background-color: @brand-purple;
+// }
+
+.github-StagingView:focus .github-StagingView-group.is-focused .is-selected, .github-RecentCommits:focus .github-RecentCommit.is-selected{
+background: @brand-primary !important;
+}
+
+.github-FilePatchView:focus-within .gutter.old .line-number.github-FilePatchView-line--selected, .github-FilePatchView:focus-within .gutter.new .line-number.github-FilePatchView-line--selected, .github-FilePatchView:focus-within .gutter.icons .line-number.github-FilePatchView-line--selected, .github-FilePatchView:focus-within .gutter[gutter-name="github-comment-icon"] .github-editorCommentGutterIcon.github-FilePatchView-line--selected{
+background: darken(@brand-primary, 15%);
+}
+.settings-view input[type="checkbox"]:active, .settings-view input[type="checkbox"]:checked{
+background: lighten(@brand-primary, 5%);
+}
+atom-text-editor[mini] .selection {
+background-color: yellow;
+opacity: 0.3;
+}
+
+atom-text-editor .selection .region {
+background-color: yellow;
+opacity: 0.125;
+}
+atom-text-editor::shadow .highlight.find-result .region {
+background: yellow;
+}
+atom-text-editor .highlight {
+&.find-result .region,
+&.current-result .region,
+&.current-result ~ .highlight.selection .region {
+z-index: -1;
+border-radius: 0;
+}
+
+&.find-result .region, &.find-result  {
+background: green;
+color: black !important;
+opacity: 0.75;
+border-radius: 0 !important;
+border-color: red;
+border-top-color: transparent;
+border-left-color: transparent;
+border-right-color: transparent;
+}
+
+&.current-result .region,
+&.current-result ~ .highlight.selection .region {
+background: @brand-magenta;
+color: black !important;
+opacity: 0.25;
+}
+}
+
+.github-StagingView-group.is-focused .is-selected{
+background: darken(@brand-magenta, 20%);
+&:hover{
+background: darken(@brand-magenta, 10%);
+}
+}
+
+atom-text-editor .github-ConflictTheirsBlock .btn{
+background:  @brand-primary;
+//color: @brand-magenta;
+}
+atom-text-editor .github-ConflictOursBlock .btn{
+background: @brand-legacy;
+//color: @brand-gable;
+}
+
+.github-CommitView-coAuthorEditor .Select-value{
+border: 1px solid @brand-primary;
+background: @brand-gable;
+}
+.Select--multi .Select-value-icon{
+border-right: @brand-primary;
+&:hover{
+color: red;
+}
+}
+.tree-view:focus .selected .project-root-header.project-root-header{
+background: @brand-legacy !important;
+background: darken(@brand-primary, 15%) !important;
+
+animation: colorChange 10s infinite !important;
+-webkit-animation: colorChange 10s infinite !important; /* Chrome and Safari */
+}
+.tree-view .project-root.project-root.selected .project-root-header{
+animation: colorChange 10s infinite !important;
+-webkit-animation: colorChange 10s infinite !important; /* Chrome and Safari */
+}
+// smoothing out the tranistion between the colors
+@keyframes colorChange{
+0%          {background: darken(@brand-primary, 15%);}
+16.666667%  {background: darken(@brand-primary, 35%);}
+33.333333%  {background: darken(@brand-magenta, 35%);}
+50%         {background: darken(@brand-magenta, 25%);}
+//66%         {background: darken(@brand-magenta, 15%);}
+//83%         {background: darken(@brand-magenta, 25%);}
+100%        {background: darken(@brand-primary, 15%);}
+}
+
+@-webkit-keyframes colorChange {
+0%          {background: darken(@brand-primary, 15%);}
+16.666667%  {background: darken(@brand-primary, 35%);}
+33.333333%  {background: darken(@brand-magenta, 35%);}
+50%         {background: darken(@brand-magenta, 25%);}
+//66%         {background: darken(@brand-magenta, 15%);}
+//83%         {background: darken(@brand-magenta, 25%);}
+100%        {background: darken(@brand-primary, 15%);}
+}
