@@ -10,11 +10,7 @@ A metaphysical journey through an alternate dream-realm conjured by shared imagi
 ## Index
 
 1. [Theme](#theme)
-   1. one
-   2. two
 2. [Setting](#the-setting)
-   1. one
-   2. two
 3. [Rules](#rules-of-the-game)
 4. [Refferences](#reference-index)
 5. [Climax & Resolution](#the-climax--resolution)
@@ -72,7 +68,8 @@ The obsidian desert becomes a stage for this cosmic drama. The fading light of t
 - [The Stand / The Dark Tower](#chapter-8): Epic-scale confrontation between existential forces.
 - [LOST](#chapter-6): Character backstories as moral testing grounds.
 - [Max Derrat - The Shining](https://youtu.be/0CZujrrwZPE) - How a Red Book Could Explain Everything
-
+- [Stanley Kubrick - The Shining](https://www.youtube.com/watch?v=0CZujrrwZPE) - Jack is absorbed into the photograph ending
+  
 ---
 
 ### Ch.1 Rewrite
