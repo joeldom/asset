@@ -199,6 +199,8 @@ A perceptive soul caught between logic and longing. Skilled at pattern recogniti
 
 An empathic wanderer. Sees beauty in chaos and believes dreams carry hidden truths. Representing the "Bad," Satiya is drawn to the power of the Lovecraftian horrors and seeks to harness their energy to reshape reality according to her desires.
 
+Kali **(research)**
+
 ## Silas
 
 The Scholar of Shadows: Silas embodies the enigmatic and contemplative side of this cosmic struggle. He has spent centuries observing and delving into the mysteries of existence. He prefers the subtlety of philosophical persuasion, weaving intricate riddles and guiding conversations that challenge perspectives. Silas believes that true growth comes from self-discovery and understanding, and he views art and introspection as potent tools for change.
