@@ -293,4 +293,4 @@ Silas and Liora's rivalry spans eons, a cosmic dance of influence and control. T
 
 ---
 
-Copyright © Joel Dombek 2025 v1.1
+Copyright © Joel Dombek 2026 v1.2
