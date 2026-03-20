@@ -7,6 +7,23 @@ A metaphysical journey through an alternate dream-realm conjured by shared imagi
 
 ---
 
+## Index
+
+1. [Theme](#theme)
+   1. one
+   2. two
+2. [Setting](#the-setting)
+   1. one
+   2. two
+3. [Rules](#rules-of-the-game)
+4. [Refferences](#reference-index)
+5. [Climax & Resolution](#the-climax--resolution)
+6. [Character Profiles](#character-profiles)
+7. [Relationships](#relationships)
+8. [Puzzles](#puzzles)
+9. [Poems](#poems)
+10. [Notes](#author-notes)
+
 ## Chapter Index
 
 1. [Kindred Minds in Ink](#chapter-1)
@@ -17,6 +34,14 @@ A metaphysical journey through an alternate dream-realm conjured by shared imagi
 6. [Silas' Conversation III: The Omelas Gambit](#chapter-6)
 7. [Silas' Conversation IV: The Dreamer's Dilemma](#chapter-7)
 8. [Silas' Conversation V: Ouroboros Unveiled](#chapter-8)
+
+---
+
+## Theme
+
+Carl Jung and the unconscious mind and the idea of a place between the wake and sleep. **Joel** and **Satya** after they meet at the bookstore and flirt talk hangout and just at the cusp of their relationship becoming great and familiar **Satya** shares more of her writing that is unpublished and **Joel** reads it. It affects him deeply and later that night as things appear normal and after they both go to sleep they are visited by **Silas**. **Silas** is kept vague but feels like a demon but is more like a Virgil from `Paradise Lost` + `Temptation Lost` that through their connection from connecting their waking minds and sharing a waking dream and then sleeping and dreaming of the same place they create it. The reader doesn't know the settings of the dreams before they are explored and that they are scenes from **Satya's** book but as they begin to understand the ordeal she begins to recognize the settings. **Joel** helps foster the recurring nightmares with paintings of not the scenes but the emotions as the words escape him. It is with her words **Satya** creates but destroys the fantasy of which hides in the unknown.
+
+> [Max Derrat - The Shining - How a Red Book Could Explain Everything](https://youtu.be/0CZujrrwZPE)
 
 ---
 
@@ -53,13 +78,6 @@ The obsidian desert becomes a stage for this cosmic drama. The fading light of t
 ### Ch.1 Rewrite
 
 Chapter 1 (rewrite) to set up the characters separately. Joel will be living his life with certain thoughts on his current life used to contrast his change throughout the story. He will then find a flyer for a book signing and with a curious nature he decides that perhaps reading the authors work prior to going to the signing. He then skims through some of the authors stories of medieval drama and magic and in the 2 weeks prior to the book signing he reads 2 of the authors books. Joel is fascinated by their historical depth of lore and how they focus on the stories of the characters and how the happenings of the world all seem to be in the background but so interesting he has so many questions about the world and less of the characters.
-
-### Theme
-
-Carl Jung and the unconscious mind and the idea of a place between the wake and sleep. **Joel** and **Satya** after they meet at the bookstore and flirt talk hangout and just at the cusp of their relationship becoming great and familiar **Satya** shares more of her writing that is unpublished and **Joel** reads it. It affects him deeply and later that night as things appear normal and after they both go to sleep they are visited by **Silas**. **Silas** is kept vague but feels like a demon but is more like a Virgil from `Paradise Lost` + `Temptation Lost` that through their connection from connecting their waking minds and sharing a waking dream and then sleeping and dreaming of the same place they create it. The reader doesn't know the settings of the dreams before they are explored and that they are scenes from **Satya's** book but as they begin to understand the ordeal she begins to recognize the settings. **Joel** helps foster the recurring nightmares with paintings of not the scenes but the emotions as the words escape him. It is with her words **Satya** creates but destroys the fantasy of which hides in the unknown.
-
-> [Max Derrat - The Shining - How a Red Book Could Explain Everything](https://youtu.be/0CZujrrwZPE)
-
 
 ---
 
@@ -271,6 +289,7 @@ Silas and Liora's rivalry spans eons, a cosmic dance of influence and control. T
 
 - **Version 1.0** - Original structure output
 - **Version 1.1** - Corrected chapters, added rules, reference order, version tracking.
+- **Version 1.2** - Index & Theme
 
 ---
 
