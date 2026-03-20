@@ -46,6 +46,7 @@ The obsidian desert becomes a stage for this cosmic drama. The fading light of t
 - [House of Leaves](#chapter-5): Unknowable spaces, metafiction.
 - [The Stand / The Dark Tower](#chapter-8): Epic-scale confrontation between existential forces.
 - [LOST](#chapter-6): Character backstories as moral testing grounds.
+- [Max Derrat - The Shining](https://youtu.be/0CZujrrwZPE) - How a Red Book Could Explain Everything
 
 ---
 
@@ -55,7 +56,10 @@ Chapter 1 (rewrite) to set up the characters separately. Joel will be living his
 
 ### Theme
 
-Carl Jung and the unconscious mind and the idea of a place between the wake and sleep. Joel and Satya after they meet at the bookstore and flirt talk hangout and just at the cusp of their relationship becoming great and familiar Satya shares more of her writing that is unpublished and Joel reads it. It affects him deeply and later that night as things appear normal and after they both go to sleep they are visited by Silas. Silas is kept vague but feels like a demon but is more like a Virgil from `Paradise Lost` + `Temptation Lost` that through their connection from connecting their waking minds and sharing a waking dream and then sleeping and dreaming of the same place they create it. 
+Carl Jung and the unconscious mind and the idea of a place between the wake and sleep. **Joel** and **Satya** after they meet at the bookstore and flirt talk hangout and just at the cusp of their relationship becoming great and familiar **Satya** shares more of her writing that is unpublished and **Joel** reads it. It affects him deeply and later that night as things appear normal and after they both go to sleep they are visited by **Silas**. **Silas** is kept vague but feels like a demon but is more like a Virgil from `Paradise Lost` + `Temptation Lost` that through their connection from connecting their waking minds and sharing a waking dream and then sleeping and dreaming of the same place they create it. The reader doesn't know the settings of the dreams before they are explored and that they are scenes from **Satya's** book but as they begin to understand the ordeal she begins to recognize the settings. **Joel** helps foster the recurring nightmares with paintings of not the scenes but the emotions as the words escape him. It is with her words **Satya** creates but destroys the fantasy of which hides in the unknown.
+
+> [Max Derrat - The Shining - How a Red Book Could Explain Everything](https://youtu.be/0CZujrrwZPE)
+
 
 ---
 
