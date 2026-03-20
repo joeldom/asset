@@ -49,7 +49,13 @@ The obsidian desert becomes a stage for this cosmic drama. The fading light of t
 
 ---
 
-Chapter 1 (rewrite) to set up the characters seperatly. Joel will be living his life with certain thoughts on his current life used to contrast his change throughout the story. He will then find a flyer for a book signing and with a curious nature he decides that perhaps reading the authors work prior to going to the signing. He then skims through some of the authors stories of medevil drama and magic and in the 2 weeks prior to the book signing he reads 2 of the authors books. Joel is facinated by their historical depth of lore and how they focus on the stories of the characters and how the happenings of the world all seem to be in the bacckground but so interesting he has so many questions about the world and less of the characters. 
+### Ch.1 Rewrite
+
+Chapter 1 (rewrite) to set up the characters separately. Joel will be living his life with certain thoughts on his current life used to contrast his change throughout the story. He will then find a flyer for a book signing and with a curious nature he decides that perhaps reading the authors work prior to going to the signing. He then skims through some of the authors stories of medieval drama and magic and in the 2 weeks prior to the book signing he reads 2 of the authors books. Joel is fascinated by their historical depth of lore and how they focus on the stories of the characters and how the happenings of the world all seem to be in the background but so interesting he has so many questions about the world and less of the characters.
+
+### Theme
+
+Carl Jung and the unconscious mind and the idea of a place between the wake and sleep. Joel and Satya after they meet at the bookstore and flirt talk hangout and just at the cusp of their relationship becoming great and familiar Satya shares more of her writing that is unpublished and Joel reads it. It affects him deeply and later that night as things appear normal and after they both go to sleep they are visited by Silas. Silas is kept vague but feels like a demon but is more like a Virgil from `Paradise Lost` + `Temptation Lost` that through their connection from connecting their waking minds and sharing a waking dream and then sleeping and dreaming of the same place they create it. 
 
 ---
 
