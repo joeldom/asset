@@ -49,6 +49,10 @@ The obsidian desert becomes a stage for this cosmic drama. The fading light of t
 
 ---
 
+Chapter 1 (rewrite) to set up the characters seperatly. Joel will be living his life with certain thoughts on his current life used to contrast his change throughout the story. He will then find a flyer for a book signing and with a curious nature he decides that perhaps reading the authors work prior to going to the signing. He then skims through some of the authors stories of medevil drama and magic and in the 2 weeks prior to the book signing he reads 2 of the authors books. Joel is facinated by their historical depth of lore and how they focus on the stories of the characters and how the happenings of the world all seem to be in the bacckground but so interesting he has so many questions about the world and less of the characters. 
+
+---
+
 # Chapter 1: Kindred Minds in Ink
 
 (Complete detailed scene of Joel and Satiya meeting in the bookstore.)
