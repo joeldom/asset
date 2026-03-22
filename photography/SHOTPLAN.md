@@ -12,6 +12,10 @@ Model and personality visual journey. Showing them caught up or in a moment of p
 
 ## Aesthetic:
 
+## Specs:
+
+### Settings:
+
 ### Notes
 
 ### Refs
