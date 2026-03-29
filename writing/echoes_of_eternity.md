@@ -81,3 +81,5 @@ A Minotaur-shaped creature born of repressed memories, broken ideals, and commun
 ## Author's Notes
 
 Future edits should involve filling in character arcs, defining specific choices made in riddles, and possibly expanding the Eidolon’s metaphysical significance.
+
+FFXV - Noctis & Luna. Night Sky Prince. World of Darkness. https://youtu.be/bGKS0q7wl08 [] Etro Godess of Sleep/Dreams/Death. Love after Death. Love & Death. Episodes. Locked in a Cystal. Partner explores and learns outside of the Crystal. Cacoon like death and rebirth. Coma. Recurring Dream. Waking Nightmare. 
