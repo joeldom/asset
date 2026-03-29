@@ -291,6 +291,9 @@ Joel meets Satya. They connect in an improbable way. Satya book signing, Pharmac
 Dream or dreamlike meeting in the woods that is imperceptible between  real and imagination.
 
 
+Mirror world. Char tries to look at themselves when they find a mirror and it cracks in the places they try to see their face. This tells the they are in the mirror world.
+
+
 
 # Author Notes
 
