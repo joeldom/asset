@@ -286,9 +286,11 @@ Silas and Liora's rivalry spans eons, a cosmic dance of influence and control. T
 
 # Musings
 
-Joel meets Satya. They connect in an improbable way. Satya book signing, Pharmacy visit, Roadside. Satya Book of Death/Destruction imagines a world the collapses in on itself and intern bring about it.
+Joel meets Satya. They connect in an improbable way. Satya book signing, Pharmacy visit, Roadside. Satya Book of Death/Destruction imagines a world the collapses in on itself and intern bring about it. It is after exploring a few of these dreams to they find an entity residing inside that aims to test them and show them how they are fracturing realities and through their choices are creating alterations or imprinting these paths on to an internal universe that is to be magnified and projected out into the stars.
 
 Dream or dreamlike meeting in the woods that is imperceptible between  real and imagination.
+
+
 
 # Author Notes
 
