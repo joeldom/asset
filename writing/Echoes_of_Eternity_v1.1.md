@@ -284,11 +284,24 @@ Silas and Liora's rivalry spans eons, a cosmic dance of influence and control. T
 
 ---
 
+# Musings
+
+Joel meets Satya. They connect in an improbable way. Satya book signing, Pharmacy visit, Roadside. Satya Book of Death/Destruction imagines a world the collapses in on itself and intern bring about it.
+
+Dream or dreamlike meeting in the woods that is imperceptible between  real and imagination.
+
 # Author Notes
 
-- **Version 1.0** - Original structure output
-- **Version 1.1** - Corrected chapters, added rules, reference order, version tracking.
+FFXV - Noctis & Luna. Night Sky Prince. World of Darkness. https://youtu.be/bGKS0q7wl08 [] Etro Godess of Sleep/Dreams/Death. Love after Death. Love & Death. Episodes. Locked in a Cystal. Partner explores and learns outside of the Crystal. Cacoon like death and rebirth. Coma. Recurring Dream. Waking Nightmare. 
+
+
+# Versions 
+
+- **Version 1.3** - Theme, Arc, tone
 - **Version 1.2** - Index & Theme
+- - **Version 1.1** - Corrected chapters, added rules, reference order, version tracking.
+- **Version 1.0** - Original structure output
+
 
 ---
 
