@@ -513,6 +513,18 @@
         "Studi di Caso",
         "사례 연구"
     ],
+    "TopPageCountStrings": [
+        "4"
+    ],
+    "AllPageCountStrings": [
+        "%"
+    ],
+    "ProjectCountStrings": [
+        "8"
+    ],
+    "TemplateCountStrings": [
+        "7"
+    ],
     "storedPassword": [
         "COMPANY_NAME",
         "Joel Dombek",
