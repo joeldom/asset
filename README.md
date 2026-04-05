@@ -1,3 +1,7 @@
+<a href="http://joeldom.github.io/redesign/sandbox/" target="_blank">
+  <img class="aligncenter" alt="Joel Dombek Design 2022" src="https://raw.githubusercontent.com/joeldom/asset/main/twitter-header.png" width="847" height="120" />
+</a>
+
 # Asset v2
 The Asset repository is designed for quick access, functioning as a CDN. Enables swift sharing of project assets, design work samples, data objects, and SASS brand variable colors with efficiency.
 
