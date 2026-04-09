@@ -8,6 +8,7 @@
 > Maintained by Joel and any assigned agent.
 > Items get migrated into `HUMANS.md`, `AGENTS.md`, or `CLAUDE.md` during review sessions.
 > When in doubt, add it here.
+> Adhere to content formatting patterns or propose content changes. It is a living document.
 
 ---
 
@@ -432,3 +433,36 @@
   - Agent setup steps → `humans.md`
   - XL task protocol → `agents.md` + `CLAUDE.md` + `humans.md`
 - [ ] Add a header to `todo.md` explaining its role as the inbox and the four-file system
+
+---
+
+## 📋 Changelog
+
+> Last 20 versions of this file. Updated every time TODO.md is read and modified.
+> Format: `vX.X — [date] — 1-2 sentence summary of what changed.`
+> Maintained by Joel and any agent. Most recent at the top.
+> Add entry and remove last. Do not rewrite spiking token usage.
+> **Callout** impactful changes once we branch out into wider file changes and their creation.
+
+---
+
+- **v0.20 — 2026-04-08** — Added changelog section to track file history and provide project memory across sessions and agents.
+- **v0.19 — 2026-04-08** — Clarified four-file system (`TODO.md`, `HUMANS.md`, `AGENTS.md`, `CLAUDE.md`); added migration checklist mapping every section to its target file.
+- **v0.18 — 2026-04-08** — Added XL task two-step protocol: questions first, then plan, then Joel approval before any code is touched.
+- **v0.17 — 2026-04-08** — Added task sizing system (S / M / L / XL) with definitions, examples, and agent sizing protocol including mid-task escalation rules.
+- **v0.16 — 2026-04-08** — Added agent communication and flagging system: Discord webhook for pings, GitHub issue threads for Q&A, bundling logic, and files to create (`humans.md`, update `CLAUDE.md`).
+- **v0.15 — 2026-04-08** — Added Joel vs Agent touch point responsibility matrix covering accounts setup, day-to-day dev, build pipeline, deployments, and social posting.
+- **v0.14 — 2026-04-08** — Added agent self-diagnostic block intended for `CLAUDE.md`: checks API key, GitHub App access, branch access, and `CLAUDE.md` presence on every session start.
+- **v0.13 — 2026-04-08** — Added agent integration research section with two paths: local Claude Code CLI setup and cloud via GitHub Issues and Actions, including step-by-step one-time setup.
+- **v0.12 — 2026-04-08** — Added two GitHub Actions workflow files plan (`user-build.yml` / `agent-build.yml`) with branch conventions and `[agent]` commit message fallback.
+- **v0.11 — 2026-04-08** — Defined two build paths: user build (Gulp watch local, GitHub Action as safety net) and agent build (source only, Action handles minification).
+- **v0.10 — 2026-04-08** — Added build and asset pipeline section: Gulp + npm scripts for CSS/JS minification with watch mode and manual force-regenerate trigger.
+- **v0.09 — 2026-04-08** — Added ongoing agent file maintenance section; clarified `CLAUDE.md` as a living document updated after every post, completed task, and terminology change.
+- **v0.08 — 2026-04-08** — Added agent memory scaffold: `CLAUDE.md` as universal agent project file with post log schema (date, platform, type, caption, URL).
+- **v0.07 — 2026-04-08** — Added social preview system: repeatable pipeline for pages/projects/posts, OG image spec (1200×630px), Twitter/X and Discord credential requirements.
+- **v0.06 — 2026-04-08** — Added mobile nav hover color bug, hamburger animation to-do, and footer SVG chevron color-cycling fix to Fixes section.
+- **v0.05 — 2026-04-08** — Added footer third-party icon rendering bug: suspected FA5/FA6 library version mismatch on CDN source.
+- **v0.04 — 2026-04-08** — Added Improvements section; added mega menu nav unification item (single source of truth template).
+- **v0.03 — 2026-04-08** — Added Tile Splash viewer Sets support: cover image display-only, gallery scroll view, multiple Sets per Tile Splash.
+- **v0.02 — 2026-04-08** — Added Photography section: Tile Splash 9×9 grid, scrollable white key album cards, 9×9 photo galleries per album.
+- **v0.01 — 2026-04-08** — Initial file created. Added Fixes section with social icons footer bug. Project inbox established.
