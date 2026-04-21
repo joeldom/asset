@@ -7,6 +7,32 @@ A metaphysical journey through an alternate dream-realm conjured by shared imagi
 
 ---
 
+## Future State
+
+- Nocturne
+- Requiem
+- Aria
+- Sonnet
+
+## Character Index
+
+- [Joel](#joel)
+- [Satiya](#satiya)
+- [Silas](#silas)
+- [Liora](#liora)
+- [The Eidolon](#the-eidolon)
+
+## Reference Index
+
+- Themes of Carl Jung (Chapter 4)
+- Friedrich Nietzsche (Chapter 7)
+- David Lynch (Chapter 2)
+- House of Leaves (Chapter 5)
+- The Stand / The Dark Tower (Chapter 8)
+- LOST (Chapter 6)
+- Shin Megami Tensei
+- Mullholand Drive
+
 ## Index
 
 1. [Theme](#theme)
@@ -22,6 +48,7 @@ A metaphysical journey through an alternate dream-realm conjured by shared imagi
 
 ## Chapter Index
 
+0. [The Big Come Down](#chapter-0)
 1. [Kindred Minds in Ink](#chapter-1)
 2. [Lucid Entrances](#chapter-2)
 3. [The Black Forest of the Unformed (The Riddle of Paths)](#chapter-3)
@@ -39,11 +66,44 @@ Carl Jung and the unconscious mind and the idea of a place between the wake and 
 
 > [Max Derrat - The Shining - How a Red Book Could Explain Everything](https://youtu.be/0CZujrrwZPE)
 
+MCs meet and form a relationship and between them causes them to be able to see beyond "The Veil" and an entity calling itself Silas appears in their dreams and is playful and attempts to subtly interact with the MCs. Silas begins to get more brash. Silas attempts to touch either character to invoke themself into them and escape out into the world. 
+
+---
+## The Magic
+
+The magic of the world is one of subtlety and influence. Visualization of spells cause huge fractal distortions in the vision and perception. 
+
+The effects or powers of the keepers vary from influence to sleep, dreams, lies, fairness, luck, 
+
 ---
 
 ## The Setting
 
+#### Apartment Waking Dream
+
+Apartment late at night bedside table lamp casting a feint glow. Awakening out in the living room or in a chair in office feeling disoriented the light in the dim room casts long shadows. The room is open with a TV and several book shelves holding books, games, cds, and magic the gathering cards. Behind the couch along the far wall opposite the TV is an aquarium that has 2 fish in it. 
+
+#### Dreamscape 01
+
 The obsidian desert becomes a stage for this cosmic drama. The fading light of the day bathes the landscape in eerie shadows, and the wind carries a sense of anticipation. The boundaries between reality and imagination blur, reflecting the complexity of the characters' roles in shaping the fate of the universe.
+
+#### Dreamscape 02
+
+Backyard on a hill. Houses around on 3 sides. Along a steep bank of hill undercutting the road is a shed. A shed that has a hole in it's floor. Under the floor is a hole. A hole small enough for a large rabbit or cat to climb in. Similar to Pan's Labyrinth goes down into an underground network of tunnels. The tunnels start as if carved out of the one giant rock of the hillside. Beneath the floor is mud and dirt and plant matter and vines that have grown to cover all but the smallest of hand sized openings into the rock. Behind the vines and into the hole the network of pathways starts simple but begins to quickly branch out and off deeper and further down. The farther down the colder and more damp it gets while also being dry while going down you slowly begin to hear a rumble or groan.
+
+The Shed is what might connect Satya and Joel both in the dream and in the waking world as it is an anchor of a location they both find separately but leave clues. And with each clue they leave they think they are leaving them and getting more info from the dream for themselves they begin to realize they are communicating with someone else down here.
+
+#### Bookstore
+
+8 o'clock sun set Barnes & Noble or local seller.
+
+#### Restaurant Kitchen
+
+9 o'clock dinner service. Restaurant kitchen prep room. 
+
+#### Delivery Van
+
+Lost on back roads mid drive. You exit the vehicle to look around and can't recall where you are or where you are headed. Lit solely by the headlights the forest is dark and claustrophobic.
 
 ---
 
@@ -202,9 +262,23 @@ Kali **(research)**
 
 The Scholar of Shadows: Silas embodies the enigmatic and contemplative side of this cosmic struggle. He has spent centuries observing and delving into the mysteries of existence. He prefers the subtlety of philosophical persuasion, weaving intricate riddles and guiding conversations that challenge perspectives. Silas believes that true growth comes from self-discovery and understanding, and he views art and introspection as potent tools for change.
 
+Silas is considered in the Pantheon as the "Lord of Lies" or "Lord of Illusions". Silas controls "The Veil" a barrier between reality on unreality. 
+
+### Silas' Look
+
+Silas appears as a long and broad shadow with bright deep yellow into dark red eyes sat atop a formless head. Hard to tell if Silas has arms or is just "holding himself" in a death pose.
+
+---
+
 ## Liora
 
-Weaver of Illusions. Seeks beauty through chaos, opposing Silas' nihilism. Liora uses her mastery of emotions and stories to manipulate the characters, weaving a web of influence that blurs the line between reality and fiction.
+Weaver of Dreams. Seeks beauty through chaos, opposing Silas' nihilism. Liora uses her mastery of emotions and stories to manipulate the characters, weaving a web of influence that blurs the line between reality and fiction.
+
+We find Liora after meeting Silas and it is unclear how Silas is appearing in dreams that Liora would be making but it is assumed that Liora is showing the characters their potential in dreams and this catches the attention of Silas who sees this as a doorway into reality.
+
+It is to be believed that the combined powers of Silas and Liora created the dreams people have but it was the temptation from Liora that Silas made a deal to allow the weakening of the lies of the dreams and caused what the characters to imagine and decide or will into existence to disrupt the continuum.
+
+---
 
 ## The Eidolon
 
@@ -225,6 +299,12 @@ The agent of chaos, Lila disrupts balance through manipulation, sowing uncertain
 **The Unwitting Pawns:** In this intricate game, Joel and Satiya become pawns manipulated by Silas and Liora. The two entities influence their lives, guiding them through puzzles, quotes, and emotional experiences. Silas strives to foster intellectual growth and introspection in the couple, while Liora seeks to evoke intense emotions and connections through artistic expression.
 
 **Intimate Moments and Artistic Connections:** As Joel and Satiya journey through the alternate universe, they share moments of vulnerability and intimacy that blur the lines between reality and manipulation. These moments often involve art, philosophy, and deep emotional exchanges, all of which are influenced by Silas and Liora's opposing approaches. The couple's emotional and philosophical connections ultimately determine the direction of their journey.
+
+---
+
+## The World
+
+The world once allowed to have two improbabilities realized through imagination and likeness of thought to create a bridge to the outer pantheon. The Entities housed here are embodiment of concepts that run reality and the dimensions beyond. 
 
 ---
 
@@ -293,7 +373,9 @@ Dream or dreamlike meeting in the woods that is imperceptible between  real and 
 
 Mirror world. Char tries to look at themselves when they find a mirror and it cracks in the places they try to see their face. This tells the they are in the mirror world.
 
+#### Ending Trick
 
+It is mentioned in the opening of the book establishing the setting that Joel has a fish tank that has to fish in it. This will be used to trap Silas towards the end. Satya will be a host to the entity/demon and then touch the fish in the aquarium passing the essence of Silas into them. Joel has his mind wiped and is lost out in the world after being a host also where Silas, frustrated with the trouble Joel is causing and reluctance to help him find a way out into the world curses Joel with amnesia. Satya left to resolve how to trap Silas figures out that if she can lure him into her just for a second she can put Silas into the fish.
 
 # Author Notes
 

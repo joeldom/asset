@@ -5,6 +5,8 @@
 
 A metaphysical journey through an alternate dream-realm conjured by shared imagination and subconscious fears, *Echoes of Eternity* explores cosmic horror, human connection, and existential philosophy through the lens of psychological storytelling. Combining the thematic influences of David Lynch, Carl Jung, Friedrich Nietzsche, Stephen King's *The Stand*, Mark Z. Danielewski's *House of Leaves*, and series like *LOST* and *The Dark Tower*, the narrative spins a web of mystery and introspection.
 
+---
+
 ## Character Index
 
 - [Joel](#joel)
