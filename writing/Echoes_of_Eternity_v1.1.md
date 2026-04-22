@@ -1,26 +1,34 @@
 
-# Echoes of Eternity: The Cosmic Convergence
+# Echoes of Eternity: The Cosmic Convergence (Echoes From Beyond)
 
 ## Preamble
 
 A metaphysical journey through an alternate dream-realm conjured by shared imagination and subconscious fears, *Echoes of Eternity* explores cosmic horror, human connection, and existential philosophy through the lens of psychological storytelling. Combining the thematic influences of David Lynch, Carl Jung, Friedrich Nietzsche, Stephen King's *The Stand*, Mark Z. Danielewski's *House of Leaves*, and series like *LOST* and *The Dark Tower*, the narrative spins a web of mystery and introspection.
 
+## Summary
+
+**Joel** & **Satya** explore a shared dream fissure to a reality of the neo-patheon of entities [Echoes From Beyond](https://github.com/joeldom/asset/blob/main/writing/echoes_of_eternity.md) Night to night the pair dreams of a shed in a familiar backyard as they begin to gather the courage to go inside they are perplexed to find nothing but a hole inside. The entrance is clogged with vines and leaves and mud that follow roots like pipes into an underground labyrinth. After visiting it and getting lost but never having a memory of how they get out, and when they get out of the tunnel it's as though the dark paths swallowed their memories. 
+
+After the second time in the tunnels they come across a red cloth and once outside of the tangle decide to tie it to their wrists. Waking from a deep slumber and the feeling of the senses becoming aware of the waking world again and finding where it is they are residing they are still gripping with the last residual remnants of the dream of a memory faintly recall a red strap of cloth tied to their wrist.
+
+Trying to force themselves to recall its significance becomes impossible so they decide to try to find something to fashion a red bracelet from and find a thin strap of red nylon. The pair begin an awakening relationship of connection. As light is followed by shadow the two share dreams and are able to see into people who will soon meet an end. It is in these puzzling visions they meet Silas who is seen watching and assessing the two with conversation and gestures. 
+
+It is these visions thats brings them together but also sends them apart for a time, where they begin to meet in a yard at night inside a dream formed of a memory. It is through their shared past improbable free-will that allows them to see inside of time as a flat circle where the present and past exist as layers or just counter points on the disc of reality. Fluctuating, oscillating, rotating and gyrating, swirling collapsing and singing into a small fleck of light glints off of a tiny but outwards folding crumbling gold leaf opening like a lotus falling open with a burst of vibrant color matter colliding with antimatter. Two sides flipping, calling it in the air and exploding or collapsing drawing in and phasing out. 
+
+With their bracelets and carving on a tree only they would remember they get the deep sense of someone out there reaching out to them. It is one fatful day that they both go to the same supermarket but one is not wearing the bracelet that Joel sees Satya and how she comments on his bracelet she tells him of a story. A story that has what she believes is the dream where she found a bracelet and asks if he would come to her book signing before she is pulled away to address another customer at the pharmacy. It is at the signing which ends up being just a few coworkers and friends of hers showing up that Joel and her finally get to talk.
+
+ Satya begins to describe her story in her book and with awe and wonder Joel is deeply confounded and confused how her fiction lines up directly with his past and a very select memory from that past.
+
 ---
 
-## Future State
-
-- Nocturne
-- Requiem
-- Aria
-- Sonnet
 
 ## Character Index
 
-- [Joel](#joel)
-- [Satiya](#satiya)
-- [Silas](#silas)
-- [Liora](#liora)
-- [The Eidolon](#the-eidolon)
+- [Joel - MC](#joel)
+- [Satiya - MC](#satiya)
+- [Silas - Gaurdian/Eidolon](#silas)
+- [Liora - Gaurdian/Eidolon](#liora)
+- [The Minotaur Eidolon - Lesser/Eidolon](#the-eidolon)
 
 ## Reference Index
 
@@ -32,6 +40,7 @@ A metaphysical journey through an alternate dream-realm conjured by shared imagi
 - LOST (Chapter 6)
 - Shin Megami Tensei
 - Mullholand Drive
+- The Biblical Horrors We Ignore - [YouTube](https://youtu.be/Ntyy06Qd2VM)
 
 ## Index
 
@@ -60,20 +69,29 @@ A metaphysical journey through an alternate dream-realm conjured by shared imagi
 
 ---
 
+## Future State
+
+- Nocturne
+- Requiem
+- Aria
+- Sonnet
+
 ## Theme
 
 Carl Jung and the unconscious mind and the idea of a place between the wake and sleep. **Joel** and **Satya** after they meet at the bookstore and flirt talk hangout and just at the cusp of their relationship becoming great and familiar **Satya** shares more of her writing that is unpublished and **Joel** reads it. It affects him deeply and later that night as things appear normal and after they both go to sleep they are visited by **Silas**. **Silas** is kept vague but feels like a demon but is more like a Virgil from `Paradise Lost` + `Temptation Lost` that through their connection from connecting their waking minds and sharing a waking dream and then sleeping and dreaming of the same place they create it. The reader doesn't know the settings of the dreams before they are explored and that they are scenes from **Satya's** book but as they begin to understand the ordeal she begins to recognize the settings. **Joel** helps foster the recurring nightmares with paintings of not the scenes but the emotions as the words escape him. It is with her words **Satya** creates but destroys the fantasy of which hides in the unknown.
 
 > [Max Derrat - The Shining - How a Red Book Could Explain Everything](https://youtu.be/0CZujrrwZPE)
 
-MCs meet and form a relationship and between them causes them to be able to see beyond "The Veil" and an entity calling itself Silas appears in their dreams and is playful and attempts to subtly interact with the MCs. Silas begins to get more brash. Silas attempts to touch either character to invoke themself into them and escape out into the world. 
+MCs meet and form a relationship and between them causes them to be able to see beyond "The Veil" and an entity calling itself Silas appears in their dreams and is playful and attempts to subtly interact with the MCs. Silas begins to get more brash. Silas attempts to touch either character to invoke themself into them and escape out into the world.
+
+> [The Shin Megami Tensei Experience - Marsh](https://www.youtube.com/watch?v=PrZT68yI81o)
 
 ---
 ## The Magic
 
 The magic of the world is one of subtlety and influence. Visualization of spells cause huge fractal distortions in the vision and perception. 
 
-The effects or powers of the keepers vary from influence to sleep, dreams, lies, fairness, luck, 
+The effects or powers of the keepers vary from influence to sleep, dreams, lies, fairness, luck ...
 
 ---
 
@@ -81,29 +99,66 @@ The effects or powers of the keepers vary from influence to sleep, dreams, lies,
 
 #### Apartment Waking Dream
 
-Apartment late at night bedside table lamp casting a feint glow. Awakening out in the living room or in a chair in office feeling disoriented the light in the dim room casts long shadows. The room is open with a TV and several book shelves holding books, games, cds, and magic the gathering cards. Behind the couch along the far wall opposite the TV is an aquarium that has 2 fish in it. 
+Apartment late at night bedside table lamp casting a feint glow. Awakening out in the living room or in a chair in office feeling disoriented the light in the dim room casts long shadows. The room is open with a TV and several book shelves holding books, games, cds, and magic the gathering cards. Behind the couch along the far wall opposite the TV is an aquarium that has 2 fish in it.
+
+---
 
 #### Dreamscape 01
 
 The obsidian desert becomes a stage for this cosmic drama. The fading light of the day bathes the landscape in eerie shadows, and the wind carries a sense of anticipation. The boundaries between reality and imagination blur, reflecting the complexity of the characters' roles in shaping the fate of the universe.
 
-#### Dreamscape 02
+---
+
+#### Dreamscape 02 - Hidden Path of the Fae
 
 Backyard on a hill. Houses around on 3 sides. Along a steep bank of hill undercutting the road is a shed. A shed that has a hole in it's floor. Under the floor is a hole. A hole small enough for a large rabbit or cat to climb in. Similar to Pan's Labyrinth goes down into an underground network of tunnels. The tunnels start as if carved out of the one giant rock of the hillside. Beneath the floor is mud and dirt and plant matter and vines that have grown to cover all but the smallest of hand sized openings into the rock. Behind the vines and into the hole the network of pathways starts simple but begins to quickly branch out and off deeper and further down. The farther down the colder and more damp it gets while also being dry while going down you slowly begin to hear a rumble or groan.
 
 The Shed is what might connect Satya and Joel both in the dream and in the waking world as it is an anchor of a location they both find separately but leave clues. And with each clue they leave they think they are leaving them and getting more info from the dream for themselves they begin to realize they are communicating with someone else down here.
 
-#### Bookstore
+---
 
-8 o'clock sun set Barnes & Noble or local seller.
+#### Dreamscape 02 - The Return
 
-#### Restaurant Kitchen
+Coming back to the hidden path into the labyrinth they each find the path somewhat cleared as if to show it has recently been explored.
+
+Some time exploring
+
+Upon leaving and feeling as though they had explored felt lost but found something in the tunnels. The only thing they each brought out of the tunnel was a tattered red cloth. Upon waking from that nights dream of exploration they only vaguely recall much if anything that happened while down somewhere they couldn't see but only just remember tying a red cloth on their wrists after finding it caught on the tangled and gnarled barbs and vines of a dense root.
+
+---
+
+#### Restaurant Kitchen - The Calling
 
 9 o'clock dinner service. Restaurant kitchen prep room. 
 
-#### Delivery Van
+---
+
+#### Bookstore - Alone No More
+
+8 o'clock sun set Barnes & Noble or local seller.
+
+---
+
+#### Delivery Van - Out of space
 
 Lost on back roads mid drive. You exit the vehicle to look around and can't recall where you are or where you are headed. Lit solely by the headlights the forest is dark and claustrophobic.
+
+---
+
+## Timeline
+
+- Hidden Path of the Fae - Labyrinth Shed 5yrs
+- Beach / Amusement Park 15yrs
+- Academia / Bookstore 25yrs
+- Garden of Night - Garden of Dreams 30yrs
+- Dream Lotus - Realm of Shadow 31yrs
+- Thought Wisps - Moonlit Wilderness 32yrs
+- Nocturne - World of Darkness 33yrs
+- Requiem - Dark Age 34yrs
+- Aria of Flame - Candles of the Inferno 35yrs
+- Sonnet of lost memories 36yrs
+- Contra Memoria - Expanse Contracts 37yrs
+- Epsilon - Addendum 38yrs
 
 ---
 
@@ -129,6 +184,7 @@ Lost on back roads mid drive. You exit the vehicle to look around and can't reca
 - [LOST](#chapter-6): Character backstories as moral testing grounds.
 - [Max Derrat - The Shining](https://youtu.be/0CZujrrwZPE) - How a Red Book Could Explain Everything
 - [Stanley Kubrick - The Shining](https://www.youtube.com/watch?v=0CZujrrwZPE) - Jack is absorbed into the photograph ending
+- [Your Name - Anime](https://en.wikipedia.org/wiki/Your_Name)
   
 ---
 
@@ -252,9 +308,13 @@ In the end, Silas and Liora's ancient rivalry evolves into a partnership of bala
 
 A perceptive soul caught between logic and longing. Skilled at pattern recognition but trapped in cycles of regret. The embodiment of "Good," Joel's quest for unity and redemption drives him to mend his connection with Satiya and confront the darkness that has consumed the alternate universe.
 
-## Satiya
+Joel can be hidden
+
+## Satiya / Satya / Sunali
 
 An empathic wanderer. Sees beauty in chaos and believes dreams carry hidden truths. Representing the "Bad," Satiya is drawn to the power of the Lovecraftian horrors and seeks to harness their energy to reshape reality according to her desires.
+
+Satya can blind with Gaze
 
 Kali **(research)**
 
@@ -262,11 +322,11 @@ Kali **(research)**
 
 The Scholar of Shadows: Silas embodies the enigmatic and contemplative side of this cosmic struggle. He has spent centuries observing and delving into the mysteries of existence. He prefers the subtlety of philosophical persuasion, weaving intricate riddles and guiding conversations that challenge perspectives. Silas believes that true growth comes from self-discovery and understanding, and he views art and introspection as potent tools for change.
 
-Silas is considered in the Pantheon as the "Lord of Lies" or "Lord of Illusions". Silas controls "The Veil" a barrier between reality on unreality. 
+Silas is considered in the Pantheon as the "Lord of Lies" or "Lord of Illusions". Silas controls "The Veil" a barrier between reality on unreality. Silas is also aligned with chaos as it is the essence of the unknown.
 
 ### Silas' Look
 
-Silas appears as a long and broad shadow with bright deep yellow into dark red eyes sat atop a formless head. Hard to tell if Silas has arms or is just "holding himself" in a death pose.
+Silas appears as a long and broad shadow with bright deep yellow into dark red eyes sat atop a formless head. Hard to tell if Silas has arms or is just "holding himself" in a death pose. With "his" voice sounding deep and rumbling like 
 
 ---
 
@@ -377,19 +437,30 @@ Mirror world. Char tries to look at themselves when they find a mirror and it cr
 
 It is mentioned in the opening of the book establishing the setting that Joel has a fish tank that has to fish in it. This will be used to trap Silas towards the end. Satya will be a host to the entity/demon and then touch the fish in the aquarium passing the essence of Silas into them. Joel has his mind wiped and is lost out in the world after being a host also where Silas, frustrated with the trouble Joel is causing and reluctance to help him find a way out into the world curses Joel with amnesia. Satya left to resolve how to trap Silas figures out that if she can lure him into her just for a second she can put Silas into the fish.
 
+After trapping Silas, Satya still needs to find Joel who has been left out in the world. Satya Eventually finds Joel, but reclaiming his consciousness causes him to lose his memory and has his personality replaced. Going from a warm empathetic goofy artist who has coded and painted the worlds he is trying to create and turns into an apathetic aloof and reckless person driven by passion without the baggage of a past filled with unrealized potential.
+
+END PART 1 (this would be how BOOK 1 ENDS)
+
+Satya is relieved to have Joel back but is initially concerned after some time how his tone and opinions have shifted. She is met with a choice and begins to fall in love with this new version. She begins to notice that Silas might still be inside Joel or have gotten to him.
+
 # Author Notes
 
-FFXV - Noctis & Luna. Night Sky Prince. World of Darkness. https://youtu.be/bGKS0q7wl08 [] Etro Godess of Sleep/Dreams/Death. Love after Death. Love & Death. Episodes. Locked in a Cystal. Partner explores and learns outside of the Crystal. Cacoon like death and rebirth. Coma. Recurring Dream. Waking Nightmare. 
+FFXV - Noctis & Luna. Night Sky Prince. World of Darkness. https://youtu.be/bGKS0q7wl08 [] Etro Goddess of Sleep/Dreams/Death. Love after Death. Love & Death. Episodes. Locked in a Crystal. Partner explores and learns outside of the Crystal. Cocoon like death and rebirth. Coma. Recurring Dream. Waking Nightmare. 
 
+
+# Tone
+
+Being very detailed and relative to culture and lifestyle of the early-mid 90s that is then reflected on with Nostalgia and reverence to try to put together how the two are being put together in a sort of shakespearian and victorian romance that fights with character tone and cadence when they are experiencing an altering experience.
 
 # Versions 
 
+- **Version 1.4** - Detail, Ending, History, Tone, Timeline, Summary
 - **Version 1.3** - Theme, Arc, tone
 - **Version 1.2** - Index & Theme
-- - **Version 1.1** - Corrected chapters, added rules, reference order, version tracking.
+- **Version 1.1** - Corrected chapters, added rules, reference order, version tracking.
 - **Version 1.0** - Original structure output
 
 
 ---
 
-Copyright © Joel Dombek 2026 v1.2
+Copyright © Joel Dombek 2026 v1.4
