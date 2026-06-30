@@ -192,6 +192,11 @@ Lost on back roads mid drive. You exit the vehicle to look around and can't reca
 
 Chapter 1 (rewrite) to set up the characters separately. Joel will be living his life with certain thoughts on his current life used to contrast his change throughout the story. He will then find a flyer for a book signing and with a curious nature he decides that perhaps reading the authors work prior to going to the signing. He then skims through some of the authors stories of medieval drama and magic and in the 2 weeks prior to the book signing he reads 2 of the authors books. Joel is fascinated by their historical depth of lore and how they focus on the stories of the characters and how the happenings of the world all seem to be in the background but so interesting he has so many questions about the world and less of the characters.
 
+
+## Ch.2 Rewrite
+
+Having both Joel & Satya begin remembering a field or a yard touching the forest that at it's edge has a shed or tree that at it's bottom has a hole that goes under the tree into a tiny cave. At a distance looks as though a child might be able to crawl into it but not an adult but upon finding it in the memory of a dream can recall going in and down the hole into the dark and dank ... and quiet. Below it through the tunnel you arrive at a cramped room that inside holds a mirror. Once one looks directly into the mirror locking eyes with them-self connect the consciousness of btoh Satya & Joel and upon doing so show how their branching structure of their lives was a cosmic tangle in the threads of fate from  a larger creator or possibly designed in a web to have the shared mind show a shard of its divine creator to create agents of chaos and imagination to untangle fate. While this itself is stunning it is what connections the threads of their choices even though seemingly the closest objective good outcome begins to have corruptions and other improbable things begin to occur.
+
 ---
 
 # Chapter 1: Kindred Minds in Ink
@@ -228,6 +233,10 @@ This serene and romantic date provides a glimpse into the connection between Joe
 (They discover the first realm. Introduction of Silas through taunts.)
 
 **Character Introduction:** Silas is a solitary figure who appears unexpectedly on the outskirts of the Umbral Grove. His eyes carry a mix of wisdom and weariness, and his presence seems to shift between that of a guide and an enigma. He claims to possess knowledge about the alternate universe, but his true intentions remain uncertain.
+
+Inside a dream Joel is wandering around the remnants of a memory of camping where while sitting with friends and walking through the woods Joel sees a small gap in the path and the combination of many feelings being triggered by the sense of friends he had deeply missed all being together in a state of time that nostolgia has crstalized into a joyful and emotionally complex experience decides to stop. To take a small rest and leans on a tree and then notices a decent sized rock to sit on. Knowing his friends were not far looks off towards where they were heading only to notice a figure. As Joel is panning across the under cut of trees up towards where a path went up and around. While doing so playing with the hair and to feel a breeze and just faintly hear our breathing along with the rustle of the forest sees but does not make any outwards reaction as the combination of actions made it seem as being distracted and dismissive, but panning across the cluster of trees sees a dark smudge of a person like figure but more closely like a persons shadow on a wall and meeting up with a figure snapping into the same spot.
+
+After the dream Joel proceeds with his day/week as he would is then reminded of this on the way to his job seeing someone standing in a harsh light casting a shadow.
 
 > **Chapter Quote:**  
 > *"Only those who doubt themselves are worthy to question the path."*
