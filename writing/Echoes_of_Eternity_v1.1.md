@@ -15,7 +15,7 @@ Trying to force themselves to recall its significance becomes impossible so they
 
 It is these visions thats brings them together but also sends them apart for a time, where they begin to meet in a yard at night inside a dream formed of a memory. It is through their shared past improbable free-will that allows them to see inside of time as a flat circle where the present and past exist as layers or just counter points on the disc of reality. Fluctuating, oscillating, rotating and gyrating, swirling collapsing and singing into a small fleck of light glints off of a tiny but outwards folding crumbling gold leaf opening like a lotus falling open with a burst of vibrant color matter colliding with antimatter. Two sides flipping, calling it in the air and exploding or collapsing drawing in and phasing out. 
 
-With their bracelets and carving on a tree only they would remember they get the deep sense of someone out there reaching out to them. It is one fatful day that they both go to the same supermarket but one is not wearing the bracelet that Joel sees Satya and how she comments on his bracelet she tells him of a story. A story that has what she believes is the dream where she found a bracelet and asks if he would come to her book signing before she is pulled away to address another customer at the pharmacy. It is at the signing which ends up being just a few coworkers and friends of hers showing up that Joel and her finally get to talk.
+With their bracelets and carving on a tree only they would remember they get the deep sense of someone out there reaching out to them. It is one fateful day that they both go to the same supermarket but one is not wearing the bracelet that Joel sees Satya and how she comments on his bracelet she tells him of a story. A story that has what she believes is the dream where she found a bracelet and asks if he would come to her book signing before she is pulled away to address another customer at the pharmacy. It is at the signing which ends up being just a few coworkers and friends of hers showing up that Joel and her finally get to talk.
 
  Satya begins to describe her story in her book and with awe and wonder Joel is deeply confounded and confused how her fiction lines up directly with his past and a very select memory from that past.
 
@@ -39,8 +39,10 @@ With their bracelets and carving on a tree only they would remember they get the
 - The Stand / The Dark Tower (Chapter 8)
 - LOST (Chapter 6)
 - Shin Megami Tensei
+  - Lunar Veil / Lunarvale (town in Persona 1)
 - Mullholand Drive
 - The Biblical Horrors We Ignore - [YouTube](https://youtu.be/Ntyy06Qd2VM)
+- Saturn & Dione, Rhea, and Tethys
 
 ## Index
 
@@ -67,6 +69,37 @@ With their bracelets and carving on a tree only they would remember they get the
 7. [Silas' Conversation IV: The Dreamer's Dilemma](#chapter-7)
 8. [Silas' Conversation V: Ouroboros Unveiled](#chapter-8)
 
+
+## Outline
+
+1. Mundane slice of life setup
+2. Standard dream with flashes of Fae door and dark field
+   1. Initial insert of Silas
+   2. Intriguing hole
+3. Chance meeting of Satya & Joel where they just pass each other 
+4. Dream follow up with insert of the other person in it
+5. Bookstore and sharing interests
+6. Follow up after odd personal feelings and dreams
+7. Romantic first embers leading into sharing a bed to sleep
+8. Shared dream
+9. Aftermath of shared emotional connection and describing each others dream
+10. Beginning trips into the Aether/World of Darkness
+    1. Pre-rendered background of dreams set up like a stage or set of a movie with it's edges held together by walls of darkness.
+11. tbd
+12. tbd
+13. tbd
+14. tbd
+15. tbd
+16. tbd
+17. tbd
+18. tbd
+19. With their trips to the Beyond Joel and Satya strategize a way to witness Silas. They follow him seeing the lives he is manipulating. While seeing Silas control a person Satya leaves The Beyond to find the person inhabited by Silas as Joel confronts Silas not knowing what will happen when they are cornered. With Silas distracted and Satya out finding a woman believed to be out in the city and only known by the distant sounds of a bus announcing its stop does she narrow down the inhabitant host. Satya watches as the host woman gets off a bus and walks up a hill to her what Satya can only think would be the host's home. Still not 100% sure as well as also reluctant and unsure what actions she may need to take and how best to confront the inhabitant.
+20. Seeing the woman, Silas was drawn to her. He needed her. Joel close by as if to be inside of the same 360 degree IMAX theater Silas's POV was that of a mist or odor and it was once the woman smelled and contacted it she was taken over. It was as though she had put on corrective lenses as Silas peered through, not just witnessing, but now beginning to permeating her mind.
+21. Satya waits for the host woman to go inside where any noise from here approach could be masked to determine how best to get inside and then figure out a way to subdue it. The inhabited woman goes into the kitchen, opening the fridge she reaches in side to grab food out and sits (add detail around the foods and the gross nature she starts devouring it) on the floor gorging on leftovers and toppings. Biting into condiment bottles as though they were dog toys filled with bbq sauce.
+22. tbd (more detail)
+23. As the host woman sits there smiling, it is then that Joel hears Satya in the space that Joel envelopes Silas fully into the fog of reality. Now pushed almost fully into the woman she begins to seize and convulse in pain. Silas not having fully enveloped a host in ages was feeling all of the emotions of guilt, want, fear, and overall pain of existence as though it was Silas having the body but not having the pathways closed to limit the experience overload.
+24. Then as the woman is writhing in pain Satya lunges at her and putting her into a choke hold. With the woman being held tight coughing up all of the food she had consumed the host womans eye bulging from exertion, it twisted it's head around and peering desperately from the corners of its eyes to meet Satya gaze looking at her.
+
 ---
 
 ## Future State
@@ -75,6 +108,8 @@ With their bracelets and carving on a tree only they would remember they get the
 - Requiem
 - Aria
 - Sonnet
+- Reprise
+- 
 
 ## Theme
 
@@ -327,11 +362,17 @@ Satya can blind with Gaze
 
 Kali **(research)**
 
+---
+
 ## Silas
 
 The Scholar of Shadows: Silas embodies the enigmatic and contemplative side of this cosmic struggle. He has spent centuries observing and delving into the mysteries of existence. He prefers the subtlety of philosophical persuasion, weaving intricate riddles and guiding conversations that challenge perspectives. Silas believes that true growth comes from self-discovery and understanding, and he views art and introspection as potent tools for change.
 
-Silas is considered in the Pantheon as the "Lord of Lies" or "Lord of Illusions". Silas controls "The Veil" a barrier between reality on unreality. Silas is also aligned with chaos as it is the essence of the unknown.
+Silas is considered in the Pantheon as the "Lord of Lies" or "Lord of Illusions". Silas controls "The Veil" a barrier between reality on unreality. Silas is also aligned with chaos as it is the essence of the unknown. Silasis able to inhabit the "Shadow" of a person.
+
+Silas's goal it to lure and tempt the main characters to create the gap or hole reality so that Silas can transfer through. It wasn't until Silas finds Joel and Satya being able to have visions outside of the veil where Silas is bound with thick impossibly heavy chains.
+
+"Being of both alien and eidolon we arrive from beyond."
 
 ### Silas' Look
 
@@ -446,7 +487,11 @@ Mirror world. Char tries to look at themselves when they find a mirror and it cr
 
 It is mentioned in the opening of the book establishing the setting that Joel has a fish tank that has to fish in it. This will be used to trap Silas towards the end. Satya will be a host to the entity/demon and then touch the fish in the aquarium passing the essence of Silas into them. Joel has his mind wiped and is lost out in the world after being a host also where Silas, frustrated with the trouble Joel is causing and reluctance to help him find a way out into the world curses Joel with amnesia. Satya left to resolve how to trap Silas figures out that if she can lure him into her just for a second she can put Silas into the fish.
 
-After trapping Silas, Satya still needs to find Joel who has been left out in the world. Satya Eventually finds Joel, but reclaiming his consciousness causes him to lose his memory and has his personality replaced. Going from a warm empathetic goofy artist who has coded and painted the worlds he is trying to create and turns into an apathetic aloof and reckless person driven by passion without the baggage of a past filled with unrealized potential.
+ver 1. After trapping Silas, Satya still needs to find Joel who has been left out in the world. Satya Eventually finds Joel, but reclaiming his consciousness causes him to lose his memory and has his personality replaced. Going from a warm empathetic goofy artist who has coded and painted the worlds he is trying to create and turns into an apathetic aloof and reckless person driven by passion without the baggage of a past filled with unrealized potential.
+
+ver 2. Joel is lost out in the world with his mind broken and fragmented. Satya is then forced to live alone for a time and can only feel his presence when she sleeps and returns to the Veil to feel close to him laying next to each other in a lonely embrace she goes to bed each night but not before placing a mask on the pillow next to hers in hopes to remind her each morning or time waking that she needs to find the person she loves that has their psyche left in the smallest fragments she has to cling to with the hope they will find each other again.
+
+https://youtu.be/9nmGLMZwubo
 
 END PART 1 (this would be how BOOK 1 ENDS)
 
@@ -454,7 +499,14 @@ Satya is relieved to have Joel back but is initially concerned after some time h
 
 # Author Notes
 
-FFXV - Noctis & Luna. Night Sky Prince. World of Darkness. https://youtu.be/bGKS0q7wl08 [] Etro Goddess of Sleep/Dreams/Death. Love after Death. Love & Death. Episodes. Locked in a Crystal. Partner explores and learns outside of the Crystal. Cocoon like death and rebirth. Coma. Recurring Dream. Waking Nightmare. 
+1. FFXV - Noctis & Luna. Night Sky Prince. World of Darkness. https://youtu.be/bGKS0q7wl08 [] Etro Goddess of Sleep/Dreams/Death. Love after Death. Love & Death. Episodes. Locked in a Crystal. Partner explores and learns outside of the Crystal. Cocoon like death and rebirth. Coma. Recurring Dream. Waking Nightmare.
+
+2. Avoid mentioning any contemporary technology. Being vague around what time period it takes place in makes it seem more timeless. Vehicles and models for visual detail and distinction works. Avoid referring to anything in it's explanation such as:
+   1. > Seeing the woman, Silas was drawn to her. He needed her. Joel close by as if to be inside of the same 360 degree IMAX theater Silas's POV was that of a mist or odor and it was once the woman smelled and contacted it she was taken over.
+
+3. Leave the details on the wider lore of the Fae and Pantheon of gods ambiguous. Hint at what some of the rules of the story are and what can and cannot happen:
+   1. Satya and Joel cannot read each others minds, they must both be asleep to interact.
+   2. Satya and Joel can influence each others memories and insert messages and clues but they must be noteworthy and substantial.
 
 
 # Tone

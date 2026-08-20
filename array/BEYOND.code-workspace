@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "../../EXO"
+		},
+		{
+			"path": "../../../My Games/Path of Exile 2"
 		}
 	],
 	"settings": {
@@ -52,6 +55,8 @@
 			"JDesign",
 			"joeldom",
 			"keypresses",
+			"Lunarvale",
+			"Megami",
 			"MMXXIV",
 			"MMXXV",
 			"mozallowfullscreen",
@@ -62,9 +67,11 @@
 			"preheader",
 			"Reactable",
 			"rushstack",
+			"Satya",
 			"shortlink",
 			"Srollspy",
 			"Swope",
+			"Tensei",
 			"thumbsup",
 			"TIMEFRAME",
 			"trimenu",
