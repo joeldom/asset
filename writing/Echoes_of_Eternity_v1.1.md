@@ -73,6 +73,7 @@ With their bracelets and carving on a tree only they would remember they get the
 ## Outline
 
 1. Mundane slice of life setup
+   1. Joel cold open waking up
 2. Standard dream with flashes of Fae door and dark field
    1. Initial insert of Silas
    2. Intriguing hole
@@ -82,7 +83,7 @@ With their bracelets and carving on a tree only they would remember they get the
 6. Follow up after odd personal feelings and dreams
 7. Romantic first embers leading into sharing a bed to sleep
 8. Shared dream
-9. Aftermath of shared emotional connection and describing each others dream
+9.  Aftermath of shared emotional connection and describing each others dream
 10. Beginning trips into the Aether/World of Darkness
     1. Pre-rendered background of dreams set up like a stage or set of a movie with it's edges held together by walls of darkness.
 11. tbd
@@ -136,6 +137,8 @@ The effects or powers of the keepers vary from influence to sleep, dreams, lies,
 
 Apartment late at night bedside table lamp casting a feint glow. Awakening out in the living room or in a chair in office feeling disoriented the light in the dim room casts long shadows. The room is open with a TV and several book shelves holding books, games, cds, and magic the gathering cards. Behind the couch along the far wall opposite the TV is an aquarium that has 2 fish in it.
 
+> COLD OPEN: You feel your toes and feet slip out from beneath the covers. Your head flops over as does a steak half-way into grilling it, its the heat. You nestle your head into the other side of the pillow finding a cool portion to continue to finish the dream you were having. You begin to hear a voice then a pair of voices as though a conversation had you thrown into it mid reply. WYour hands pull the covers to meet the exposed part of your neck you lay there comfortable but with your eyes closed you begin to not just hear the voices clearer but recognize now what it is they are discussing
+
 ---
 
 #### Dreamscape 01
@@ -177,6 +180,10 @@ Upon leaving and feeling as though they had explored felt lost but found somethi
 #### Delivery Van - Out of space
 
 Lost on back roads mid drive. You exit the vehicle to look around and can't recall where you are or where you are headed. Lit solely by the headlights the forest is dark and claustrophobic.
+
+#### Silas Humbling them
+
+First meeting or seeing him they try to speak to him but get no reply. Hulking 
 
 ---
 
