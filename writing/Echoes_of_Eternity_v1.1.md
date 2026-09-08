@@ -3,7 +3,7 @@
 
 ## Preamble
 
-A metaphysical journey through an alternate dream-realm conjured by shared imagination and subconscious fears, *Echoes of Eternity* explores cosmic horror, human connection, and existential philosophy through the lens of psychological storytelling. Combining the thematic influences of David Lynch, Carl Jung, Friedrich Nietzsche, Stephen King's *The Stand*, Mark Z. Danielewski's *House of Leaves*, and series like *LOST* and *The Dark Tower*, the narrative spins a web of mystery and introspection.
+A metaphysical journey through an alternate dream-realm conjured by shared imagination and subconscious fears, *Echoes of Eternity* explores cosmic horror, human connection, and existential philosophy through the lens of psychological storytelling. Combining the thematic influences of David Lynch, Carl Jung, Friedrich Nietzsche, Stephen King's *The Stand*, Mark Z. Danielewski's *House of Leaves*, and series like *LOST*, *The Dark Tower*, and *Sandman Series*; the narrative spins a web of mystery and introspection.
 
 ## Summary
 
@@ -83,7 +83,7 @@ With their bracelets and carving on a tree only they would remember they get the
 6. Follow up after odd personal feelings and dreams
 7. Romantic first embers leading into sharing a bed to sleep
 8. Shared dream
-9.  Aftermath of shared emotional connection and describing each others dream
+9. Aftermath of shared emotional connection and describing each others dream
 10. Beginning trips into the Aether/World of Darkness
     1. Pre-rendered background of dreams set up like a stage or set of a movie with it's edges held together by walls of darkness.
 11. tbd
@@ -100,6 +100,23 @@ With their bracelets and carving on a tree only they would remember they get the
 22. tbd (more detail)
 23. As the host woman sits there smiling, it is then that Joel hears Satya in the space that Joel envelopes Silas fully into the fog of reality. Now pushed almost fully into the woman she begins to seize and convulse in pain. Silas not having fully enveloped a host in ages was feeling all of the emotions of guilt, want, fear, and overall pain of existence as though it was Silas having the body but not having the pathways closed to limit the experience overload.
 24. Then as the woman is writhing in pain Satya lunges at her and putting her into a choke hold. With the woman being held tight coughing up all of the food she had consumed the host womans eye bulging from exertion, it twisted it's head around and peering desperately from the corners of its eyes to meet Satya gaze looking at her.
+25. tbd
+26. tbd
+27. tbd
+28. tbd
+29. tbd
+30. tbd
+31. tbd
+32. tbd
+33. tbd
+34. Silas seeing in their dreams sees them sharing thoughts and memories and fantasies. Once and then a few more flashes of a time in their young childhood he sees them walk outside of their home, it is very dark and apart from the glow of the moon very hard to see outside of the perimeter of themselves. He watches them wander around and recollect of a backyard mostly flat but banking down to a lower road gradually through brush and foliage. 15 feet outside of the back of the house was a big apple tree that had wood slats hammered into it to climb into a comfortable V of the tree which sat about 7-8 feet in the air. Out of the house and right led off to a hill that at it's crest had the road to the front of the house curve around for 1/4 of a mile and was where the Y (rotated CW 90 degrees) in the road split and at the corner had another large three that was a modestly thick birch. Aside from the tree there was not much remarkable in the backyard. Was this a memory? Joel stood close to Satya. They both stood motionless as though they had come out of the house mer seconds ago, but it wasn't seconds. Joel and Satya stayed there for even in a dream felt like a decent while both taking in what they could make out and as they did their eyes adjusted as the dark seemed to recede just a litter further out than it had moments ago they were both slowing panning their vision across. As the radius of their presence fills Joel begins to lead Satya over the the right of the house towards the incline of the hill towards the intersection 100 yards down heading to the edge of the brush on the underside of the hill through the wide untamed expanse of the edges of the proper section of yard walking towards a bundle of tree hedge and bush tangle. Nearing it Satya begins to notice a rock leant over and braced by another both resting on roots enclosing them, but not completely. The nearer they got to the small gap the bigger it seemed to look. What at first looked like a hole big enough for a squirrel was somehow staying or looking like it was knee height for an adult and surely large enough that they could crawl into...and as they reached it Joel knelt down and crawled in causing Satya to pause long enough for her to no longer see him but begin to follow.
+35. What Silas had just seen was Joel bring Satya into his memory and masked in visual distortion and trickery of perspective went into tunnel of the Fae to find the mirror. Joel was showing her his dream. The one that started all of this. That his mind had covered up as surely whatever hole might of if ever been in the backyard of his childhood of which he had a dream of that led him into a pandora's box of memory dream and reality.
+36. Silas witnesses them go in. Joel without words begins to best describe what the mirror he peered into as best as he can reconstruct it. Was this the catalyst dream? Or the faint reconstruction of it? Perceiving that they must of looked into a mirror-like object. This idea stirs Silas's emotions. 
+37. tbd
+38. tbd
+39. Silas begins to understand. A Fae had pulled his memory out so he could not recall how the pair got put together. They had shown him a dark mirror that pulled his visage out of a phase of the aether. They hid the mirror in a tiny tunnel under brush and overgrowth on the forgotten side of a backyard (for Joel) and in a dream that was blank and empty Joel walked out into the backyard (in a dream / night) and found this buried memory in a dream and actually looked into it. What he saw was through the sound of a jet that always seems to be nearing humming and shaking louder a tunnel of light behind them flows back at immense speed going through where they had just come from through the house back into them laying down it going dark. The smallest flicker of light appeared but there was no face in the mirror now.
+40. tbd
+41. 
 
 ---
 
@@ -381,9 +398,13 @@ Silas's goal it to lure and tempt the main characters to create the gap or hole 
 
 "Being of both alien and eidolon we arrive from beyond."
 
+The Veil and subsequent door or hole is what Silas has been seeking. He does not know exactly why he is drawn to it but comes to understand the mirror that captured his visage which contained sprinkles of the dream he had given both to Joel and Satya contained a concept of an ageless truth and unification of being of thought mind and imagination that if shared could unify 2 beings with perception that had the flavor of lies but was inhabited by diametrically opposite yet precisely similar concepts of creation and destruction in thought and imagination to weave concept into form. Memory into feeling. Dream into reality. It was as though the concept of a "lie" had two sides on the same coin and was just a blend of interpretation.
+
 ### Silas' Look
 
-Silas appears as a long and broad shadow with bright deep yellow into dark red eyes sat atop a formless head. Hard to tell if Silas has arms or is just "holding himself" in a death pose. With "his" voice sounding deep and rumbling like 
+Silas appears as a long and broad shadow with bright deep yellow into dark red eyes sat atop a formless head. Hard to tell if Silas has arms or is just "holding himself" in a death pose. With "his" voice sounding deep and rumbling like. 
+
+Closest visual is of the Archon from Path of Exile 2 floating just slightly above the ground in a wisp of shadow shade formless outline.
 
 ---
 
