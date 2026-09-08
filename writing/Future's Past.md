@@ -19,9 +19,13 @@
 
 ---
 
-## Summary
+wakes to find dad missing > weeks go by > father dies > funerla > daughter finds and skims files on  PC > skims again stumbles on a weird thing > Remembers his hunting spot > Goes there in afternoon > Afternoon turns to night > 
+
+
+### Summary
 
 #### PT.1
+
 Cold open. Daughter wakes to hear her father leave the house. Still not fully awake it takes her a second to realize what she heard. It was enough to wake her. She stretched gently and rustled in the blankets. Finding her phone she glances at the time. It was 4am. Closing the bright screen and trying to let her eyes readjust. She pulls the blankets aside and adjusts her shorts and slowly walks to her door she carefully finds the knob and opens it fully. She looks down the hall to the stairs. There were no lights on. She paused wondering if she had heard what she thought she heard. She heads to the stairs down the hallway. Leaving the lights off as when she peered down her eyes had almost adjusted. Reaching the stairs she found the step and went down gaining a little momentum in her lax half dozed in the dark movement letting her wait carry her legs and the one arms on the banister guiding her and slowing her every few couple of stairs.
 
 #### PT.2
