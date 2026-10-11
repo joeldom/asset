@@ -47,8 +47,6 @@ src: https://github.com/uloco/theme-bluloco-dark/blob/main/README.md?plain=1
     --bright-green: #14E158;
     --mint-green: #2E8C5F;
     --pale-olive: #648476;
-    --bright-orange: rgba(255, 111, 63, 0.5);
-    --orange: #FF6F3F;
     --dark-olive: #1A1E1C;
     --black: #0A0C0E;
     --white: #FFFFFF;
@@ -64,6 +62,8 @@ src: https://github.com/uloco/theme-bluloco-dark/blob/main/README.md?plain=1
     --warm-black: #2D2828;
     --deep-root: #004161;
     --euphoria: #00050F;
+    --orange: #FF6F3F;
+    --bright-orange: rgba(255, 111, 63, 0.5);
     --euphoria-bg: rgba(0, 5, 15, 1);
     --trans-black: rgba(0, 0, 0, 0.5);
     /* properties */
